@@ -4,6 +4,7 @@ import "./globals.css";
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "react-hot-toast";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Suno AI Music | Revolutionary AI-Driven Music Creation Platform",
@@ -28,12 +29,17 @@ export default function RootLayout({
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
-          fontSans.variable
+          fontSans.variable,
         )}
       >
         {children}
         <Toaster />
       </body>
+      <Script
+        async
+        src="https://umami.runningpig.top/script.js"
+        data-website-id="3d2f15fa-396b-4b80-8c92-a8ba9fba33b4"
+      ></Script>
     </html>
   );
 }
