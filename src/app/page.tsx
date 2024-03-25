@@ -5,10 +5,12 @@ import Link from "next/link";
 import AiInputForm from "./_components/ai-generate-form";
 import { AccordionFAQ } from "@/components/common/faq";
 import Footer from "@/components/common/footer";
+import MusicCards from "./_components/music-card";
+import { HoverMusicCard } from "@/components/hover-music-card";
 
 export default function Home() {
   return (
-    <main className=" container min-h-screen p-6 md:p-12">
+    <main className=" container mt-10 min-h-screen p-6 md:p-12">
       <Header />
 
       <h1 className="pt-10 text-center font-bold md:text-3xl">Suno AI Music</h1>
@@ -19,6 +21,10 @@ export default function Home() {
       </p>
 
       <AiInputForm />
+
+      <MusicCards />
+
+      {/* <HoverMusicCard /> */}
 
       <AccordionFAQ />
 
