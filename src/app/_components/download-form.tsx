@@ -24,7 +24,7 @@ const formSchema = z.object({
     .regex(/^https:\/\/app\.suno\.ai\/song\/([a-zA-Z0-9-]+)(?=\/|$)/),
 });
 
-async function getAudioBlob(url: string): Promise<Blob> {
+export async function getAudioBlob(url: string): Promise<Blob> {
   const response = await fetch(url);
   if (!response.ok) {
     throw new Error(`Failed to fetch audio: ${response.statusText}`);

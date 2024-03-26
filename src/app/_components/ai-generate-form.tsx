@@ -13,7 +13,7 @@ export default function AiInputForm({}: Props) {
     const formData = new FormData(e.currentTarget);
     const inputValue = formData.get("inputName") as string; // 'inputName' 是输入元素的 name 属性
 
-    toast.success(`submit success: ${inputValue}`);
+    toast.success(`we are working on it, coming soon!`);
     // 这里可以处理 inputValue，例如发送到 API
   };
   return (

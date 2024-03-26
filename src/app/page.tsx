@@ -1,8 +1,12 @@
 import AiInputForm from "./_components/ai-generate-form";
 import { AccordionFAQ } from "@/components/common/faq";
 import MusicCards from "./_components/music-card";
-
+import MusicStyle from "./_components/music-style";
+import songData from "./_data/data.json";
+import { SunoSong } from "@/types/song";
 export default function Home() {
+  const sunoSong = songData as SunoSong[];
+
   return (
     <main className="mt-10 min-h-screen">
       <h1 className="pt-10 text-center font-bold md:text-3xl">Suno AI Music</h1>
@@ -14,8 +18,9 @@ export default function Home() {
 
       <AiInputForm />
 
-      <MusicCards />
+      <MusicCards sunoSong={sunoSong} />
 
+      <MusicStyle />
       {/* <HoverMusicCard /> */}
 
       <AccordionFAQ />

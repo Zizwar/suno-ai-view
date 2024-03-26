@@ -1,0 +1,520 @@
+[
+  {
+    "type": "Danceable",
+    "list": [
+      { "desc": "Upbeat and rhythmical, made for dancing.", "value": "Dance" },
+      {
+        "desc": "Joyful and celebratory, often associated with parties and gatherings.",
+        "value": "Festive"
+      },
+      {
+        "desc": "Funky and rhythmic, making it catchy and easy to groove to.",
+        "value": "Groovy"
+      },
+      {
+        "desc": "Moderate tempo with a steady beat, suitable for casual dancing.",
+        "value": "Mid-Tempo"
+      },
+      {
+        "desc": "Complex rhythms that deviate from the standard beat, creating a dynamic sound.",
+        "value": "Syncopated"
+      },
+      {
+        "desc": "Slightly intoxicating, creating a light-hearted and fun atmosphere.",
+        "value": "Tipsy"
+      }
+    ]
+  },
+  {
+    "type": "Dark",
+    "list": [
+      {
+        "desc": "Creates a moody and immersive atmosphere, often with a sense of mystery.",
+        "value": "Atmospheric"
+      },
+      {
+        "desc": "Lacks warmth, creating a chilling and isolated feeling.",
+        "value": "Cold"
+      },
+      {
+        "desc": "Intense and brooding, often conveying a sense of menace or foreboding.",
+        "value": "Dark"
+      },
+      {
+        "desc": "Heavy and oppressive, evoking despair and futility.",
+        "value": "Doom"
+      },
+      {
+        "desc": "Theatrical and powerful, with strong emotional pull.",
+        "value": "Dramatic"
+      },
+      {
+        "desc": "Eerie and unsettling, often conveying a sense of evil or danger.",
+        "value": "Sinister"
+      }
+    ]
+  },
+  {
+    "type": "Eclectic",
+    "list": [
+      {
+        "desc": "Experimental and avant-garde, breaking conventional music boundaries.",
+        "value": "Art"
+      },
+      {
+        "desc": "Fuses different styles and genres, creating a unique and modern sound.",
+        "value": "Nü"
+      },
+      {
+        "desc": "Complex structures and innovative sounds, often with a sophisticated approach.",
+        "value": "Progressive"
+      },
+      {
+        "desc": "Unconventional and quirky, deviating from mainstream music norms.",
+        "value": "Unusual"
+      }
+    ]
+  },
+  {
+    "type": "Emotion",
+    "list": [
+      {
+        "desc": "Inspiring and uplifting, with a grand and anthemic quality.",
+        "value": "Anthemic"
+      },
+      {
+        "desc": "Expressive and touching, capable of invoking deep feelings.",
+        "value": "Emotional"
+      },
+      {
+        "desc": "Joyful and cheerful, creating a positive and light-hearted vibe.",
+        "value": "Happy"
+      },
+      {
+        "desc": "Exuberant and lively, filled with joy and celebration.",
+        "value": "Jubilant"
+      },
+      {
+        "desc": "Sombre and reflective, often conveying a sense of sadness or introspection.",
+        "value": "Melancholy"
+      },
+      {
+        "desc": "Associated with feelings of sadness or wistfulness.",
+        "value": "Sad"
+      }
+    ]
+  },
+  {
+    "type": "Hard",
+    "list": [
+      {
+        "desc": "Intense and forceful, with a strong and energetic presence.",
+        "value": "Aggressive"
+      },
+      {
+        "desc": "Powerful and impactful, designed to resonate deeply with the listener.",
+        "value": "Banger"
+      },
+      {
+        "desc": "Robust and commanding, often with a driving force behind the music.",
+        "value": "Power"
+      },
+      {
+        "desc": "Designed to fill large venues, creating a grand and expansive sound.",
+        "value": "Stadium"
+      },
+      {
+        "desc": "Rhythmic and forceful, often with a pounding beat.",
+        "value": "Stomp"
+      }
+    ]
+  },
+  {
+    "type": "Lyrical",
+    "list": [
+      {
+        "desc": "Evokes the grandeur of Broadway productions, with a focus on vocal performance.",
+        "value": "Broadway"
+      },
+      {
+        "desc": "Intimate and expressive, often featuring narrative storytelling.",
+        "value": "Cabaret"
+      },
+      {
+        "desc": "Smooth and mellow, perfect for relaxed and laid-back settings.",
+        "value": "Lounge"
+      },
+      {
+        "desc": "Dramatic and operatic, showcasing powerful vocal performances.",
+        "value": "Operatic"
+      },
+      {
+        "desc": "Focuses on storytelling, often with detailed and complex lyrics.",
+        "value": "Storytelling"
+      },
+      {
+        "desc": "Emotional and intimate, often featuring torch songs and heartfelt performances.",
+        "value": "Torch-Lounge"
+      },
+      {
+        "desc": "Dramatic and expressive, often involving elaborate productions.",
+        "value": "Theatrical"
+      },
+      {
+        "desc": "Focuses on the narrative and storytelling, often with a folk influence.",
+        "value": "Troubadour"
+      },
+      {
+        "desc": "Associated with the glamour and glitz of Las Vegas performances.",
+        "value": "Vegas"
+      }
+    ]
+  },
+  {
+    "type": "Magical",
+    "list": [
+      {
+        "desc": "Light and airy, creating a sense of otherworldliness.",
+        "value": "Ethereal"
+      },
+      {
+        "desc": "Grand and imposing, often conveying a sense of awe and wonder.",
+        "value": "Majestic"
+      },
+      {
+        "desc": "Enigmatic and intriguing, often creating a sense of mystery and curiosity.",
+        "value": "Mysterious"
+      }
+    ]
+  },
+  {
+    "type": "Minimal",
+    "list": [
+      {
+        "desc": "Focus on ambiance and atmosphere, often with sparse instrumentation.",
+        "value": "Ambient"
+      },
+      {
+        "desc": "Focus on visual storytelling through music, often used in film and television.",
+        "value": "Cinematic"
+      },
+      {
+        "desc": "Intense and focused, often with a strong rhythmic component.",
+        "value": "Heat"
+      },
+      {
+        "desc": "Stripped-down and bare, emphasizing the essential parts of the music.",
+        "value": "Minimal"
+      },
+      {
+        "desc": "Slow and deliberate, often with an emphasis on mood and atmosphere.",
+        "value": "Slow"
+      },
+      {
+        "desc": "Sparse and uncluttered, often with a focus on simplicity and minimalism.",
+        "value": "Sparse"
+      }
+    ]
+  },
+  {
+    "type": "Party",
+    "list": [
+      {
+        "desc": "Upbeat and lively, often associated with German festive music.",
+        "value": "German Schlager"
+      },
+      {
+        "desc": "Extravagant and flamboyant, with a strong sense of style and presentation.",
+        "value": "Glam"
+      },
+      {
+        "desc": "Sparkling and lively, often associated with celebration and fun.",
+        "value": "Glitter"
+      },
+      {
+        "desc": "Funky and rhythmic, making it catchy and easy to groove to.",
+        "value": "Groovy"
+      }
+    ]
+  },
+  {
+    "type": "Soft",
+    "list": [
+      {
+        "desc": "Quiet and soothing, creating a calm and peaceful atmosphere.",
+        "value": "Ambient"
+      },
+      {
+        "desc": "Intimate and personal, often with a gentle and soft sound.",
+        "value": "Bedroom"
+      },
+      {
+        "desc": "Mellow and laid-back, often with a dreamy and ethereal quality.",
+        "value": "Chillwave"
+      },
+      {
+        "desc": "Light and airy, creating a sense of etherealness and serenity.",
+        "value": "Ethereal"
+      },
+      {
+        "desc": "Close and personal, often with a warm and inviting sound.",
+        "value": "Intimate"
+      },
+      {
+        "desc": "Mellow and subdued, often with a focus on emotional depth.",
+        "value": "Heat"
+      },
+      {
+        "desc": "Sad and slow, often with a focus on emotional expression and depth.",
+        "value": "Sadcore"
+      }
+    ]
+  },
+  {
+    "type": "Weird",
+    "list": [
+      {
+        "desc": "Playful and unusual, often with a whimsical and eccentric style.",
+        "value": "Carnival"
+      },
+      {
+        "desc": "Harsh and jarring, often with a heavy use of distortion and effects.",
+        "value": "Distorted"
+      },
+      {
+        "desc": "Erratic and unpredictable, often with a disjointed and fragmented sound.",
+        "value": "Glitchy"
+      },
+      {
+        "desc": "Spooky and eerie, creating a sense of unease and mystery.",
+        "value": "Haunted"
+      },
+      {
+        "desc": "Empty and echoing, often creating a sense of isolation and desolation.",
+        "value": "Hollow"
+      },
+      {
+        "desc": "Quirky and playful, often with a mechanical and repetitive sound.",
+        "value": "Musicbox"
+      },
+      {
+        "desc": "Unpredictable and chaotic, often with a sense of spontaneity and improvisation.",
+        "value": "Random"
+      }
+    ]
+  },
+  {
+    "type": "Jazz/Soul",
+    "list": [
+      {
+        "desc": "Complex and fast-paced, with intricate melodies and rhythms.",
+        "value": "Bebop"
+      },
+      {
+        "desc": "Soulful and spiritual, often with powerful vocals and emotional depth.",
+        "value": "Gospel"
+      },
+      {
+        "desc": "A fusion of jazz with electronic music, offering a modern twist on traditional sounds.",
+        "value": "Electro"
+      },
+      {
+        "desc": "A unique blend of jazz with a specific and innovative style.",
+        "value": "Frutiger Aero"
+      },
+      {
+        "desc": "Smooth and expressive, often featuring improvisation and complex chord progressions.",
+        "value": "Jazz"
+      },
+      {
+        "desc": "A fusion of jazz and Latin music, featuring complex rhythms and passionate melodies.",
+        "value": "Latin Jazz"
+      },
+      {
+        "desc": "Soulful and groovy, blending elements of jazz, soul, and hip hop.",
+        "value": "RnB"
+      },
+      {
+        "desc": "Deep and expressive, often with strong vocals and an emphasis on emotion and soul.",
+        "value": "Soul"
+      }
+    ]
+  },
+  {
+    "type": "Latin",
+    "list": [
+      {
+        "desc": "Smooth and rhythmic, often featuring gentle melodies and a laid-back feel.",
+        "value": "Bossa Nova"
+      },
+      {
+        "desc": "A vibrant mix of jazz and Latin rhythms, characterized by its lively and energetic sound.",
+        "value": "Latin Jazz"
+      },
+      {
+        "desc": "Upbeat and festive, with a focus on dance and traditional rhythms from Brazil.",
+        "value": "Forró"
+      },
+      {
+        "desc": "Energetic and percussive, often featuring fast rhythms and vibrant brass sections.",
+        "value": "Mambo"
+      },
+      {
+        "desc": "Lively and rhythmic, known for its vibrant dance styles and strong percussion.",
+        "value": "Salsa"
+      },
+      {
+        "desc": "Dramatic and passionate, often characterized by its distinctive rhythm and dance style.",
+        "value": "Tango"
+      }
+    ]
+  },
+  {
+    "type": "Reggae",
+    "list": [
+      {
+        "desc": "A fusion of West African rhythms and jazz, known for its energetic and groovy sound.",
+        "value": "Afrobeat"
+      },
+      {
+        "desc": "Upbeat and energetic, often with a strong beat and influential in dance music.",
+        "value": "Dancehall"
+      },
+      {
+        "desc": "Characterized by its offbeat rhythms and heavy bass, often with a laid-back and smooth sound.",
+        "value": "Dub"
+      },
+      {
+        "desc": "Relaxed and rhythmic, with a distinctive offbeat and smooth, melodic lines.",
+        "value": "Reggae"
+      },
+      {
+        "desc": "A modern blend of reggae and hip hop, known for its catchy rhythms and upbeat style.",
+        "value": "Reggaeton"
+      }
+    ]
+  },
+  {
+    "type": "Metal",
+    "list": [
+      {
+        "desc": "Intense and bleak, with fast tempos and a focus on aggression and darkness.",
+        "value": "Black Metal"
+      },
+      {
+        "desc": "A fusion of death metal and hardcore punk, known for its intensity and aggression.",
+        "value": "Deathcore"
+      },
+      {
+        "desc": "Heavy and aggressive, often with complex structures and dark themes.",
+        "value": "Death Metal"
+      },
+      {
+        "desc": "Loud and powerful, with strong riffs and a focus on rock elements.",
+        "value": "Heavy Metal"
+      },
+      {
+        "desc": "Combines the intensity of metal with electronic and hip hop influences.",
+        "value": "Heavy Metal Trap"
+      },
+      {
+        "desc": "Aggressive and intense, blending elements of hardcore and heavy metal.",
+        "value": "Metalcore"
+      },
+      {
+        "desc": "Modern and rhythmic, often with a mix of alternative and heavy metal elements.",
+        "value": "Nu Metal"
+      },
+      {
+        "desc": "Epic and powerful, with strong melodies and thematic elements.",
+        "value": "Power Metal"
+      }
+    ]
+  },
+  {
+    "type": "Popular",
+    "list": [
+      {
+        "desc": "Catchy and mainstream, often with a broad appeal and simple melodies.",
+        "value": "Pop"
+      },
+      {
+        "desc": "Energetic and rhythmic, often with a strong beat and danceable melodies.",
+        "value": "Dance Pop"
+      },
+      {
+        "desc": "A blend of pop and rock, often with catchy hooks and a strong rhythm section.",
+        "value": "Pop Rock"
+      },
+      {
+        "desc": "Characterized by its blend of pop elements with Korean cultural influences.",
+        "value": "Kpop"
+      },
+      {
+        "desc": "Japanese pop music, known for its unique blend of Western and Japanese styles.",
+        "value": "Jpop"
+      },
+      {
+        "desc": "Soulful and rhythmic, with a blend of pop, soul, and hip hop elements.",
+        "value": "RnB"
+      },
+      {
+        "desc": "A blend of pop and electronic music, known for its catchy melodies and synthesized sounds.",
+        "value": "Synthpop"
+      }
+    ]
+  },
+  {
+    "type": "Rock",
+    "list": [
+      {
+        "desc": "Rooted in the 1960s and 1970s, known for its strong and steady beats, guitar-driven sound.",
+        "value": "Classic Rock"
+      },
+      {
+        "desc": "Combines the rawness of blues with the energy of rock, featuring intense guitar work.",
+        "value": "Blues Rock"
+      },
+      {
+        "desc": "Emotionally charged and expressive, often associated with introspective and heartfelt lyrics.",
+        "value": "Emo"
+      },
+      {
+        "desc": "Characterized by its flamboyant and extravagant style, both in music and appearance.",
+        "value": "Glam Rock"
+      },
+      {
+        "desc": "Aggressive and fast-paced, with a raw and energetic sound.",
+        "value": "Hardcore Punk"
+      },
+      {
+        "desc": "Diverse and independent, often characterized by its non-mainstream approach and varied styles.",
+        "value": "Indie"
+      },
+      {
+        "desc": "Merges the intensity of rock with electronic and industrial elements.",
+        "value": "Industrial Rock"
+      },
+      {
+        "desc": "Rebellious and fast-paced, known for its raw energy and straightforward sound.",
+        "value": "Punk"
+      },
+      {
+        "desc": "Versatile and broad, encompassing a wide range of sounds and styles within the rock genre.",
+        "value": "Rock"
+      },
+      {
+        "desc": "Combines rock music with the culture and style of skateboarding, energetic and dynamic.",
+        "value": "Skate Rock"
+      },
+      {
+        "desc": "A fusion of skate punk and hardcore, known for its fast tempos and aggressive style.",
+        "value": "Skatecore"
+      },
+      {
+        "desc": "Finnish pop-rock, known for its catchy melodies and blend of pop and rock elements.",
+        "value": "Suomipop"
+      }
+    ]
+  }
+]

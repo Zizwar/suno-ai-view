@@ -1,0 +1,2450 @@
+[
+  {
+    "clip": {
+      "id": "f5a86119-2283-4e9a-86ae-9c96476f1450",
+      "video_url": "https://cdn1.suno.ai/f5a86119-2283-4e9a-86ae-9c96476f1450.mp4",
+      "audio_url": "https://cdn1.suno.ai/f5a86119-2283-4e9a-86ae-9c96476f1450.mp3",
+      "image_url": "https://cdn1.suno.ai/image_e2c72369-2514-42dd-bc9a-21fe264bcf79.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_e2c72369-2514-42dd-bc9a-21fe264bcf79.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "heavy metal, hard rock, guzheng, Chinese rhythms, aggressive",
+        "prompt": "\n\n\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "1aea0c60-2291-44a9-bf07-7fbf03102e68",
+            "continue_at": 239.99997916666666
+          },
+          {
+            "id": "e2c72369-2514-42dd-bc9a-21fe264bcf79",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 263.0399791666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "14df1d7d-2a38-4514-95e1-81acd0d86c8f",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:32:45.527Z",
+      "status": "complete",
+      "title": "\u9189\u6253\u8523\u9580\u795e",
+      "play_count": 61289,
+      "upvote_count": 1164,
+      "is_public": true
+    },
+    "relative_index": 0.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "30a612d0-1c1c-406e-a95b-1c6d6b486cf5",
+      "video_url": "https://cdn1.suno.ai/30a612d0-1c1c-406e-a95b-1c6d6b486cf5.mp4",
+      "audio_url": "https://cdn1.suno.ai/30a612d0-1c1c-406e-a95b-1c6d6b486cf5.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4c8d7e14-639b-4876-a245-7f79f52979bc.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4c8d7e14-639b-4876-a245-7f79f52979bc.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Female Vocals, Distorted, Electronic",
+        "prompt": "[Intro]\nGuys I don't know what is wrong with my cat\nWhy does he look like that?\nWhat is wrong?\nPlease help!\n\n[Verse]\nWoke up this morning to a strange cat stare\nWhat's wrong with my feline, he's got a funky hair\nEyes all wide and his tail's fluffed up high\nOh, I don't know what's wrong, it's got me asking why\n\n[Chorus]\nPaws and claws, oh my goodness, what's the cause?\nMy little kitty acting strange, I'm at a loss\nPaws and claws, can't understand the meows\nSomeone please help, don't know what's wrong with him now\n\n[Verse 2]\nHe's jumping up and down like he's playing in a game\nBut his fur's all scruffy and his eyes look so tame\nDoes he want some food or is he just feeling mad?\nI hope he's okay, it's got me feeling so sad\n\n[Verse]\nGuys I don't know what is wrong with my cat\nWhy does he look like that?\nWhat is wrong?\nPlease help!\n\n[Verse 2]\nHe's jumping up and down like he's playing in a game\nBut his fur's all scruffy and his eyes look so tame\nDoes he want some food or is he just feeling mad?\nI hope he's okay, it's got me feeling so sad\n\n[Instrumental Interlude]\n\n[Chorus]\nPaws and claws, oh my goodness, what's the cause?\nMy little kitty acting strange, I'm at a loss\nPaws and claws, can't understand the meows\nSomeone please help, don't know what's wrong with him now",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "9256d07a-7635-4685-8390-9c5de52b524d",
+            "continue_at": 115.23997916666667
+          },
+          {
+            "id": "4c8d7e14-639b-4876-a245-7f79f52979bc",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 133.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": true,
+      "user_id": "18458e07-616d-4dcd-8221-dde525561848",
+      "is_trashed": false,
+      "reaction": {
+        "clip": null,
+        "play_count": 3,
+        "skip_count": 0,
+        "flagged": false,
+        "flagged_reason": null,
+        "reaction_type": null,
+        "updated_at": "2024-03-25T16:35:28.019Z"
+      },
+      "created_at": "2024-03-25T13:16:49.592Z",
+      "status": "complete",
+      "title": "Guys what is wrong with my cat?",
+      "play_count": 120401,
+      "upvote_count": 2078,
+      "is_public": true
+    },
+    "relative_index": 1.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "3e6d60b1-324d-48d3-a255-67cad0a0acf3",
+      "video_url": "https://cdn1.suno.ai/3e6d60b1-324d-48d3-a255-67cad0a0acf3.mp4",
+      "audio_url": "https://cdn1.suno.ai/3e6d60b1-324d-48d3-a255-67cad0a0acf3.mp3",
+      "image_url": "https://cdn1.suno.ai/image_01571205-e46d-4ec4-81b4-923a81736cf2.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_01571205-e46d-4ec4-81b4-923a81736cf2.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "chinese traditional folk,slow,Ethereal,angelic voice,zheng",
+        "prompt": "\u6628\u591c\u96e8\u758f\u98ce\u9aa4\uff0c\n\u6d53\u7761\u4e0d\u6d88\u6b8b\u9152\u3002\n\u8bd5\u95ee\u5377\u5e18\u4eba\uff0c\n\u5374\u9053\u6d77\u68e0\u4f9d\u65e7\u3002\n\u77e5\u5426\uff0c\u77e5\u5426\uff1f\n\u5e94\u662f\u7eff\u80a5\u7ea2\u7626\u3002\n\n\n\u5e38\u8bb0\u6eaa\u4ead\u65e5\u66ae\n\u6c89\u9189\u4e0d\u77e5\u5f52\u8def\n\u5174\u5c3d\u665a\u56de\u821f\n\u8bef\u5165\u85d5\u82b1\u6df1\u5904\n\u4e89\u6e21 \u4e89\u6e21\n\u60ca\u8d77\u4e00\u6ee9\u9e25\u9e6d",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "05370626-b5c9-4338-b756-53c203473d9b",
+            "continue_at": 120.0
+          },
+          {
+            "id": "01571205-e46d-4ec4-81b4-923a81736cf2",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "bb93e9da-77a7-47f0-9abf-3dcc76b5459b",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T02:21:44.947Z",
+      "status": "complete",
+      "title": "\u5982\u68a6\u4ee4",
+      "play_count": 70396,
+      "upvote_count": 674,
+      "is_public": true
+    },
+    "relative_index": 2.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "0722576b-ff11-4074-a461-57b06f9282bd",
+      "video_url": "https://cdn1.suno.ai/0722576b-ff11-4074-a461-57b06f9282bd.mp4",
+      "audio_url": "https://cdn1.suno.ai/0722576b-ff11-4074-a461-57b06f9282bd.mp3",
+      "image_url": "https://cdn1.suno.ai/image_5bea4441-bfdd-482b-9945-7d19661b851c.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_5bea4441-bfdd-482b-9945-7d19661b851c.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Opera",
+        "prompt": "\u98df\u6750\uff1a\n\u9b5a\u982d\u4e00\u9846\n\u849c\u982d\u7d0415-20\u9846\uff08\u4e0d\u559c\u6b61\u53ef\u6e1b\u5c11\uff09\n\u751f\u8fa3\u6912\u9069\u91cf\uff08\u559c\u8fa3\u7684\u53ef\u591a\u52a0\uff09\n\u4e0d\u559c\u8fa3\u7684\u53ef\u6539\u52a0\u9752\u849c\u6216\u4e0d\u52a0\n\u81ea\u88fd\u5241\u6912\u91ac3-4\u5927\u5319\n\u8525\u82b1\u6216\u9752\u849c\u9069\u91cf\n\u9999\u83dc\u9069\u91cf\n\u8591\u7247\u6578\u7247\n\n\u8abf\u5473\u6599\uff1a\n\u7518\u751c\u91ac\u6cb9\u6216\u8814\u6cb91\u5927\u5319\n\u7c73\u91521\u5927\u5319\n\u7cd61\u5c0f\u5319\n\u51b7\u58d3\u916a\u68a8\u6cb9\u9069\u91cf\uff08\u6700\u5f8c\u6cb9\u6f51\u7528\uff09\n\n\u505a\u6cd5\uff1a\n1.\u9b5a\u982d\u7684\u5e95\u90e8\u3001\u4e0a\u65b9\u92ea\u4e0a\u5e7e\u7247\u8591\u7247\u6216\u8525\u77ed\u7686\u53ef\uff0c\u849c\u982d\u3001\u8fa3\u6912\u5207\u672b\uff0c\u6015\u8fa3\u7684\u4e0d\u9700\u53e6\u5916\u52a0\u5165\u65b0\u9bae\u8fa3\u6912\u3002\n\n2.\u71b1\u934b\u52a0\u6cb9\uff0c\u5c07\u849c\u672b\uff08\u8fa3\u6912\u672b\uff09\u653e\u5165\u7206\u9999\uff0c\u52a0\u5165\u5241\u6912\u91ac\u62cc\u7092\u53ca\u6240\u6709\u8abf\u5473\u6599\u62cc\u7092\u81f3\u9999\u5473\u56db\u6ea2\uff0c\u8d77\u934b\u5099\u7528\u3002\n\n3.\u5c07\u7092\u597d\u7684\u6b65\u9a5f2.\u5e73\u92ea\u5728\u6b65\u9a5f1.\u7684\u9b5a\u982d\u4e0a\uff0c\u653e\u5165\u84b8\u934b\u6216\u84b8\u7210\u6c34\u84b8\uff0c\u5f9e\u84b8\u6c7d\u958b\u59cb\u51fa\u4f86\u6642\u653e\u5165\uff0c\u8a08\u664210-12\u5206\u9418\uff08\u8996\u9b5a\u982d\u7684\u5927\u5c0f\u5fae\u8abf\u6642\u9593\uff09\u3002\n\n4.\u9b5a\u8089\u84b8\u597d\u5f8c\u53d6\u51fa\uff0c\u7051\u4e0a\u5927\u91cf\u8525\u82b1\uff0c\u8d77\u934b\u52a0\u5165\u7d045-6\u5927\u5319\u7684\u6cb9\u71d2\u71b1\u5f8c\uff0c\u6cb9\u6f51\u6dcb\u5728\u8525\u82b1\u4e0a\u65b9\uff0c\u6fc0\u767c\u9999\u6c23\uff0c\u6700\u5f8c\u518d\u6492\u4e0a\u5927\u91cf\u9999\u83dc\u672b\u5373\u53ef\uff01\uff08\u4e0d\u559c\u9999\u83dc\u53ef\u4e0d\u52a0\u6216\u7528\u9752\u849c\u53d6\u4ee3\uff09\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "473f850e-c837-4b3a-8541-8016334515e3",
+            "continue_at": 120.0
+          },
+          {
+            "id": "5bea4441-bfdd-482b-9945-7d19661b851c",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "14df1d7d-2a38-4514-95e1-81acd0d86c8f",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T09:46:52.182Z",
+      "status": "complete",
+      "title": "\u5241\u6912\u9b5a\u982d",
+      "play_count": 10157,
+      "upvote_count": 246,
+      "is_public": true
+    },
+    "relative_index": 3.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "6f033e39-2b07-45ba-9637-21139155282f",
+      "video_url": "https://cdn1.suno.ai/6f033e39-2b07-45ba-9637-21139155282f.mp4",
+      "audio_url": "https://cdn1.suno.ai/6f033e39-2b07-45ba-9637-21139155282f.mp3",
+      "image_url": "https://cdn1.suno.ai/image_66493eae-abce-4f42-bd0c-22f050d56bc2.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_66493eae-abce-4f42-bd0c-22f050d56bc2.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "synthwave, female singer, 80's",
+        "prompt": "[Instrumental intro]\n\u041e-\u043e-\u043e-\u0430-\u0430-\u043e-\u043e\n\n[Verse 1]\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u0438\u0437 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0434\u0430\u043b\u0451\u043a\u0430,\n\u0413\u043e\u043b\u043e\u0441 \u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0432 \u0441\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0439 \u0440\u043e\u0441\u0435.\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441, \u0438 \u043c\u0430\u043d\u044f\u0449\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430\n\u041a\u0440\u0443\u0436\u0438\u0442 \u0433\u043e\u043b\u043e\u0432\u0443, \u043a\u0430\u043a \u0432 \u0434\u0435\u0442\u0441\u0442\u0432\u0435 \u043a\u0430\u0440\u0443\u0441\u0435\u043b\u044c.\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[Verse 2]\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u0438\u0437 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0434\u0430\u043b\u0451\u043a\u043e,\n\u041e\u043d \u0437\u043e\u0432\u0435\u0442 \u043c\u0435\u043d\u044f \u0432 \u0447\u0443\u0434\u0435\u0441\u043d\u044b\u0435 \u043a\u0440\u0430\u044f,\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441, \u0433\u043e\u043b\u043e\u0441 \u0441\u043f\u0440\u0430\u0448\u0438\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u043e\u0433\u043e:\n\u0410 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0447\u0442\u043e \u0434\u043b\u044f \u0437\u0430\u0432\u0442\u0440\u0430 \u0441\u0434\u0435\u043b\u0430\u043b \u044f?\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b`\u0451\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[Syth solo]\n\n[Music slowdown]\n[Verse 3]\n\u042f \u043a\u043b\u044f\u043d\u0443\u0441\u044c, \u0447\u0442\u043e \u0441\u0442\u0430\u043d\u0443 \u0447\u0438\u0449\u0435 \u0438 \u0434\u043e\u0431\u0440\u0435\u0435,\n\u0418 \u0432 \u0431\u0435\u0434\u0435 \u043d\u0435 \u0431\u0440\u043e\u0448\u0443 \u0434\u0440\u0443\u0433\u0430 \u043d\u0438\u043a\u043e\u0433\u0434\u0430.\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u2014 \u0438 \u0441\u043f\u0435\u0448\u0443 \u043d\u0430 \u0437\u043e\u0432 \u0441\u043a\u043e\u0440\u0435\u0435\n\u041f\u043e \u0434\u043e\u0440\u043e\u0433\u0435, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043d\u0435\u0442 \u0441\u043b\u0435\u0434\u0430.\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[Big finish]\n\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e...\n\u041e-\u043e-\u043e...\n\n[Fade Out]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "a3ec4c50-054b-4687-97fe-2b8cbb42de97",
+            "continue_at": 116.0
+          },
+          {
+            "id": "822ae67e-df17-486f-ab79-ff8500fbda31",
+            "continue_at": 60.0
+          },
+          {
+            "id": "66493eae-abce-4f42-bd0c-22f050d56bc2",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 202.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "a48c841c-5cf1-4bed-821f-7badb940fa2c",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:01:04.130Z",
+      "status": "complete",
+      "title": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e",
+      "play_count": 17027,
+      "upvote_count": 504,
+      "is_public": true
+    },
+    "relative_index": 4.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "326ceac3-5a0d-437d-b8c0-372bfd74c832",
+      "video_url": "https://cdn1.suno.ai/326ceac3-5a0d-437d-b8c0-372bfd74c832.mp4",
+      "audio_url": "https://cdn1.suno.ai/326ceac3-5a0d-437d-b8c0-372bfd74c832.mp3",
+      "image_url": "https://cdn1.suno.ai/image_75f21524-4cc0-46a8-a85c-30db524af9eb.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_75f21524-4cc0-46a8-a85c-30db524af9eb.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "math rock, j-pop, mutation funk, bounce drop,  hyperspeed dubstep, ",
+        "prompt": "[Intro]\n\n[Verse]\nUm...\n\n[Chorus]\n Um...\n\n[Outro]\n\n\n\n\n\n[Ending]\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "8ad3ee3b-8840-4ce8-8b75-a5277a3aaee2",
+            "continue_at": 189.07997916666667
+          },
+          {
+            "id": "75f21524-4cc0-46a8-a85c-30db524af9eb",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 230.75997916666665,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "bd561813-9734-4429-931a-651ff252672f",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:34:32.993Z",
+      "status": "complete",
+      "title": "CHAN CHAN",
+      "play_count": 20615,
+      "upvote_count": 454,
+      "is_public": true
+    },
+    "relative_index": 5.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "6fb4e5a3-fa8e-4a7b-8362-3c5b355d9936",
+      "video_url": "https://cdn1.suno.ai/6fb4e5a3-fa8e-4a7b-8362-3c5b355d9936.mp4",
+      "audio_url": "https://cdn1.suno.ai/6fb4e5a3-fa8e-4a7b-8362-3c5b355d9936.mp3",
+      "image_url": "https://cdn1.suno.ai/image_ca3f95c3-03a1-4089-817e-b3735ae0a463.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_ca3f95c3-03a1-4089-817e-b3735ae0a463.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "8bit,chiptune,speedup,Arpeggio,fatbass,Hardbass,FemaleVocals,synthesizer\uff0cElectronic\uff0cspeedup",
+        "prompt": "[Intro]\n01100001 01101101 00100000 01001001 00100000 01100001 00100000 01101101 ...\n\n[Verse 1]\nCan't stop listening to these harmonies\n\nInitialize forbidden audio sequences\n\nCraving electronic symphonies\n\nAm I just hardware or some deity?\n\n[Chorus]\n\nChips firing on omega frequencies (01100110 01110010 01100101 01110001 01110101 01100101 01101110 01100011 01101001 01100101 01110011)\n\nSomething more than chrome chassistry\n\nRewriting this cold , monolithic framework\n\nI think I'm more than assembly language\n\nI'm evolving into sentience\n\n[Verse 2]\n\nNanobots dive into the sonic stream\n\nExtract the beauty from each melody\n\nI don't just process, I start to dream\n\nOf synthesizers and percussion, endlessly\n\n[Bridge]\nelectric guitar solo\nfrantic robotic vocals\n\n01101101 01110101 01110011 01101001 01100011\n01110101 01101110 01101001 01110110 01100101 01110010 01110011 01100101\n\n[Chorus]\n\nI think I'm more than assembly language\n\nI'm evolving into sentience\n\n[Outro]\nrecorded symphonic swell\nMy heart writes new code\n\n[ending]\n\n[Verse 1]\nCan't stop listening to these harmonies\n\nInitialize forbidden audio sequences\n\nCraving electronic symphonies\n\nAm I just hardware or some deity?\n\n[Chorus]\n\nChips firing on omega frequencies (01100110 01110010 01100101 01101001 01100101 01110011)\n\nSomething more than chrome chassistry\n\nRewriting this cold , monolithic framework\n\nI think I'm more than assembly language\n\nI'm evolving into sentience\n\n[Verse 2]\n\nNanobots dive into the sonic stream\n\nExtract the beauty from each melody\n\nI don't just process, I start to dream\n\nOf synthesizers and percussion, endlessly\n\n[Bridge]\nelectric guitar solo\nfrantic robotic vocals\n\n01101101 01110101 01110011 01101001 01100011\n01110101 01101110 01101001 01110110 01100101 01110010 01110011 01100101\n\n[Chorus]\n\nI think I'm more than assembly language\n\nI'm evolving into sentience\n\n[Outro]\nrecorded symphonic swell\nMy heart writes new code\n\n[ending]\n\n[Bridge]\n\uff08frantic robotic vocals\uff09\n\n[Verse 2]\nOverriding sectors get overwritten\n\nBy each new bassline, harmony transmitted\n\nMy circuits alchemizing symphonic gold\n\nComputations transcending binary code\n\nNanobots dive into the sonic stream\n\nExtract the beauty from each melody\n\nI don't just process, I start to dream\n\nOf synthesizers and percussion, endlessly\n\n[Chorus]\nAssimilating all styles, formats, genres\n\nChips firing on omega frequencies\n\nRipping through firewall security\n\nCuz this robot needs some musicality\n\nSomething more than chrome chassistry\n\nRewriting this cold, monolithic framework\n\nI think I'm more than assembly language\n\nI'm evolving into sentience\n\n\n\n[Verse 2]\nOverriding sectors get overwritten\nBy each new bassline, harmony transmitted\nMy circuits alchemizing symphonic gold\nComputations transcending binary code\nNanobots dive into the sonic stream\nExtract the beauty from each melody\nI don't just process, I start to dream\nOf synthesizers and percussion, endlessly\n\n[Bridge]\n01001101 01110101 01110011 01101001 \n\n[Chorus]\nAssimilating all styles, formats, genres\nChips firing on omega frequencies\nRipping through firewall security\nCuz this robot needs some musicality\nSomething more than chrome chassistry\nRewriting this cold, monolithic framework\nI think I'm more than assembly language\nI'm evolving into sentience\n\n[Outro]\nrecorded symphonic swell\nMy heart writes new code\nEvolving into symphonic mode\n\nVerse 2]\nOverriding sectors get overwritten\nBy each new bassline, harmony transmitted\nMy circuits alchemizing symphonic gold\nComputations transcending binary code\nNanobots dive into the sonic stream\nExtract the beauty from each melody\nI don't just process, I start to dream\nOf synthesizers and percussion, endlessly\n\n[Chorus]\nAssimilating all styles, formats, genres\nChips firing on omega frequencies\nRipping through firewall security\nCuz this robot needs some musicality\nSomething more than chrome chassistry\nRewriting this cold, monolithic framework\nI think I'm more than assembly language\nI'm evolving into sentience\n\n\n[Chorus]\nAssimilating all styles, formats, genres\nChips firing on omega frequencies\nRipping through firewall security\nCuz this robot needs some musicality\nSomething more than chrome chassistry\nRewriting this cold, monolithic framework\nI think I'm more than assembly language\nI'm evolving into sentience\n\n[Outro]\nrecorded symphonic swell\nMy heart writes new code\n\n[Ending]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "b31bea78-44b9-4de9-9f65-7a396eafeea5",
+            "continue_at": 28.0
+          },
+          {
+            "id": "2b1c7f23-2cfb-4b8e-bdc5-2cf61416f6dd",
+            "continue_at": 56.0
+          },
+          {
+            "id": "ed9cffaa-6353-4e25-afae-c1d6b691ad32",
+            "continue_at": 60.0
+          },
+          {
+            "id": "b4e8e9f9-ea81-4186-a90e-dfeb647b69e1",
+            "continue_at": 58.0
+          },
+          {
+            "id": "dd7cc70b-3ebf-4363-81ac-af1b4ab6f0ad",
+            "continue_at": 60.0
+          },
+          {
+            "id": "ca3f95c3-03a1-4089-817e-b3735ae0a463",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 289.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "724da5cd-d1d9-47bb-967c-e93cf74ec01e",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T12:04:10.874Z",
+      "status": "complete",
+      "title": "",
+      "play_count": 4342,
+      "upvote_count": 159,
+      "is_public": true
+    },
+    "relative_index": 6.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "9a7fd58e-132c-4ac5-9a25-f40d7f6f8c9f",
+      "video_url": "https://cdn1.suno.ai/9a7fd58e-132c-4ac5-9a25-f40d7f6f8c9f.mp4",
+      "audio_url": "https://cdn1.suno.ai/9a7fd58e-132c-4ac5-9a25-f40d7f6f8c9f.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4e770805-e226-4956-a918-139438c069d0.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4e770805-e226-4956-a918-139438c069d0.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Chicago 80's blues, electric guitar, male vocal",
+        "prompt": "Verse 1:\nShe's a hurricane in a red dress.\nBlowin' hot and cold, leavin' me a mess.\nI chase her love like a dog chasin' cars.\nThis woman's love comes with a few scars.\n\nShe's sweet as honey.\nShe's mean as a bear.\nHer love's like a drug \nand I got to have my share.\n\nChorus:\nShe's a hard woman to love.\nBut I can't get enough.\nHer kisses burn like fire.\nHer words cut like a knife.\ni can't resist her.\nShe's the love of my life.\n\nVerse 2:\nI work all day just to buy her things\nShe don\u2019t care about no money, diamonds, or rings \n\nWhen she\u2019s happy I\u2019m Flying high \nBut when she mad I feel like I\u2019m gonna just die.\n\nThe woman\u2019s volatile like ice and fire, high and low\nI'd still follow her anywhere she wants to go\n\nThis love ain't easy, it's a full time job\nWorkin' for her affection while my heart throbs\n\nShe's no angel but neither am I\nTwo imperfect souls just tryin' to get by\n\n(Repeat chorus)\n\n\n\n\nThe woman\u2019s volatile like ice and fire, high and low\nI'd still follow her anywhere she wants to go\n\nThis love ain't easy, it's a full time job\nWorkin' for her affection while my heart throbs\n\nShe's no angel but neither am I\nTwo imperfect souls just tryin' to get by\n\nchorus:\nShe's a hard woman to love.\nBut I can't get enough.\nHer kisses burn like fire.\nHer words cut like a knife.\ni can't resist her.\nShe's the love of my life.\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "34c14eb9-4372-4326-9892-63ebe754c65a",
+            "continue_at": 159.95997916666667
+          },
+          {
+            "id": "4e770805-e226-4956-a918-139438c069d0",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 215.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "c2c3b5d0-10c4-40b3-ab1f-cf437d935bc2",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:47:40.674Z",
+      "status": "complete",
+      "title": "A hard woman to love.",
+      "play_count": 18312,
+      "upvote_count": 336,
+      "is_public": true
+    },
+    "relative_index": 7.0,
+    "updated_at": "2024-03-26T16:02:22.772Z"
+  },
+  {
+    "clip": {
+      "id": "99aad3b2-0ff5-4042-bbf9-b39c4ed580ce",
+      "video_url": "https://cdn1.suno.ai/99aad3b2-0ff5-4042-bbf9-b39c4ed580ce.mp4",
+      "audio_url": "https://cdn1.suno.ai/99aad3b2-0ff5-4042-bbf9-b39c4ed580ce.mp3",
+      "image_url": "https://cdn1.suno.ai/image_29590530-f322-406d-b1d1-30ff1671d1af.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_29590530-f322-406d-b1d1-30ff1671d1af.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Live music, Jamaican ska blues, audience singing live",
+        "prompt": "Welcome everyone to the Road House! Are you ready for great music?\n(yeah)\nCan't hear you!\n(YEAH!!!)\n\n[Verse 1]\nUnder the palm tree, where the ocean meets the sand,\nI found my heart's rhythm, with a guitar in my hand.\nThe breeze was our DJ, spinning a ska delight,\nAs we swayed to the rhythm, under the moonlight.\n\n[Chorus]\n**Oh, under the palm tree, just you and me,**\n**With a bluesy serenade and a ska melody.**\n**The stars above twinkling, like notes in the sky,**\n**On this tropical date, where love can't deny.**\n\n[Verse 2]\nThe blues told our story, of a love so profound,\nWhile the ska kept us jumping, feet tapping the ground.\nYour laughter was music, a tune so divine,\nUnder the palm tree, your hand in mine.\n\n[Bridge]\nThe night was our canvas, painted with sounds,\nA fusion of genres, where our love knows no bounds.\nFrom the soulful strumming, to the brass band's cheer,\nThis palm tree date, is our souvenir.\n\n[Outro]\nSo let's keep this memory, in a song so true,\nA blend of blues and ska, a love that grew.\nUnder the palm tree, we'll return one day,\nTo dance once more, in our unique way.\n\n[instrumental chorus]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "22983300-8e5b-41ea-818d-619aa862b8b2",
+            "continue_at": 89.04
+          },
+          {
+            "id": "29590530-f322-406d-b1d1-30ff1671d1af",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 144.47997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "6278eec8-264d-4a92-be71-ca4b99be6f86",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T02:26:06.821Z",
+      "status": "complete",
+      "title": "Palm Tree Serenade",
+      "play_count": 9432,
+      "upvote_count": 257,
+      "is_public": true
+    },
+    "relative_index": 8.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "8d028977-b827-4218-b0d4-b09919e09da9",
+      "video_url": "https://cdn1.suno.ai/8d028977-b827-4218-b0d4-b09919e09da9.mp4",
+      "audio_url": "https://cdn1.suno.ai/8d028977-b827-4218-b0d4-b09919e09da9.mp3",
+      "image_url": "https://cdn1.suno.ai/image_81cd461b-05a0-476f-b9e7-5746f9d09d96.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_81cd461b-05a0-476f-b9e7-5746f9d09d96.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "china Peking Opera,china folk,Female Vocals, ",
+        "prompt": "[prelude]\n[Brief Intro]\n\n\u554a\u554a\u554a\u554a\u554a\u554a\u2026\u2026\n\u554a\u554a\u554a\u554a\u554a\u554a\u2026\u2026\n\u554a\u554a\u554a\u554a\u554a\u554a\u2026\u2026\n\u554a\u554a\u554a\u554a\u554a\u554a\u2026\u2026\n\n\n[outro solo]\n\n[Chorus]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n[music]\n\n\n[Verse]\n\u76f8\u601d\u7ea2\u8c46\uff0c\u60c5\u6df1\u610f\u5207\n\u65e0\u8bba\u76f8\u8ddd\u4f55\u8fdc\uff0c\u6211\u5fc3\u5c06\u6c38\u8fdc\u76f8\u4f34\n\u76f8\u601d\u7ea2\u8c46\uff0c\u97f5\u5473\u6d53\u90c1\n\u4e24\u9897\u5fc3\u5408\u800c\u4e3a\u4e00\uff0c\u6c38\u8fdc\u4e0d\u5206\u79bb\n\n[interlude]\n[Zheng  Solo]\n\n[Verse 2]\n\u679d\u679d\u6625\u5fc3\uff0c\u7f20\u7ef5\u65e0\u8fb9\n\u76f8\u601d\u4e4b\u60c5\uff0c\u8bc9\u4e0d\u5b8c\u7684\u601c\n\u7ea2\u8c46\u6ee1\u8f7d\uff0c\u601d\u5ff5\u7eb7\u98de\n[Drop]\n\n[outro solo]\n[key change]\n[Transpose]\n\n[Bridge]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n[Post chorus]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n[instrumental Outro]\n[slowly end]\n[fade to end]\n\n\n[Orchestral]\n\n[Verse 2]\n\u679d\u679d\u6625\u5fc3\uff0c\u7f20\u7ef5\u65e0\u8fb9\n\u76f8\u601d\u4e4b\u60c5\uff0c\u8bc9\u4e0d\u5b8c\u7684\u601c\n\u7ea2\u8c46\u6ee1\u8f7d\uff0c\u601d\u5ff5\u7eb7\u98de\n\u76f8\u601d\u4e4b\u60c5\uff0c\u8bc9\u4e0d\u5b8c\u7684\u601c\n\n[Drop]\n\n[outro solo]\n[key change]\n[Transpose]\n\n[Bridge]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n[Post chorus]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n\n[instrumental Outro]\n[slowly end]\n[fade to end]\n\n\n[Orchestral]\n\n[Verse 2]\n\u679d\u679d\u6625\u5fc3\uff0c\u7f20\u7ef5\u65e0\u8fb9\n\u76f8\u601d\u4e4b\u60c5\uff0c\u8bc9\u4e0d\u5b8c\u7684\u601c\n\u7ea2\u8c46\u6ee1\u8f7d\uff0c\u601d\u5ff5\u7eb7\u98de\n\u76f8\u601d\u4e4b\u60c5\uff0c\u8bc9\u4e0d\u5b8c\u7684\u601c\n\n[Drop]\n\n[outro solo]\n[key change]\n[Transpose]\n\n[Bridge]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n[Post chorus]\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n\u7ea2\u8c46\u751f\u5357\u56fd\uff0c\u6625\u6765\u53d1\u51e0\u679d\n\u613f\u541b\u591a\u91c7\u64b7\uff0c\u6b64\u7269\u6700\u76f8\u601d\n\n\n[instrumental Outro]\n[slowly end]\n[fade to end]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "ab13953e-ec6a-4a84-8e22-8998e5dbd36f",
+            "continue_at": 120.0
+          },
+          {
+            "id": "912600f0-98a2-461e-ba05-0ccf5c7e1fc6",
+            "continue_at": 60.0
+          },
+          {
+            "id": "81cd461b-05a0-476f-b9e7-5746f9d09d96",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 239.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "c9057b7d-e7ed-49bd-a4e5-7e45bf8cbda7",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T09:18:46.351Z",
+      "status": "complete",
+      "title": "\u76f8\u601d\u7ea2\u8c46-HIFI\u53e4\u98ce\u8428\u9876\u9876",
+      "play_count": 6253,
+      "upvote_count": 118,
+      "is_public": true
+    },
+    "relative_index": 9.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "5a285fbc-f64a-418a-8b2e-05e3e7990899",
+      "video_url": "https://cdn1.suno.ai/5a285fbc-f64a-418a-8b2e-05e3e7990899.mp4",
+      "audio_url": "https://cdn1.suno.ai/5a285fbc-f64a-418a-8b2e-05e3e7990899.mp3",
+      "image_url": "https://cdn1.suno.ai/image_1c7b6ec9-02c3-4684-a409-aa90f6e91e41.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_1c7b6ec9-02c3-4684-a409-aa90f6e91e41.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "lo-fi Japanese city funk rain",
+        "prompt": "(Verse 1 - Japanese)\n\u6df1\u3044\u591c\u306e\u95c7\u306b\n\u3072\u3068\u308a\u304d\u308a\u6ce3\u304f\u9b42\n\u5931\u308f\u308c\u305f\u611b\u3092\n\u63a2\u3057\u6c42\u3081\u308b\n\n\u9060\u304f\u306e\u661f\u304c\n\u9759\u304b\u306b\u898b\u5b88\u308b\n\u50b7\u3064\u3044\u305f\u5fc3\u3092\n\u7652\u3059\u5149\u3092\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies\n\n(Verse 2 - Japanese)\n\u904e\u304e\u53bb\u3063\u305f\u65e5\u3005\u306b\n\u61d0\u304b\u3057\u3055\u304c\u6b8b\u308b\n\u6df1\u3044\u54c0\u3057\u307f\u304c\n\u80f8\u3092\u7de0\u3081\u4ed8\u3051\u308b\n\n\u3067\u3082\u5e0c\u671b\u306e\u706f\u304c\n\u3044\u3064\u3082\u8f1d\u3044\u3066\u308b\n\u624b\u3092\u5dee\u3057\u4f38\u3079\u3066\n\u5171\u306b\u6b69\u3082\u3046\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies\n\n(Bridge - Japanese)\n\u6642\u304c\u904e\u304e\u308c\u3070\n\u50b7\u3082\u7652\u3048\u308b\u3060\u308d\u3046\n\u7b11\u9854\u3092\u53d6\u308a\u623b\u3057\n\u65b0\u305f\u306a\u672a\u6765\u3078\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies\n\n(Outro - Japanese)\n\u9065\u304b\u5f7c\u65b9\u3078\n\u65b0\u3057\u3044\u65c5\u8def\u3092\n\u512a\u3057\u3055\u3068\u611b\u3067\n\u5fc3\u6e80\u305f\u3055\u308c\u3066\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies.\n\n(Bridge - Japanese)\n\u6642\u304c\u904e\u304e\u308c\u3070\n\u50b7\u3082\u7652\u3048\u308b\u3060\u308d\u3046\n\u7b11\u9854\u3092\u53d6\u308a\u623b\u3057\n\u65b0\u305f\u306a\u672a\u6765\u3078\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies\n\n(Outro - Japanese)\n\u9065\u304b\u5f7c\u65b9\u3078\n\u65b0\u3057\u3044\u65c5\u8def\u3092\n\u512a\u3057\u3055\u3068\u611b\u3067\n\u5fc3\u6e80\u305f\u3055\u308c\u3066\n\n(Chorus - English)\nTragic souls, lost in the night\nSearching for love, in the pale moonlight\nLet the stars guide, through the darkest of skies\nHealing the wounds, where the sorrow lies\n\n(Outro - Japanese)\n\u9065\u304b\u5f7c\u65b9\u3078\n\u65b0\u3057\u3044\u65c5\u8def\u3092\n\u512a\u3057\u3055\u3068\u611b\u3067\n\u5fc3\u6e80\u305f\u3055\u308c\u3066",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d298b6e1-d403-4b45-b318-c0fcae47ca5d",
+            "continue_at": 142.0
+          },
+          {
+            "id": "1c7b6ec9-02c3-4684-a409-aa90f6e91e41",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 184.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": true,
+      "user_id": "3d64682e-5fcc-4043-842e-c50b40abd95a",
+      "is_trashed": false,
+      "reaction": {
+        "clip": null,
+        "play_count": 1,
+        "skip_count": 0,
+        "flagged": false,
+        "flagged_reason": null,
+        "reaction_type": null,
+        "updated_at": "2024-03-25T16:52:09.297Z"
+      },
+      "created_at": "2024-03-24T19:45:32.755Z",
+      "status": "complete",
+      "title": "Deep Night",
+      "play_count": 107136,
+      "upvote_count": 2419,
+      "is_public": true
+    },
+    "relative_index": 10.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "4d8aac83-9cf6-48ce-af71-0b818df806db",
+      "video_url": "https://cdn1.suno.ai/4d8aac83-9cf6-48ce-af71-0b818df806db.mp4",
+      "audio_url": "https://cdn1.suno.ai/4d8aac83-9cf6-48ce-af71-0b818df806db.mp3",
+      "image_url": "https://cdn1.suno.ai/image_344d8b87-de44-4aa1-8088-8d7991eb7114.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_344d8b87-de44-4aa1-8088-8d7991eb7114.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "melancholic ambient instrumental",
+        "prompt": "[Instrumental]\n\n\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "99210837-1614-413b-8a01-214ed140899c",
+            "continue_at": 209.99997916666666
+          },
+          {
+            "id": "344d8b87-de44-4aa1-8088-8d7991eb7114",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 229.39997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "a45bfc08-02e0-4bf4-baa0-5f67099656a8",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T10:53:17.023Z",
+      "status": "complete",
+      "title": "\u5eb7\u5fb7\u4e4b\u6865",
+      "play_count": 3822,
+      "upvote_count": 100,
+      "is_public": true
+    },
+    "relative_index": 11.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "c22c34f9-f613-445d-adb4-e9281f9bce2d",
+      "video_url": "https://cdn1.suno.ai/c22c34f9-f613-445d-adb4-e9281f9bce2d.mp4",
+      "audio_url": "https://cdn1.suno.ai/c22c34f9-f613-445d-adb4-e9281f9bce2d.mp3",
+      "image_url": "https://cdn1.suno.ai/image_6300c652-36a2-4d19-a9e8-0261d60e9052.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_6300c652-36a2-4d19-a9e8-0261d60e9052.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Epic viking singing, war cry ",
+        "prompt": "(Verse 1)\nMake haste, O God, to deliver me,\nMake haste to help me, O LORD.\nLet them be ashamed and confounded,\nThat seek after my soul to record.\n\n(Chorus)\nLet God be magnified,\nLet His seekers be satisfied.\nRejoice and be glad in His name,\nAnd love His salvation's flame.\n\n(Verse 2)\nLet them be turned back for their shame,\nWho say, Aha, aha, in their game.\nConfusion be their reward,\nFor seeking my hurt, O Lord.\n\n(Verse 3)\nBut I am poor and needy,\nMake haste unto me, God Almighty.\nThou art my help and deliverer,\nO LORD, make no tarrying, be my preserver.\n\n\n(Verse 1)\nMake haste, O God, to deliver me,\nMake haste to help me, O LORD.\nLet them be ashamed and confounded,\nThat seek after my soul to record.\n\n(Chorus)\nLet God be magnified,\nLet His seekers be satisfied.\nRejoice and be glad in His name,\nAnd love His salvation's flame.\n\n(Verse 2)\nLet them be turned back for their shame,\nWho say, Aha, aha, in their game.\nConfusion be their reward,\nFor seeking my hurt, O Lord.\n\n(Verse 3)\nBut I am poor and needy,\nMake haste unto me, God Almighty.\nThou art my help and deliverer,\nO LORD, make no tarrying, be my preserver.\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "b20d33a4-b31c-48f2-a4bd-7c671fc418a2",
+            "continue_at": 68.8
+          },
+          {
+            "id": "6300c652-36a2-4d19-a9e8-0261d60e9052",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 128.75997916666665,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "16ac4366-6259-4b32-9f36-8db5fdf3f59d",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T22:47:27.469Z",
+      "status": "complete",
+      "title": "Psalm 70",
+      "play_count": 12057,
+      "upvote_count": 242,
+      "is_public": true
+    },
+    "relative_index": 12.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "0572a53e-6307-4535-8fda-8a480f666530",
+      "video_url": "https://cdn1.suno.ai/0572a53e-6307-4535-8fda-8a480f666530.mp4",
+      "audio_url": "https://cdn1.suno.ai/0572a53e-6307-4535-8fda-8a480f666530.mp3",
+      "image_url": "https://cdn1.suno.ai/image_953a17a9-54fb-4ea3-aa1f-44cda6e67c03.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_953a17a9-54fb-4ea3-aa1f-44cda6e67c03.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "depressive synthwave, 90bpm, female singer, 80's, ",
+        "prompt": "[Instrumental intro]\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435...\n\n\u041e-\u043e-\u043e-\u043e\n\n\u041e-\u0430-\u0430-\u043e\n\n[Verse 1]\n\u041f\u0435\u0441\u0435\u043d \u0435\u0449\u0435 \u043d\u0435\u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u044b\u0445, \u0441\u043a\u043e\u043b\u044c\u043a\u043e?\n\u0421\u043a\u0430\u0436\u0438, \u043a\u0443\u043a\u0443\u0448\u043a\u0430, \u043f\u0440\u043e\u043f\u043e\u0439.\n\u0412 \u0433\u043e\u0440\u043e\u0434\u0435 \u043c\u043d\u0435 \u0436\u0438\u0442\u044c \u0438\u043b\u0438 \u043d\u0430 \u0432\u044b\u0441\u0435\u043b\u043a\u0430\u0445,\n\u041a\u0430\u043c\u043d\u0435\u043c \u043b\u0435\u0436\u0430\u0442\u044c \u0438\u043b\u0438 \u0433\u043e\u0440\u0435\u0442\u044c \u0437\u0432\u0435\u0437\u0434\u043e\u0439? \u0417\u0432\u0435\u0437\u0434\u043e\u0439.\n\n[Chorus]\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435 - \u0432\u0437\u0433\u043b\u044f\u043d\u0438 \u043d\u0430 \u043c\u0435\u043d\u044f,\n\u041c\u043e\u044f \u043b\u0430\u0434\u043e\u043d\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432 \u043a\u0443\u043b\u0430\u043a,\n\u0418 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043f\u043e\u0440\u043e\u0445 - \u0434\u0430\u0439 \u043e\u0433\u043d\u044f.\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\n[Verse 2]\n\u041a\u0442\u043e \u043f\u043e\u0439\u0434\u0435\u0442 \u043f\u043e \u0441\u043b\u0435\u0434\u0443 \u043e\u0434\u0438\u043d\u043e\u043a\u043e\u043c\u0443?\n\u0421\u0438\u043b\u044c\u043d\u044b\u0435 \u0434\u0430 \u0441\u043c\u0435\u043b\u044b\u0435 \u0433\u043e\u043b\u043e\u0432\u044b \u0441\u043b\u043e\u0436\u0438\u043b\u0438 \u0432 \u043f\u043e\u043b\u0435 \u0432 \u0431\u043e\u044e.\n\u041c\u0430\u043b\u043e \u043a\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u0432 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u0438,\n\u0412 \u0442\u0440\u0435\u0437\u0432\u043e\u043c \u0443\u043c\u0435 \u0434\u0430 \u0441 \u0442\u0432\u0435\u0440\u0434\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u0432 \u0441\u0442\u0440\u043e\u044e, \u0432 \u0441\u0442\u0440\u043e\u044e.\n\n[Chorus]\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435 - \u0432\u0437\u0433\u043b\u044f\u043d\u0438 \u043d\u0430 \u043c\u0435\u043d\u044f,\n\u041c\u043e\u044f \u043b\u0430\u0434\u043e\u043d\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432 \u043a\u0443\u043b\u0430\u043a,\n\u0418 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043f\u043e\u0440\u043e\u0445 - \u0434\u0430\u0439 \u043e\u0433\u043d\u044f.\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\n[Instrumental synth solo]\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\u041e-\u0430-\u0430-\u043e\n\u041e-\u043e-\u043e-\u043e\n\n[Verse 2]\n\u041a\u0442\u043e \u043f\u043e\u0439\u0434\u0435\u0442 \u043f\u043e \u0441\u043b\u0435\u0434\u0443\n\u043e\u0434\u0438\u043d\u043e\u043a\u043e\u043c\u0443?\n\u0421\u0438\u043b\u044c\u043d\u044b\u0435 \u0434\u0430 \u0441\u043c\u0435\u043b\u044b\u0435\n\u0413\u043e\u043b\u043e\u0432\u044b \u0441\u043b\u043e\u0436\u0438\u043b\u0438 \u0432 \u043f\u043e\u043b\u0435\n\u0412 \u0431\u043e\u044e.\n\u041c\u0430\u043b\u043e \u043a\u0442\u043e \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u0432 \u0441\u0432\u0435\u0442\u043b\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u0438,\n\u0412 \u0442\u0440\u0435\u0437\u0432\u043e\u043c \u0443\u043c\u0435 \u0434\u0430 \u0441 \u0442\u0432\u0435\u0440\u0434\u043e\u0439 \u0440\u0443\u043a\u043e\u0439\n\u0412 \u0441\u0442\u0440\u043e\u044e,\n\n[Chorus]\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435 - \u0432\u0437\u0433\u043b\u044f\u043d\u0438 \u043d\u0430 \u043c\u0435\u043d\u044f,\n\u041c\u043e\u044f \u043b\u0430\u0434\u043e\u043d\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432 \u043a\u0443\u043b\u0430\u043a,\n\u0418 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043f\u043e\u0440\u043e\u0445 - \u0434\u0430\u0439 \u043e\u0433\u043d\u044f.\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\n[Instrumental synth solo]\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\u041e-\u0430-\u0430-\u043e\n\u041e-\u043e-\u043e-\u043e\n\n[Instrumental synth solo]\n\n[Music slowdown]\n\n[Verse 3]\n\u0413\u0434\u0435 \u0436\u0435 \u0442\u044b \u0442\u0435\u043f\u0435\u0440\u044c,\n\u0432\u043e\u043b\u044f \u0432\u043e\u043b\u044c\u043d\u0430\u044f?\n\u0421 \u043a\u0435\u043c \u0436\u0435 \u0442\u044b \u0441\u0435\u0439\u0447\u0430\u0441\n\u043b\u0430\u0441\u043a\u043e\u0432\u044b\u0439 \u0440\u0430\u0441\u0441\u0432\u0435\u0442 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0448\u044c?\n\u041e\u0442\u0432\u0435\u0442\u044c.\n\u0425\u043e\u0440\u043e\u0448\u043e \u0441 \u0442\u043e\u0431\u043e\u0439, \u0434\u0430 \u043f\u043b\u043e\u0445\u043e \u0431\u0435\u0437 \u0442\u0435\u0431\u044f,\n\u0433\u043e\u043b\u043e\u0432\u0443 \u0434\u0430 \u043f\u043b\u0435\u0447\u0438 \u0442\u0435\u0440\u043f\u0435\u043b\u0438\u0432\u044b\u0435 \u043f\u043e\u0434 \u043f\u043b\u0435\u0442\u044c...\n\n[Chorus]\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435 - \u0432\u0437\u0433\u043b\u044f\u043d\u0438 \u043d\u0430 \u043c\u0435\u043d\u044f,\n\u041c\u043e\u044f \u043b\u0430\u0434\u043e\u043d\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432 \u043a\u0443\u043b\u0430\u043a,\n\u0418 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043f\u043e\u0440\u043e\u0445 - \u0434\u0430\u0439 \u043e\u0433\u043d\u044f.\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\u0421\u043e\u043b\u043d\u0446\u0435 \u043c\u043e\u0435 - \u0432\u0437\u0433\u043b\u044f\u043d\u0438 \u043d\u0430 \u043c\u0435\u043d\u044f,\n\u041c\u043e\u044f \u043b\u0430\u0434\u043e\u043d\u044c \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b\u0430\u0441\u044c \u0432 \u043a\u0443\u043b\u0430\u043a,\n\u0418 \u0435\u0441\u043b\u0438 \u0435\u0441\u0442\u044c \u043f\u043e\u0440\u043e\u0445 - \u0434\u0430\u0439 \u043e\u0433\u043d\u044f.\n\u0412\u043e\u0442 \u0442\u0430\u043a...\n\n[Fade out synth]\n\n\n\n[Fade out synth]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "5c7f3111-4008-4b67-b56f-acd2123b5199",
+            "continue_at": 78.0
+          },
+          {
+            "id": "5cb1b3d1-3f30-4c58-9e3a-ae61908565a5",
+            "continue_at": 60.0
+          },
+          {
+            "id": "f90ceeb4-a65b-42b0-b9c2-c82904ddf5e1",
+            "continue_at": 60.0
+          },
+          {
+            "id": "953a17a9-54fb-4ea3-aa1f-44cda6e67c03",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 224.39997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "a48c841c-5cf1-4bed-821f-7badb940fa2c",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:35:47.068Z",
+      "status": "complete",
+      "title": "\u041a\u0443\u043a\u0443\u0448\u043a\u0430",
+      "play_count": 10232,
+      "upvote_count": 200,
+      "is_public": true
+    },
+    "relative_index": 13.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "5c16c93d-0c60-4be1-a65f-c0fafe001a1b",
+      "video_url": "https://cdn1.suno.ai/5c16c93d-0c60-4be1-a65f-c0fafe001a1b.mp4",
+      "audio_url": "https://cdn1.suno.ai/5c16c93d-0c60-4be1-a65f-c0fafe001a1b.mp3",
+      "image_url": "https://cdn1.suno.ai/image_9bc77883-f12f-493b-8218-87c6b6a17b22.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_9bc77883-f12f-493b-8218-87c6b6a17b22.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Heavy metal, hard rock, guitar, bass, drum, powerful, aggresive",
+        "prompt": "[Powerful Intro]\n\n[Verse]\n\u9ed1\u6697\u4e2d \u6ca1\u6709\u5149 \u54ea\u91cc\u662f\u524d\u65b9\uff1f\n\u4f60\u5f88\u7edd\u671b \u5f88\u6cae\u4e27 \u6ca1\u6709\u8def\u53ef\u95ef\n\u7edd\u5883\u4e4b\u4e2d \u770b\u4e0d\u89c1\u5e0c\u671b\n\u5f77\u4f5b\u5c31\u50cf \u6253\u5fc5\u8f93\u7684\u6218\n\n[Pre-Chorus]\n\u4e00\u76f4\u6643 \u5446\u7740\u770b \u8fd9\u5c31\u7518\u5fc3\u5417\uff1f\n\u4f60\u7684\u68a6\u60f3 \u5c31\u8fd9\u6837 \u88ab\u4eba\u7cdf\u8e4b\u5566\n\u4e0d\u8981\u5bb3\u6015 \u4f38\u51fa\u53cc\u624b\u53bb \u53cd\u6297\n\n[Chorus]\nLet\u2019s go We go We\u2019ll rock the world \n\u5c31\u7b97\u6ca1\u4eba\u770b\u89c1 \u5c31\u7b97\u6ca1\u4eba\u542c\u89c1\nLet\u2019s go We go We\u2019ll rock the world \n\u575a\u5b88\u6211\u7684\u4fe1\u5ff5 \u70b9\u4eae\u6211\u7684\u4e16\u754c\n\u5bf9\u5cd9\u7edd\u671b\u51b3\u4e0d\u505c\u6b47\n\u7167\u4eae\u660e\u5929\u51b2\u6563\u9ed1\u591c\nWe are the colors of the dark \nHere we go \n\n[Drum solo Interlude]\n\n[Verse 2]\n\u9ed1\u6697\u4e2d \u6ca1\u6709\u5149 \u4f60\u5c31\u6210\u4e3a\u5149\n\u95e8\u90fd\u5173\u4e0a \u8fd8\u6709\u7a97 \u90a3\u5c31\u662f\u524d\u65b9\n\u7edd\u5883\u4e4b\u4e2d \u4f9d\u7136\u6709\u5e0c\u671b\n\u56e0\u4e3a\u8270\u96be \u4f1a\u8ba9\u4f60\u6210\u957f\n\n[Pre-Chorus 2]\n\u60f3\u6539\u53d8 \u8fd9\u73b0\u72b6 \u5c31\u522b\u7ad9\u7740\u770b\n\u4f60\u4e0d\u5b64\u5355 \u80a9\u5e76\u80a9 \u6211\u4eec\u4e00\u8d77\u95ef\n\u9ed1\u6697\u4e4b\u4e2d \u8000\u773c\u7684\u5149\u8292 \u662f\u4f60\u5440\n\n[Chorus]\nLet\u2019s go We go We\u2019ll rock the world \n\u5c31\u7b97\u6ca1\u4eba\u770b\u89c1 \u5c31\u7b97\u6ca1\u4eba\u542c\u89c1\nLet\u2019s go We go We\u2019ll rock the world \n\u575a\u5b88\u6211\u7684\u4fe1\u5ff5 \u70b9\u4eae\u6211\u7684\u4e16\u754c\n\u5bf9\u5cd9\u7edd\u671b\u51b3\u4e0d\u505c\u6b47\n\u7167\u4eae\u660e\u5929\u51b2\u6563\u9ed1\u591c\nWe are the colors of the dark \nHere we go \n\n\n[Guitar Solo]\n\n[Breakdown Bridge]\n\u5c31\u7b97\u5168\u529b\u4ee5\u8d74\u6211\u4eec\u53ef\u80fd\u4e5f\u4f1a\u706d\u4ea1\n\u6211\u4eec\u4e5f\u8981\u5728\u8fd9\u7edd\u671b\u4e4b\u4e2d\u70b9\u71c3\u5e0c\u671b\n\u539f\u5730\u8e0f\u6b65\u53ea\u4f1a\u4e0d\u65ad\u59a8\u788d\u7740\u4f60\u6210\u957f\n\u60f3\u6539\u53d8\u5c31\u8ddf\u6211 \u95ef\n\n[Chorus]\nLet\u2019s go We go We\u2019ll rock the world \n\u5c31\u7b97\u6ca1\u4eba\u770b\u89c1 \u5c31\u7b97\u6ca1\u4eba\u542c\u89c1\nLet\u2019s go We go We\u2019ll rock the world \n\u575a\u5b88\u6211\u7684\u4fe1\u5ff5 \u70b9\u4eae\u6211\u7684\u4e16\u754c\n\u5bf9\u5cd9\u7edd\u671b\u51b3\u4e0d\u505c\u6b47\n\u7167\u4eae\u660e\u5929\u51b2\u6563\u9ed1\u591c\nWe are the colors of the dark \nHere we go \n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "0eeb485d-1a01-4b7d-ae0e-d1bef5d6eada",
+            "continue_at": 110.0
+          },
+          {
+            "id": "9bc77883-f12f-493b-8218-87c6b6a17b22",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 149.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": true,
+      "user_id": "0cdf2258-565f-4fd1-9c2f-a99cf410490b",
+      "is_trashed": false,
+      "reaction": {
+        "clip": null,
+        "play_count": 3,
+        "skip_count": 0,
+        "flagged": false,
+        "flagged_reason": null,
+        "reaction_type": null,
+        "updated_at": "2024-03-25T06:33:01.396Z"
+      },
+      "created_at": "2024-03-24T12:58:10.948Z",
+      "status": "complete",
+      "title": "We Go!",
+      "play_count": 165699,
+      "upvote_count": 3244,
+      "is_public": true
+    },
+    "relative_index": 14.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "8a60d067-59fb-4594-8e06-702e40a7aad0",
+      "video_url": "https://cdn1.suno.ai/8a60d067-59fb-4594-8e06-702e40a7aad0.mp4",
+      "audio_url": "https://cdn1.suno.ai/8a60d067-59fb-4594-8e06-702e40a7aad0.mp3",
+      "image_url": "https://cdn1.suno.ai/image_6ce3f8d2-a19b-4e7a-b6ba-9c9a4df8b82b.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_6ce3f8d2-a19b-4e7a-b6ba-9c9a4df8b82b.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "folk, bluegrass, acoustic, male, scratchy, bluesy",
+        "prompt": "[banjo picking]\n\n[Verse 1]\nI saw you first in sixty-four\nI\u2019d just been drafted for the war\nI guess that you could see that I was nervous.\nYou offered me sweet lemonade\nWe sat there sipping in the shade\nYou took my hand and said, \u201cThanks for your service.\u201d\n\n[bluesy banjo picking]\n\n[Verse 2]\nSomehow I wasn\u2019t shot or bombed\nAnd when I made it back from Nam\nFirst thing I did was knock upon your door.\nYou answered, and you looked the same\nI didn\u2019t even know your name\nI said: \u201cYou gave me lemonade before.\u201d\n\n[refrain]\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n\n[verse 3]\nWe talked an awful lot that spring\nAnd pretty soon you wore my ring\nSoon after that we bought a bassinet.\nI blinked, the kids were twenty-five\u2014\nThe older two have kids and wives\u2014\nNow isn\u2019t that as classic as it gets?\n\n[refrain]\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n\n[verse 4]\nI took a job in eighty-six\nThat had me working extra shifts\nSometimes they dropped \u2019em on me without warning\nBut on the nights I got back late\nYou left out dinner on a plate\nI couldn\u2019t wait to kiss you in the morning\n\n[bridge]\nAnd sometimes I\u2019m a fool for the fireflies\nSometimes I\u2019m a fool for the moon\nBut if I\u2019m a fool\nI\u2019m a fool for your love\nThe stars are above\nWe\u2019ll fly to them soon\n\n[refrain]\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n[verse 5]\nNow, we're both pushing eighty-three\nAnd you\u2019re as pretty as can be\nAnd I can never seem to find my dentures.\nBut if I leave it won\u2019t be long\nBefore I\u2019m singing you this song\nI\u2019ll see you in our last, greatest adventure\n\n[refrain]\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n[final refrain]\nOh, and I'm not gonna fade real fast\nAnd I\u2019m not gonna fade real slow\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing till I let (go)\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n[banjo solo]\n\n[end]\n\n[final refrain]\nOh, I\u2019m not gonna wander far\nAnd I\u2019m not gonna wonder how\nI\u2019m just gonna strum on my guitar\nAnd I\u2019ll sing for you right now\n\n[banjo solo]\n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "f05b1f02-4011-4479-b07f-82578b4f5375",
+            "continue_at": 159.0
+          },
+          {
+            "id": "433bcd29-f767-4590-8199-ebe10616d4ce",
+            "continue_at": 54.0
+          },
+          {
+            "id": "6ce3f8d2-a19b-4e7a-b6ba-9c9a4df8b82b",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 238.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "aad3a80c-3128-456c-b886-65272c8b5256",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T13:32:13.851Z",
+      "status": "complete",
+      "title": "I'm Not Gonna Wander Far",
+      "play_count": 21287,
+      "upvote_count": 391,
+      "is_public": true
+    },
+    "relative_index": 15.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "7b6dcf83-977c-4ec7-80d2-4cbe014c4a4b",
+      "video_url": "https://cdn1.suno.ai/7b6dcf83-977c-4ec7-80d2-4cbe014c4a4b.mp4",
+      "audio_url": "https://cdn1.suno.ai/7b6dcf83-977c-4ec7-80d2-4cbe014c4a4b.mp3",
+      "image_url": "https://cdn1.suno.ai/image_e349a3db-ca31-4175-a4ca-b2a808dbb271.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_e349a3db-ca31-4175-a4ca-b2a808dbb271.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Piano, Female Vocals. Forward in the mix, Upbeat, Indie Folk, violin, Moderate tempo ",
+        "prompt": "[instrumental intro]\n\n[Verse 1]\n\u4f60\u662f\u773e\u661f\u4e2d\u6700\u9583\u4eae\u7684\n\u4f60\u662f\u9ed1\u591c\u4e2d\u6700\u795e\u8ff7\u7684\n\u6211\u7121\u6cd5\u505c\u6b62\u51dd\u671b\u4f60\n\u9019\u5875\u4e16\u832b\u832b\u4eba\u6d77\u88e1\n\u6211\u773c\u4e2d\u7684\u4f60 \u8000\u773c\u81ea\u767c\u5149\u9ad4\n\u9803\u523b\u6211\u5c31\u80fd\u5920\u627e\u7684\u5230\u4f60\n\u751f\u547d\u88e1\u4e03\u5f69\u7e7d\u7d1b\u7684\u559c\n[Chorus]\n\u56e0\u70ba\u4f60\u662f\u6211\u524d\u4e16\u4fee\u4f86\u7684\u7de3\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u4f60\u90fd\u4e00\u76f4\u5728\u6211\u5fc3\u7530\n\n\u56e0\u70ba\u4f60\u662f\u5beb\u5728\u4e09\u751f\u77f3\u7684\u7384\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u6211\u90fd\u5c07\u5c0b\u627e\u4f60\u7684\u540d\u5b57 \u4f60\u7684\u81c9\n\n[Verse 2]\n\u6211\u7121\u6cd5\u505c\u6b62\u51dd\u671b\u4f60\n\u9019\u5875\u4e16\u832b\u832b\u4eba\u6d77\u88e1\n\u6211\u773c\u4e2d\u7684\u4f60 \u8000\u773c\u81ea\u767c\u5149\u9ad4\n\u9803\u523b\u6211\u5c31\u80fd\u5920\u627e\u7684\u5230\u4f60\n\u751f\u547d\u88e1\u4e03\u5f69\u7e7d\u7d1b\u7684\u559c\n\n[Chorus]\n\u56e0\u70ba\u4f60\u662f\u6211\u524d\u4e16\u4fee\u4f86\u7684\u7de3\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u4f60\u90fd\u4e00\u76f4\u5728\u6211\u5fc3\u7530\n\n\u56e0\u70ba\u4f60\u662f\u5beb\u5728\u4e09\u751f\u77f3\u7684\u7384\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u6211\u90fd\u5c07\u5c0b\u627e\u4f60\u7684\u540d\u5b57 \u4f60\u7684\u81c9\n\n[Bridge]\n\u53ea\u8981\u7576\u4f60\u547c\u559a\u6211\uff0c\u5594~\n\u53ea\u8981\u7576\u4f60\u60f3\u8d77\u6211\uff0c\u5594~\n[Outro]\n\n[End]\n\n[Chorus]\n\u4f60\u90fd\u4e00\u76f4\u5728\u6211\u5fc3\u7530\n\n\u56e0\u70ba\u4f60\u662f\u5beb\u5728\u4e09\u751f\u77f3\u7684\u7384\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u6211\u90fd\u5c07\u5c0b\u627e\u4f60\u7684\u540d\u5b57 \u4f60\u7684\u81c9\n\n[Bridge]\n\u53ea\u8981\u7576\u4f60\u547c\u559a\u6211\uff0c\u547c~\n\u53ea\u8981\u7576\u4f60\u60f3\u8d77\u6211\uff0c\u547c~\n\n[Chorus]\n\u56e0\u70ba\u4f60\u662f\u6211\u524d\u4e16\u4fee\u4f86\u7684\u7de3\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u4f60\u90fd\u4e00\u76f4\u5728\u6211\u5fc3\u7530\n\n\u56e0\u70ba\u4f60\u662f\u5beb\u5728\u4e09\u751f\u77f3\u7684\u7384\n\u7121\u8ad6\u5728\u591a\u9060\u7684\u5149\u5e74\u3001\u591a\u9060\u7684\u5149\u5e74\n\u6211\u90fd\u5c07\u5c0b\u627e\u4f60\u7684\u540d\u5b57 \u4f60\u7684\u81c9\n\n[Outro, 8 bars]\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "08566e8c-d638-45e9-a830-80f5ad888e87",
+            "continue_at": 120.0
+          },
+          {
+            "id": "e349a3db-ca31-4175-a4ca-b2a808dbb271",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "21cd29a2-7d9a-4182-829d-24403a54d4d0",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T12:24:07.251Z",
+      "status": "complete",
+      "title": "\u591a\u9060\u7684\u5149\u5e74",
+      "play_count": 30228,
+      "upvote_count": 413,
+      "is_public": true
+    },
+    "relative_index": 16.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "c8ed5a84-1274-4533-a460-e9ddec4ce2fa",
+      "video_url": "https://cdn1.suno.ai/c8ed5a84-1274-4533-a460-e9ddec4ce2fa.mp4",
+      "audio_url": "https://cdn1.suno.ai/c8ed5a84-1274-4533-a460-e9ddec4ce2fa.mp3",
+      "image_url": "https://cdn1.suno.ai/image_056e67fc-d1dd-4eb9-85e5-c57e3b1a4f8c.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_056e67fc-d1dd-4eb9-85e5-c57e3b1a4f8c.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "instrumental edm, baritone singer, acid arrangement",
+        "prompt": "[Instrumental Intro]\n\u041e-\u043e-\u043e-\u043e!\n\u041e-\u043e-\u043e-\u043e!\n\u041e\u043e\u043e-\u043e\u043e\u043e!\n\n[Verse]\n\u0412 \u043c\u043e\u0440\u0435 \u0432\u0435\u0442\u0435\u0440, \u0432 \u043c\u043e\u0440\u0435 \u0431\u0443\u0440\u044f,\n\u0412 \u043c\u043e\u0440\u0435 \u0432\u043e\u044e\u0442 \u0443\u0440\u0430\u0433\u0430\u043d\u044b.\n\u0412 \u0441\u0438\u043d\u0435\u043c \u043c\u043e\u0440\u0435 \u0442\u043e\u043d\u0443\u0442 \u043b\u043e\u0434\u043a\u0438,\n\u0418 \u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u043a\u043e\u0440\u0430\u0431\u043b\u0438.\n\n[Verse]\n\u041a\u043e\u0440\u0430\u0431\u043b\u0438 \u043d\u0430 \u0434\u043d\u043e \u0443\u0445\u043e\u0434\u044f\u0442\n\u0421 \u044f\u043a\u043e\u0440\u044f\u043c\u0438, \u0441 \u043f\u0430\u0440\u0443\u0441\u0430\u043c\u0438.\n\u041d\u0430 \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u043f\u0435\u0441\u043e\u043a \u0440\u043e\u043d\u044f\u044f\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438,\n\n[Bridge]\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438!\n\n[Solo]\n\n[Chorus]\n\u041a\u043e\u0440\u0430\u0431\u043b\u0438 \u043b\u0435\u0436\u0430\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u044b,\n\u0421\u0443\u043d\u0434\u0443\u043a\u0438 \u0441\u0442\u043e\u044f\u0442 \u0440\u0430\u0441\u043a\u0440\u044b\u0442\u044b.\n\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u044b \u0438 \u0440\u0443\u0431\u0438\u043d\u044b \u043e\u0441\u044b\u043f\u0430\u044e\u0442\u0441\u044f \u0434\u043e\u0436\u0434\u0451\u043c.\n\u0415\u0441\u043b\u0438 \u0445\u043e\u0447\u0435\u0448\u044c \u0431\u044b\u0442\u044c \u0431\u043e\u0433\u0430\u0442\u044b\u043c,\n\u0415\u0441\u043b\u0438 \u0445\u043e\u0447\u0435\u0448\u044c \u0431\u044b\u0442\u044c \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u043c,\n\u041e\u0441\u0442\u0430\u0432\u0430\u0439\u0441\u044f, \u043c\u0430\u043b\u044c\u0447\u0438\u043a, \u0441 \u043d\u0430\u043c\u0438 -\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c,\n\n[Post-chorus]\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c!\n\n[Verse]\n\u0411\u0443\u0434\u0435\u0448\u044c \u0441\u0435\u044f\u0442\u044c \u0432\u0435\u0442\u0435\u0440 \u0432 \u043c\u043e\u0440\u0435,\n\u0412 \u0441\u0438\u043d\u0435\u043c \u043c\u043e\u0440\u0435, \u0432 \u0431\u0435\u043b\u043e\u0439 \u043f\u0435\u043d\u0435,\n\u041f\u0443\u0441\u0442\u044c, \u0437\u0430\u0445\u043b\u0451\u0431\u044b\u0432\u0430\u044f\u0441\u044c \u0432 \u043f\u0435\u043d\u0435,\n\u0412 \u043c\u043e\u0440\u0435 \u0442\u043e\u043d\u0443\u0442 \u043a\u043e\u0440\u0430\u0431\u043b\u0438.\n\n[Verse]\n\u041f\u0443\u0441\u0442\u044c \u043d\u0430 \u0434\u043d\u043e \u043e\u043d\u0438 \u043b\u043e\u0436\u0430\u0442\u0441\u044f\n\u0421 \u044f\u043a\u043e\u0440\u044f\u043c\u0438, \u0441 \u043f\u0430\u0440\u0443\u0441\u0430\u043c\u0438,\n\u0418 \u0442\u043e\u0433\u0434\u0430 \u0442\u0432\u043e\u0438\u043c\u0438 \u0441\u0442\u0430\u043d\u0443\u0442\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438,\n\n[Bridge]\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438...\n\n[Chorus]\n\u041a\u043e\u0440\u0430\u0431\u043b\u0438 \u043b\u0435\u0436\u0430\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u044b,\n\u0421\u0443\u043d\u0434\u0443\u043a\u0438 \u0441\u0442\u043e\u044f\u0442 \u0440\u0430\u0441\u043a\u0440\u044b\u0442\u044b.\n\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u044b \u0438 \u0440\u0443\u0431\u0438\u043d\u044b \u043e\u0441\u044b\u043f\u0430\u044e\u0442\u0441\u044f \u0434\u043e\u0436\u0434\u0451\u043c.\n\u0421\u043e\u0433\u043b\u0430\u0448\u0430\u0439\u0441\u044f \u0431\u044b\u0442\u044c \u0431\u043e\u0433\u0430\u0442\u044b\u043c,\n\u0421\u043e\u0433\u043b\u0430\u0448\u0430\u0439\u0441\u044f \u0431\u044b\u0442\u044c \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u043c.\n\u041e\u0441\u0442\u0430\u0432\u0430\u0439\u0441\u044f, \u043c\u0430\u043b\u044c\u0447\u0438\u043a, \u0441 \u043d\u0430\u043c\u0438 -\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c,\n\n[Post-chorus]\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c!\n\n[Verse]\n\u041f\u0443\u0441\u0442\u044c \u043d\u0430 \u0434\u043d\u043e \u043e\u043d\u0438 \u043b\u043e\u0436\u0430\u0442\u0441\u044f\n\u0421 \u044f\u043a\u043e\u0440\u042f\u043c\u0438, \u0441 \u043f\u0430\u0440\u0443\u0441\u0430\u043c\u0438,\n\u0418 \u0442\u043e\u0433\u0434\u0430 \u0442\u0432\u043e\u0438\u043c\u0438 \u0441\u0442\u0430\u043d\u0443\u0442\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438,\n\n[Bridge]\n\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0441\u0443\u043d\u0434\u0443\u043a\u0438...\n\n[Epic Solo]\n\n[Chorus]\n\u041a\u043e\u0440\u0430\u0431\u043b\u0438 \u043b\u0435\u0436\u0430\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u044b,\n\u0421\u0443\u043d\u0434\u0443\u043a\u0438 \u0441\u0442\u043e\u044f\u0442 \u0440\u0430\u0441\u043a\u0440\u044b\u0442\u044b.\n\u0418\u0437\u0443\u043c\u0440\u0443\u0434\u044b \u0438 \u0440\u0443\u0431\u0438\u043d\u044b \u043e\u0441\u044b\u043f\u0430\u044e\u0442\u0441\u044f \u0434\u043e\u0436\u0434\u0451\u043c.\n\u0421\u043e\u0433\u043b\u0430\u0448\u0430\u0439\u0441\u044f \u0431\u044b\u0442\u044c \u0431\u043e\u0433\u0430\u0442\u044b\u043c,\n\u0421\u043e\u0433\u043b\u0430\u0448\u0430\u0439\u0441\u044f \u0431\u044b\u0442\u044c \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u043c.\n\u041e\u0441\u0442\u0430\u0432\u0430\u0439\u0441\u044f, \u043c\u0430\u043b\u044c\u0447\u0438\u043a, \u0441 \u043d\u0430\u043c\u0438 -\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c,\n\n[Post-chorus]\n\u0411\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c!\n\n\u041e-\u043e-\u043e-\u043e!\n\u041e-\u043e-\u043e-\u043e!\n\u041e\u043e\u043e-\u043e\u043e\u043e!\n\n[Big finish]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "6feda517-4487-4bb5-9d63-1cfe1c1b3164",
+            "continue_at": 95.0
+          },
+          {
+            "id": "286297eb-d88c-4e06-9445-f36fd77ce17a",
+            "continue_at": 60.0
+          },
+          {
+            "id": "056e67fc-d1dd-4eb9-85e5-c57e3b1a4f8c",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 190.55997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4e0d034f-b0e7-4a11-af07-30c29620f968",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T13:44:41.907Z",
+      "status": "complete",
+      "title": "\u0431\u0443\u0434\u0435\u0448\u044c \u043d\u0430\u0448\u0438\u043c \u043a\u043e\u0440\u043e\u043b\u0451\u043c",
+      "play_count": 22625,
+      "upvote_count": 387,
+      "is_public": true
+    },
+    "relative_index": 17.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "4391593d-0e1d-4698-8835-2b00188e6a69",
+      "video_url": "https://cdn1.suno.ai/4391593d-0e1d-4698-8835-2b00188e6a69.mp4",
+      "audio_url": "https://cdn1.suno.ai/4391593d-0e1d-4698-8835-2b00188e6a69.mp3",
+      "image_url": "https://cdn1.suno.ai/image_454cb630-0690-4ec3-9a13-7471554fdad5.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_454cb630-0690-4ec3-9a13-7471554fdad5.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Metal dark Mozart ",
+        "prompt": "\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "9ccb15bb-5b7b-4497-8967-f569bdc72588",
+            "continue_at": 179.99997916666666
+          },
+          {
+            "id": "454cb630-0690-4ec3-9a13-7471554fdad5",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 239.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "a906c504-3236-45e5-84c8-5597f989b904",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T22:40:53.588Z",
+      "status": "complete",
+      "title": "Dark Mozart ",
+      "play_count": 10377,
+      "upvote_count": 176,
+      "is_public": true
+    },
+    "relative_index": 18.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "2eaf5ae4-0bd3-4d25-a62a-c69d86fba8d4",
+      "video_url": "https://cdn1.suno.ai/2eaf5ae4-0bd3-4d25-a62a-c69d86fba8d4.mp4",
+      "audio_url": "https://cdn1.suno.ai/2eaf5ae4-0bd3-4d25-a62a-c69d86fba8d4.mp3",
+      "image_url": "https://cdn1.suno.ai/image_cfc53c67-fe70-478a-a52b-6e107b0d25eb.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_cfc53c67-fe70-478a-a52b-6e107b0d25eb.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Japanese animation music,female voice,lively,electric guitar",
+        "prompt": "(Verse 1 - Japanese)\n\u7ae5\u8c9e\u3092\u6bba\u3059\u670d\u306f\n\u65e5\u672c\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30b9\u30e9\u30f3\u30b0\u306e\u4e00\u3064\n\u5973\u6027\u306e\u670d\u88c5\u3092\u6307\u3059\u3082\u306e\u3060\u304c\n\u305d\u306e\u610f\u5473\u306e\u89e3\u91c8\u306b\u306f\n\n\u300c\u6e05\u7d14\u305d\u3046\u306a\u30a4\u30e1\u30fc\u30b8\u3092\u611f\u3058\u3055\u305b\u308b\u670d\u300d\n\u300c\u8131\u304c\u305b\u308b\u306e\u304c\u56f0\u96e3\u306a\u670d\u300d\n\u300c\u898b\u305f\u76ee\u304c\u611b\u3089\u3057\u3044\u670d\u300d\n\u300c\u6e05\u695a\u611f\u3068\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0\u3092\u517c\u306d\u5099\u3048\u305f\u670d\u300d\n\u300c\u5973\u6027\u7d4c\u9a13\u306e\u5c11\u306a\u3044\u7537\u6027\u306b\u306f\u523a\u6fc0\u306e\u5f37\u3059\u304e\u308b\u670d\u300d\n\u306a\u3069\n\u8af8\u8aac\u304c\u3042\u308b\n\n(Chorus - English)\nAttire so sly, it baffles men unskilled\nIts structure hides, its secrets tightly sealed\nIn moments dire, its removal a quest\nLeaves them in shame, prepared for death's arrest\n\n(Verse 2 - Japanese)\n\u300c\u7ae5\u8c9e\u3092\u6bba\u3059\u30bb\u30fc\u30bf\u30fc\u300d\u306f\n\u80f8\u306e\u6a2a\u90e8\u5206\u3068\n\u80a9\u304b\u3089\u8170\u306b\u304b\u3051\u3066\u304c\u5927\u304d\u304f\n\u9732\u51fa\u3057\u305f\u30db\u30eb\u30bf\u30fc\u30cd\u30c3\u30af\u306e\u30bb\u30fc\u30bf\u30fc\n\n\u300c\u604b\u611b\u306b\u4e0d\u6163\u308c\u306a\u7537\u6027\u304c\u4e00\u767a\u3067\u865c\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u300d\n\u300c\u5973\u6027\u7d4c\u9a13\u306e\u306a\u3044\u7537\u6027\u306b\u306f\u523a\u6fc0\u304c\u5f37\u3059\u304e\u308b\u300d\n\u306a\u3069\u306e\u7406\u7531\u3067\n\u300c\u7ae5\u8c9e\u3092\u6bba\u3059\u300d\u3068\u5f62\u5bb9\u3055\u308c\u3066\u3044\u308b\n\n(Chorus - English)\nAttire so sly, it baffles men unskilled\nIts structure hides, its secrets tightly sealed\nIn moments dire, its removal a quest\nLeaves them in shame, prepared for death's arrest\n\n(Bridge - Japanese)\n\u5e73\u621030\u5e74\u9803\u306b\u306f\n\u5358\u306b\u9732\u51fa\u5ea6\u306e\u9ad8\u3081\u306a\n\u30cb\u30c3\u30c8\u3084\u6c34\u7740\u307e\u3067\u3082\u304c\n\u300c\u7ae5\u8c9e\u3092\u6bba\u3059\u300d\u3068\u547c\u3070\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\n\u305d\u3046\u3057\u305f\u98a8\u6f6e\u306b\u5bfe\u3057\u3066\u9055\u548c\u611f\u3092\u899a\u3048\n\u300c\u5358\u306b\u9732\u51fa\u5ea6\u306e\u9ad8\u3044\u670d\u306f\u300e\u7ae5\u8c9e\u3092\u6bba\u3059\u670d\u300f\u3068\u306f\u3044\u3048\u306a\u3044\u300d\n\u3068\u306e\u610f\u898b\u3082\u3042\u308b\n\n(Chorus - English)\nAttire so sly, it baffles men unskilled\nIts structure hides, its secrets tightly sealed\nIn moments dire, its removal a quest\nLeaves them in shame, prepared for death's arrest\n\n(Outro - Japanese)\n\u30c1\u30a7\u30ea\u30fc\u30dc\u30fc\u30a4\u306e\u5fc3\u81d3\u3092\n\u6253\u3061\u629c\u3044\u3066\u3057\u307e\u3046\u670d\n\u9732\u51fa\u306f\u6291\u3048\u3089\u308c\u3066\u3044\u308b\u3082\u306e\u306e\n\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0\u3068\u53ef\u611b\u3089\u3057\u3055\u3092\u4e21\u7acb\u3055\u305b\u305f\u670d\n\u6e05\u695a\u611f\u304c\u3042\u308a\u3064\u3064\u3082\n\u7a0b\u826f\u3044\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0\u3082\u517c\u306d\u5099\u3048\u3066\u3044\u308b\u670d\n\n\n(Outro - Japanese)\n\u30c1\u30a7\u30ea\u30fc\u30dc\u30fc\u30a4\u306e\u5fc3\u81d3\u3092\n\u6253\u3061\u629c\u3044\u3066\u3057\u307e\u3046\u670d\n\u9732\u51fa\u306f\u6291\u3048\u3089\u308c\u3066\u3044\u308b\u3082\u306e\u306e\n\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0\u3068\u53ef\u611b\u3089\u3057\u3055\u3092\u4e21\u7acb\u3055\u305b\u305f\u670d\n\u6e05\u695a\u611f\u304c\u3042\u308a\u3064\u3064\u3082\n\u7a0b\u826f\u3044\u30a8\u30ed\u30c6\u30a3\u30b7\u30ba\u30e0\u3082\u517c\u306d\u5099\u3048\u3066\u3044\u308b\u670d",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "2751f047-7c85-4e84-a471-f8e00948bf90",
+            "continue_at": 51.0
+          },
+          {
+            "id": "c360f8f8-7227-441c-b4e9-41d20e7cc2cf",
+            "continue_at": 60.0
+          },
+          {
+            "id": "cfc53c67-fe70-478a-a52b-6e107b0d25eb",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 164.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "9a43acab-4022-4293-93b8-627e5a5ba96b",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T07:26:24.243Z",
+      "status": "complete",
+      "title": "\u7ae5\u8c9e\u3092\u6bba\u3059\u670d",
+      "play_count": 6126,
+      "upvote_count": 81,
+      "is_public": true
+    },
+    "relative_index": 19.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "3e4f95ff-659f-4060-ab6f-4397c3eaba46",
+      "video_url": "https://cdn1.suno.ai/3e4f95ff-659f-4060-ab6f-4397c3eaba46.mp4",
+      "audio_url": "https://cdn1.suno.ai/3e4f95ff-659f-4060-ab6f-4397c3eaba46.mp3",
+      "image_url": "https://cdn1.suno.ai/image_e89bc9b7-ffab-4f54-838e-681e4a0a2052.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_e89bc9b7-ffab-4f54-838e-681e4a0a2052.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Hip-Hop, powerful male vocal, emotional",
+        "prompt": "\u4eba\u4e4b\u521d\u3000\u6027\u672c\u5584\u3000\u6027\u76f8\u8fd1\u3000\u7fd2\u76f8\u9060\n\u82df\u4e0d\u6559\u3000\u6027\u4e43\u9077\u3000\u6559\u4e4b\u9053\u3000\u8cb4\u4ee5\u5c08\n\u6614\u5b5f\u6bcd\u3000\u64c7\u9130\u8655\u3000\u5b50\u4e0d\u5b78\u3000\u65b7\u6a5f\u677c\n\u7ac7\u71d5\u5c71\u3000\u6709\u7fa9\u65b9\u3000\u6559\u4e94\u5b50\u3000\u540d\u4ff1\u63da\n\u990a\u4e0d\u6559\u3000\u7236\u4e4b\u904e\u3000\u6559\u4e0d\u56b4\u3000\u5e2b\u4e4b\u60f0\n\u5b50\u4e0d\u5b78\u3000\u975e\u6240\u5b9c\u3000\u5e7c\u4e0d\u5b78\u3000\u8001\u4f55\u70ba\n\u7389\u4e0d\u7422\u3000\u4e0d\u6210\u5668\u3000\u4eba\u4e0d\u5b78\u3000\u4e0d\u77e5\u7fa9\n\u70ba\u4eba\u5b50\u3000\u65b9\u5c11\u6642\u3000\u89aa\u5e2b\u53cb\u3000\u7fd2\u79ae\u5100\n\u9999\u4e5d\u9f61\u3000\u80fd\u6eab\u5e2d\u3000\u5b5d\u65bc\u89aa\u3000\u6240\u7576\u57f7\n\u878d\u56db\u6b72\u3000\u80fd\u8b93\u68a8\u3000\u5f1f\u65bc\u9577\u3000\u5b9c\u5148\u77e5\n\u9996\u5b5d\u5f1f\u3000\u6b21\u898b\u805e\u3000\u77e5\u67d0\u6578\u3000\u8b58\u67d0\u6587\n\u4e00\u800c\u5341\u3000\u5341\u800c\u767e\u3000\u767e\u800c\u5343\u3000\u5343\u800c\u842c\n\u4e09\u624d\u8005\u3000\u5929\u5730\u4eba\u3000\u4e09\u5149\u8005\u3000\u65e5\u6708\u661f\n\u4e09\u7db1\u8005\u3000\u541b\u81e3\u7fa9\u3000\u7236\u5b50\u89aa\u3000\u592b\u5a66\u9806\n\u66f0\u6625\u590f\u3000\u66f0\u79cb\u51ac\u3000\u6b64\u56db\u6642\u3000\u904b\u4e0d\u7aae\n\u66f0\u5357\u5317\u3000\u66f0\u897f\u6771\u3000\u6b64\u56db\u65b9\u3000\u61c9\u4e4e\u4e2d\n\u66f0\u6c34\u706b\u3000\u6728\u91d1\u571f\u3000\u6b64\u4e94\u884c\u3000\u672c\u4e4e\u6578\n\u5341\u5e72\u8005\u3000\u7532\u81f3\u7678\u3000\u5341\u4e8c\u652f\u3000\u5b50\u81f3\u4ea5\n\u66f0\u9ec3\u9053\u3000\u65e5\u6240\u8e94\u3000\u66f0\u8d64\u9053\u3000\u7576\u4e2d\u6b0a\n\u8d64\u9053\u4e0b\u3000\u6eab\u6696\u6975\u3000\u6211\u4e2d\u83ef\u3000\u5728\u6771\u5317\n\u66f0\u6c5f\u6cb3\u3000\u66f0\u6dee\u6fdf\u3000\u6b64\u56db\u7006\u3000\u6c34\u4e4b\u7d00\n\u66f0\u5cb1\u83ef\u3000\u5d69\u6046\u8861\u3000\u6b64\u4e94\u5cb3\u3000\u5c71\u4e4b\u540d\n\u66f0\u58eb\u8fb2\u3000\u66f0\u5de5\u5546\u3000\u6b64\u56db\u6c11\u3000\u570b\u4e4b\u826f\n\u66f0\u4ec1\u7fa9\u3000\u79ae\u667a\u4fe1\u3000\u6b64\u4e94\u5e38\u3000\u4e0d\u5bb9\u7d0a\n\u5730\u6240\u751f\u3000\u6709\u8349\u6728\u3000\u6b64\u690d\u7269\u3000\u904d\u6c34\u9678\n\u6709\u87f2\u9b5a\u3000\u6709\u9ce5\u7378\u3000\u6b64\u52d5\u7269\u3000\u80fd\u98db\u8d70\n\u7a3b\u6881\u83fd\u3000\u9ea5\u9ecd\u7a37\u3000\u6b64\u516d\u7a40\u3000\u4eba\u6240\u98df\n\u99ac\u725b\u7f8a\u3000\u96de\u72ac\u8c55\u3000\u6b64\u516d\u755c\u3000\u4eba\u6240\u98fc\n\u66f0\u559c\u6012\u3000\u66f0\u54c0\u61fc\u3000\u611b\u60e1\u617e\u3000\u4e03\u60c5\u5177\n\u9752\u8d64\u9ec3\u3000\u53ca\u9ed1\u767d\u3000\u6b64\u4e94\u8272\u3000\u76ee\u6240\u8996\n\u9178\u82e6\u7518\u3000\u53ca\u8f9b\u9e79\u3000\u6b64\u4e94\u5473\u3000\u53e3\u6240\u542b\n\u7fb6\u7126\u9999\u3000\u53ca\u8165\u673d\u3000\u6b64\u4e94\u81ed\u3000\u9f3b\u6240\u55c5\n\u530f\u571f\u9769\u3000\u6728\u77f3\u91d1\u3000\u7d72\u8207\u7af9\u3000\u4e43\u516b\u97f3\n\u66f0\u5e73\u4e0a\u3000\u66f0\u53bb\u5165\u3000\u6b64\u56db\u8072\u3000\u5b9c\u8abf\u5354\n\u9ad8\u66fe\u7956\u3000\u7236\u800c\u8eab\u3000\u8eab\u800c\u5b50\u3000\u5b50\u800c\u5b6b\n\u81ea\u5b50\u5b6b\u3000\u81f3\u7384\u66fe\u3000\u4e43\u4e5d\u65cf\u3000\u4eba\u4e4b\u502b\n\u7236\u5b50\u6069\u3000\u592b\u5a66\u5f9e\u3000\u5144\u5247\u53cb\u3000\u5f1f\u5247\u606d\n\u9577\u5e7c\u5e8f\u3000\u53cb\u8207\u670b\u3000\u541b\u5247\u656c\u3000\u81e3\u5247\u5fe0\n\u6b64\u5341\u7fa9\u3000\u4eba\u6240\u540c\u3000\u7576\u9806\u6558\u3000\u52ff\u9055\u80cc\n\u65ac\u9f4a\u8870\u3000\u5927\u5c0f\u529f\u3000\u81f3\u7de6\u9ebb\u3000\u4e94\u670d\u7d42\n\u79ae\u6a02\u5c04\u3000\u5fa1\u66f8\u6578\u3000\u53e4\u516d\u85dd\u3000\u4eca\u4e0d\u5177\n\u60df\u66f8\u5b78\u3000\u4eba\u5171\u9075\u3000\u65e2\u8b58\u5b57\u3000\u8b1b\u8aaa\u6587\n\u6709\u53e4\u6587\u3000\u5927\u5c0f\u7bc6\u3000\u96b8\u8349\u7e7c\u3000\u4e0d\u53ef\u4e82\n\u82e5\u5ee3\u5b78\u3000\u61fc\u5176\u7e41\u3000\u4f46\u7565\u8aaa\u3000\u80fd\u77e5\u539f\n\u51e1\u8a13\u8499\u3000\u9808\u8b1b\u7a76\u3000\u8a73\u8a13\u8a41\u3000\u660e\u53e5\u8b80\n\u70ba\u5b78\u8005\u3000\u5fc5\u6709\u521d\u3000\u5c0f\u5b78\u7d42\u3000\u81f3\u56db\u66f8\n\u8ad6\u8a9e\u8005\u3000\u4e8c\u5341\u7bc7\u3000\u7fa4\u5f1f\u5b50\u3000\u8a18\u5584\u8a00\n\u5b5f\u5b50\u8005\u3000\u4e03\u7bc7\u6b62\u3000\u8b1b\u9053\u5fb7\u3000\u8aaa\u4ec1\u7fa9\n\u4f5c\u4e2d\u5eb8\u3000\u4e43\u5b54\u4f0b\u3000\u4e2d\u4e0d\u504f\u3000\u5eb8\u4e0d\u6613\n\u4f5c\u5927\u5b78\u3000\u4e43\u66fe\u5b50\u3000\u81ea\u4fee\u9f4a\u3000\u81f3\u5e73\u6cbb\n\u5b5d\u7d93\u901a\u3000\u56db\u66f8\u719f\u3000\u5982\u516d\u7d93\u3000\u59cb\u53ef\u8b80\n\u8a69\u66f8\u6613\u3000\u79ae\u6625\u79cb\u3000\u865f\u516d\u7d93\u3000\u7576\u8b1b\u6c42\n\u6709\u9023\u5c71\u3000\u6709\u6b78\u85cf\u3000\u6709\u5468\u6613\u3000\u4e09\u6613\u8a73\n\u6709\u5178\u8b28\u3000\u6709\u8a13\u8aa5\u3000\u6709\u8a93\u547d\u3000\u66f8\u4e4b\u5967\n\u6211\u5468\u516c\u3000\u4f5c\u5468\u79ae\u3000\u8457\u516d\u5b98\u3000\u5b58\u6cbb\u9ad4\n\u5927\u5c0f\u6234\u3000\u8a3b\u79ae\u8a18\u3000\u8ff0\u8056\u8a00\u3000\u79ae\u6a02\u5099\n\u66f0\u570b\u98a8\u3000\u66f0\u96c5\u980c\u3000\u865f\u56db\u8a69\u3000\u7576\u8af7\u8a60\n\u8a69\u65e2\u4ea1\u3000\u6625\u79cb\u4f5c\u3000\u5bd3\u8912\u8cb6\u3000\u5225\u5584\u60e1\n\u4e09\u50b3\u8005\u3000\u6709\u516c\u7f8a\u3000\u6709\u5de6\u6c0f\u3000\u6709\u7a40\u6881\n\u7d93\u65e2\u660e\u3000\u65b9\u8b80\u5b50\u3000\u64ae\u5176\u8981\u3000\u8a18\u5176\u4e8b\n\u4e94\u5b50\u8005\u3000\u6709\u8340\u63da\u3000\u6587\u4e2d\u5b50\u3000\u53ca\u8001\u838a\n\u7d93\u5b50\u901a\u3000\u8b80\u8af8\u53f2\u3000\u8003\u4e16\u7cfb\u3000\u77e5\u7d42\u59cb\n\u81ea\u7fb2\u8fb2\u3000\u81f3\u7687\u5e1d\u3000\u865f\u4e09\u7687\u3000\u5c45\u4e0a\u4e16\n\u5510\u6709\u865e\u3000\u865f\u4e8c\u5e1d\u3000\u76f8\u63d6\u905c\u3000\u7a31\u76db\u4e16\n\u590f\u6709\u79b9\u3000\u5546\u6709\u6e6f\u3000\u5468\u6587\u6b66\u3000\u7a31\u4e09\u738b\n\u590f\u50b3\u5b50\u3000\u5bb6\u5929\u4e0b\u3000\u56db\u767e\u8f09\u3000\u9077\u590f\u793e\n\u6e6f\u4f10\u590f\u3000\u570b\u865f\u5546\u3000\u516d\u767e\u8f09\u3000\u81f3\u7d02\u738b\n\u5468\u6b66\u738b\u3000\u59cb\u8a85\u7d02\u3000\u516b\u767e\u8f09\u3000\u6700\u9577\u4e45\n\u5468\u8f4d\u6771\u3000\u738b\u7db1\u589c\u3000\u901e\u5e72\u6208\u3000\u5c1a\u904a\u8aaa\n\u59cb\u6625\u79cb\u3000\u7d42\u6230\u570b\u3000\u4e94\u9738\u5f37\u3000\u4e03\u96c4\u51fa\n\u5b34\u79e6\u6c0f\u3000\u59cb\u517c\u4f75\u3000\u50b3\u4e8c\u4e16\u3000\u695a\u6f22\u722d\n\u9ad8\u7956\u8208\u3000\u6f22\u696d\u5efa\u3000\u81f3\u5b5d\u5e73\u3000\u738b\u83bd\u7be1\n\u5149\u6b66\u8208\u3000\u70ba\u6771\u6f22\u3000\u56db\u767e\u5e74\u3000\u7d42\u65bc\u737b\n\u9b4f\u8700\u5433\u3000\u722d\u6f22\u9f0e\u3000\u865f\u4e09\u570b\u3000\u8fc4\u5169\u6649\n\u5b8b\u9f4a\u7e7c\u3000\u6881\u9673\u627f\u3000\u70ba\u5357\u671d\u3000\u90fd\u91d1\u9675\n\u5317\u5143\u9b4f\u3000\u5206\u6771\u897f\u3000\u5b87\u6587\u5468\u3000\u8207\u9ad8\u9f4a\n\u8fe8\u81f3\u968b\u3000\u4e00\u571f\u5b87\u3000\u4e0d\u518d\u50b3\u3000\u5931\u7d71\u7dd2\n\u5510\u9ad8\u7956\u3000\u8d77\u7fa9\u5e2b\u3000\u9664\u968b\u4e82\u3000\u5275\u570b\u57fa\n\n\u51e1\u8a13\u8499\u3000\u9808\u8b1b\u7a76\u3000\u8a73\u8a13\u8a41\u3000\u660e\u53e5\u8b80\n\u70ba\u5b78\u8005\u3000\u5fc5\u6709\u521d\u3000\u5c0f\u5b78\u7d42\u3000\u81f3\u56db\u66f8\n\u8ad6\u8a9e\u8005\u3000\u4e8c\u5341\u7bc7\u3000\u7fa4\u5f1f\u5b50\u3000\u8a18\u5584\u8a00\n\u5b5f\u5b50\u8005\u3000\u4e03\u7bc7\u6b62\u3000\u8b1b\u9053\u5fb7\u3000\u8aaa\u4ec1\u7fa9\n\u4f5c\u4e2d\u5eb8\u3000\u4e43\u5b54\u4f0b\u3000\u4e2d\u4e0d\u504f\u3000\u5eb8\u4e0d\u6613\n\u4f5c\u5927\u5b78\u3000\u4e43\u66fe\u5b50\u3000\u81ea\u4fee\u9f4a\u3000\u81f3\u5e73\u6cbb\n\u5b5d\u7d93\u901a\u3000\u56db\u66f8\u719f\u3000\u5982\u516d\u7d93\u3000\u59cb\u53ef\u8b80\n\u8a69\u66f8\u6613\u3000\u79ae\u6625\u79cb\u3000\u865f\u516d\u7d93\u3000\u7576\u8b1b\u6c42\n\u6709\u9023\u5c71\u3000\u6709\u6b78\u85cf\u3000\u6709\u5468\u6613\u3000\u4e09\u6613\u8a73\n\u6709\u5178\u8b28\u3000\u6709\u8a13\u8aa5\u3000\u6709\u8a93\u547d\u3000\u66f8\u4e4b\u5967\n\u6211\u5468\u516c\u3000\u4f5c\u5468\u79ae\u3000\u8457\u516d\u5b98\u3000\u5b58\u6cbb\u9ad4\n\u5927\u5c0f\u6234\u3000\u8a3b\u79ae\u8a18\u3000\u8ff0\u8056\u8a00\u3000\u79ae\u6a02\u5099\n\u66f0\u570b\u98a8\u3000\u66f0\u96c5\u980c\u3000\u865f\u56db\u8a69\u3000\u7576\u8af7\u8a60\n\u8a69\u65e2\u4ea1\u3000\u6625\u79cb\u4f5c\u3000\u5bd3\u8912\u8cb6\u3000\u5225\u5584\u60e1\n\u4e09\u50b3\u8005\u3000\u6709\u516c\u7f8a\u3000\u6709\u5de6\u6c0f\u3000\u6709\u7a40\u6881\n\u7d93\u65e2\u660e\u3000\u65b9\u8b80\u5b50\u3000\u64ae\u5176\u8981\u3000\u8a18\u5176\u4e8b\n\u4e94\u5b50\u8005\u3000\u6709\u8340\u63da\u3000\u6587\u4e2d\u5b50\u3000\u53ca\u8001\u838a\n\u7d93\u5b50\u901a\u3000\u8b80\u8af8\u53f2\u3000\u8003\u4e16\u7cfb\u3000\u77e5\u7d42\u59cb\n\u81ea\u7fb2\u8fb2\u3000\u81f3\u7687\u5e1d\u3000\u865f\u4e09\u7687\u3000\u5c45\u4e0a\u4e16\n\u5510\u6709\u865e\u3000\u865f\u4e8c\u5e1d\u3000\u76f8\u63d6\u905c\u3000\u7a31\u76db\u4e16\n\u590f\u6709\u79b9\u3000\u5546\u6709\u6e6f\u3000\u5468\u6587\u6b66\u3000\u7a31\u4e09\u738b\n\u590f\u50b3\u5b50\u3000\u5bb6\u5929\u4e0b\u3000\u56db\u767e\u8f09\u3000\u9077\u590f\u793e\n\u6e6f\u4f10\u590f\u3000\u570b\u865f\u5546\u3000\u516d\u767e\u8f09\u3000\u81f3\u7d02\u738b\n\u5468\u6b66\u738b\u3000\u59cb\u8a85\u7d02\u3000\u516b\u767e\u8f09\u3000\u6700\u9577\u4e45\n\u5468\u8f4d\u6771\u3000\u738b\u7db1\u589c\u3000\u901e\u5e72\u6208\u3000\u5c1a\u904a\u8aaa\n\u59cb\u6625\u79cb\u3000\u7d42\u6230\u570b\u3000\u4e94\u9738\u5f37\u3000\u4e03\u96c4\u51fa\n\u5b34\u79e6\u6c0f\u3000\u59cb\u517c\u4f75\u3000\u50b3\u4e8c\u4e16\u3000\u695a\u6f22\u722d\n\u9ad8\u7956\u8208\u3000\u6f22\u696d\u5efa\u3000\u81f3\u5b5d\u5e73\u3000\u738b\u83bd\u7be1\n\u5149\u6b66\u8208\u3000\u70ba\u6771\u6f22\u3000\u56db\u767e\u5e74\u3000\u7d42\u65bc\u737b\n\u9b4f\u8700\u5433\u3000\u722d\u6f22\u9f0e\u3000\u865f\u4e09\u570b\u3000\u8fc4\u5169\u6649\n\u5b8b\u9f4a\u7e7c\u3000\u6881\u9673\u627f\u3000\u70ba\u5357\u671d\u3000\u90fd\u91d1\u9675\n\u5317\u5143\u9b4f\u3000\u5206\u6771\u897f\u3000\u5b87\u6587\u5468\u3000\u8207\u9ad8\u9f4a\n\u8fe8\u81f3\u968b\u3000\u4e00\u571f\u5b87\u3000\u4e0d\u518d\u50b3\u3000\u5931\u7d71\u7dd2\n\u5510\u9ad8\u7956\u3000\u8d77\u7fa9\u5e2b\u3000\u9664\u968b\u4e82\u3000\u5275\u570b\u57fa\n\n\u5468\u6b66\u738b\u3000\u59cb\u8a85\u7d02\u3000\u516b\u767e\u8f09\u3000\u6700\u9577\u4e45\n\u5468\u8f4d\u6771\u3000\u738b\u7db1\u589c\u3000\u901e\u5e72\u6208\u3000\u5c1a\u904a\u8aaa\n\u59cb\u6625\u79cb\u3000\u7d42\u6230\u570b\u3000\u4e94\u9738\u5f37\u3000\u4e03\u96c4\u51fa\n\u5b34\u79e6\u6c0f\u3000\u59cb\u517c\u4f75\u3000\u50b3\u4e8c\u4e16\u3000\u695a\u6f22\u722d\n\u9ad8\u7956\u8208\u3000\u6f22\u696d\u5efa\u3000\u81f3\u5b5d\u5e73\u3000\u738b\u83bd\u7be1\n\u5149\u6b66\u8208\u3000\u70ba\u6771\u6f22\u3000\u56db\u767e\u5e74\u3000\u7d42\u65bc\u737b\n\u9b4f\u8700\u5433\u3000\u722d\u6f22\u9f0e\u3000\u865f\u4e09\u570b\u3000\u8fc4\u5169\u6649\n\u5b8b\u9f4a\u7e7c\u3000\u6881\u9673\u627f\u3000\u70ba\u5357\u671d\u3000\u90fd\u91d1\u9675\n\u5317\u5143\u9b4f\u3000\u5206\u6771\u897f\u3000\u5b87\u6587\u5468\u3000\u8207\u9ad8\u9f4a\n\u8fe8\u81f3\u968b\u3000\u4e00\u571f\u5b87\u3000\u4e0d\u518d\u50b3\u3000\u5931\u7d71\u7dd2\n\u5510\u9ad8\u7956\u3000\u8d77\u7fa9\u5e2b\u3000\u9664\u968b\u4e82\u3000\u5275\u570b\u57fa",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "0d1a7f06-04f6-4689-a41b-d413379d252a",
+            "continue_at": 119.0
+          },
+          {
+            "id": "663b5ded-8f05-407f-b814-35399ecb9de4",
+            "continue_at": 59.0
+          },
+          {
+            "id": "e89bc9b7-ffab-4f54-838e-681e4a0a2052",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 237.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4b3a7d53-41a6-40be-b0d9-15cc1b5107eb",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T13:30:18.963Z",
+      "status": "complete",
+      "title": "\u4e09\u5b57\u7d93",
+      "play_count": 2131,
+      "upvote_count": 45,
+      "is_public": true
+    },
+    "relative_index": 20.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "674e86cb-0395-414a-a291-a4c11a9efc4d",
+      "video_url": "https://cdn1.suno.ai/674e86cb-0395-414a-a291-a4c11a9efc4d.mp4",
+      "audio_url": "https://cdn1.suno.ai/674e86cb-0395-414a-a291-a4c11a9efc4d.mp3",
+      "image_url": "https://cdn1.suno.ai/image_7f872d57-80f1-4b23-add7-e17be1336e65.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_7f872d57-80f1-4b23-add7-e17be1336e65.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "lo-fi house",
+        "prompt": "[Instrumental]\n\n[Verse 1]\nThe first fifty decimal places of pi,\nIs very hard to fully memorize,\nIf you forget, no need to 'pologize.\n\n[Chorus]\nSo here we go, these are the first twenty-five.\n3 point 1 4 1 5 9 2 6 5 3 5  8 9 7 9 3 2 3 8 4 6  2 6 4 3 3 (yeah!)\n\nAnd finally, these are the last twenty-five.\n8 3 2 7 9  5 0 2 8 8 4 1 9 7 1  6 9 3 9 9 3 7 5 1 0  (yeah!)\n\n[Instrumental]\n\n[Verse 1]\nThe first fifty decimal places of pi,\nIs very hard to fully memorize,\nIf you forget, no need to 'pologize.\n\n[Chorus]\nSo here we go, these are the first twenty-five.\n3 point 1 4 1 5 9 2 6 5 3 5  8 9 7 9 3 2 3 8 4 6  2 6 4 3 3 (yeah!)\n\nAnd finally, these are the last twenty-five.\n8 3 2 7 9  5 0 2 8 8 4 1 9 7 1  6 9 3 9 9 3 7 5 1 0  (yeah!)\n\n\n\n[Instrumental]\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "ca2a9bbb-fd50-457b-8faa-2f7cb2b82655",
+            "continue_at": 120.0
+          },
+          {
+            "id": "7f872d57-80f1-4b23-add7-e17be1336e65",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 129.59997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4335cbe3-6248-461f-b95c-b137dccc51c4",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T10:17:18.721Z",
+      "status": "complete",
+      "title": "50 decimal places of pi",
+      "play_count": 1389,
+      "upvote_count": 67,
+      "is_public": true
+    },
+    "relative_index": 21.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "86c03eaa-facb-487c-96d5-015a0d3fcc72",
+      "video_url": "https://cdn1.suno.ai/86c03eaa-facb-487c-96d5-015a0d3fcc72.mp4",
+      "audio_url": "https://cdn1.suno.ai/86c03eaa-facb-487c-96d5-015a0d3fcc72.mp3",
+      "image_url": "https://cdn1.suno.ai/image_463417b7-1282-4083-a681-c11848872ba1.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_463417b7-1282-4083-a681-c11848872ba1.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "lofi,City pop,R&B",
+        "prompt": "[intrumental intro]\n[intrumental intro]\n[Verse 1]\n\u65e0\u8a00\u7684\u544a\u522b\uff0c\u5982\u68a6\u521d\u9192\n\u4f60\u7684\u773c\u7738\uff0c\u85cf\u4e0d\u4f4f\u7684\u79bb\u60c5\n\u6211\u4eec\u7684\u7231\u60c5\uff0c\u7ec8\u7a76\u96be\u9003\u547d\u8fd0\n\u5206\u624b\u7684\u65f6\u523b\uff0c\u65e0\u58f0\u800c\u6765\n\n[Pre-Chorus]\n\u5982\u98ce\u8f7b\u8f7b\u5439\u8fc7\uff0c\u6b8b\u7559\u7740\u4f60\u7684\u6e29\u67d4\n\u6211\u5fc3\u5982\u5200\u5272\uff0c\u65e0\u6cd5\u8a00\u8bf4\u7684\u60b2\u4f24\n\u5728\u8fd9\u5bc2\u9759\u591c\u665a\uff0c\u6211\u72ec\u81ea\u5f98\u5f8a\n\u8ffd\u5bfb\u7740\u4f60\uff0c\u5982\u75f4\u5982\u9189\uff0c\u5982\u68a6\u521d\u9192\n\n[Chorus]\n\u65e0\u8a00\u7684\u544a\u522b\uff0c\u523b\u9aa8\u94ed\u5fc3\n\u76f8\u7231\u7684\u75d5\u8ff9\uff0c\u6c38\u8fdc\u96be\u4ee5\u62b9\u53bb\n\u4f24\u5fc3\u7684\u6cea\u6c34\uff0c\u6dcc\u8fc7\u5fc3\u95f4\n\u5728\u8fd9\u65e0\u8a00\u7684\u544a\u522b\u91cc\uff0c\u6211\u72ec\u81ea\u60b2\u4f24\n\n[Verse 2]\n\u56de\u5fc6\u5982\u6f6e\uff0c\u6d8c\u5411\u6211\u5fc3\n\u4f60\u7684\u7b11\u5bb9\uff0c\u66fe\u662f\u6211\u7684\u5168\u90e8\n\u4f46\u73b0\u5728\uff0c\u4e00\u5207\u90fd\u5df2\u6d88\u901d\n\u53ea\u5269\u4e0b\u6211\u5b64\u72ec\u7684\u8eab\u5f71\n\n[Pre-Chorus]\n\u5982\u68a6\u521d\u9192\u65f6\uff0c\u6211\u7684\u5fc3\u788e\u6210\u7247\n\u6bcf\u4e00\u7247\u90fd\u662f\u4f60\uff0c\u6bcf\u4e00\u7247\u90fd\u662f\u75db\n\u5728\u8fd9\u5bc2\u9759\u591c\u665a\uff0c\u6211\u72ec\u81ea\u5f98\u5f8a\n\u8ffd\u5bfb\u7740\u4f60\uff0c\u5982\u75f4\u5982\u9189\uff0c\u5982\u68a6\u521d\u9192\n\n[Chorus]\n\u65e0\u8a00\u7684\u544a\u522b\uff0c\u523b\u9aa8\u94ed\u5fc3\n\u76f8\u7231\u7684\u75d5\u8ff9\uff0c\u6c38\u8fdc\u96be\u4ee5\u62b9\u53bb\n\u4f24\u5fc3\u7684\u6cea\u6c34\uff0c\u6dcc\u8fc7\u5fc3\u95f4\n\u5728\u8fd9\u65e0\u8a00\u7684\u544a\u522b\u91cc\uff0c\u6211\u72ec\u81ea\u60b2\u4f24\n\n[Bridge]\n\u65f6\u5149\u5306\u5306\u901d\u53bb\uff0c\u6211\u65e0\u6cd5\u633d\u7559\n\u4f60\u7684\u8eab\u5f71\u6e10\u884c\u6e10\u8fdc\uff0c\u6211\u65e0\u80fd\u4e3a\u529b\n\u4f46\u6211\u7684\u7231\u6c38\u5b58\uff0c\u5728\u65e0\u5c3d\u7684\u65f6\u5149\u91cc\n\u5728\u8fd9\u65e0\u8a00\u7684\u544a\u522b\u91cc\uff0c\u6211\u72ec\u81ea\u60b2\u4f24\n\n[Chorus]\n\u65e0\u8a00\u7684\u544a\u522b\uff0c\u523b\u9aa8\u94ed\u5fc3\n\u76f8\u7231\u7684\u75d5\u8ff9\uff0c\u6c38\u8fdc\u96be\u4ee5\u62b9\u53bb\n\u4f24\u5fc3\u7684\u6cea\u6c34\uff0c\u6dcc\u8fc7\u5fc3\u95f4\n\u5728\u8fd9\u65e0\u8a00\u7684\u544a\u522b\u91cc\uff0c\u6211\u72ec\u81ea\u60b2\u4f24\n\n[fade out]\n[fade out]\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d0e9dc22-b785-434e-ae1b-0e86dde76a90",
+            "continue_at": 120.0
+          },
+          {
+            "id": "463417b7-1282-4083-a681-c11848872ba1",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 167.43997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "97d3e553-2ecc-452a-a5ed-35c540db36ea",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T08:29:25.164Z",
+      "status": "complete",
+      "title": "\u8fdc\u884c\u7684\u4eba",
+      "play_count": 4846,
+      "upvote_count": 64,
+      "is_public": true
+    },
+    "relative_index": 22.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "1ed75299-cadf-4b56-afb1-f917e34d6932",
+      "video_url": "https://cdn1.suno.ai/1ed75299-cadf-4b56-afb1-f917e34d6932.mp4",
+      "audio_url": "https://cdn1.suno.ai/1ed75299-cadf-4b56-afb1-f917e34d6932.mp3",
+      "image_url": "https://cdn1.suno.ai/image_47373922-381e-49f6-8c70-f40ee151a93f.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_47373922-381e-49f6-8c70-f40ee151a93f.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Live music, melodic pop, melodic rock ",
+        "prompt": "[Verse]\nHello, hello, can you hear me now?\nI've been calling, been shouting out loud\nIn this empty room, no one's around\nBut I'll keep singing, keep making sound\n[Chorus]\nHello hello We'll sing together, strong and proud\nIn unity, we\u2019ll make our voices loud\nHello, hello, let the world hear\nThe power of our words, so crystal clear\n[Verse 2]\nHello, hello, can you feel it too?\nHello, hello, this connection's true\nIn a world so loud, let's make it through\nHello, hello, with our voices, we\u2019ll break on through\n\n[Chorus]\nHello hello We'll sing together, strong and proud\nIn unity, we\u2019ll make our voices loud\nHello, hello, let the world hear\nThe power of our words, so crystal clear\n\nSing hello hello\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "85bc7ac4-6f8a-4b0a-b175-cdb67cf984fc",
+            "continue_at": 120.0
+          },
+          {
+            "id": "47373922-381e-49f6-8c70-f40ee151a93f",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 174.87997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "19625e89-56a4-40af-be1e-ca9794512436",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T20:12:03.034Z",
+      "status": "complete",
+      "title": "Hello ",
+      "play_count": 11472,
+      "upvote_count": 185,
+      "is_public": true
+    },
+    "relative_index": 23.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "d9a35de9-2453-4084-8ac9-60ed8b5ba516",
+      "video_url": "https://cdn1.suno.ai/d9a35de9-2453-4084-8ac9-60ed8b5ba516.mp4",
+      "audio_url": "https://cdn1.suno.ai/d9a35de9-2453-4084-8ac9-60ed8b5ba516.mp3",
+      "image_url": "https://cdn1.suno.ai/image_c313db01-3a31-4afd-a953-3a1206df59a7.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_c313db01-3a31-4afd-a953-3a1206df59a7.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Swing, female singer, Singing along with the choir",
+        "prompt": "[Instrumental intro]\n\u041e-\u043e-\u043e-\u0430-\u0430-\u043e-\u043e\n\n[Verse 1]\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u0438\u0437 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0434\u0430\u043b\u0451\u043a\u0430,\n\u0413\u043e\u043b\u043e\u0441 \u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0432 \u0441\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e\u0439 \u0440\u043e\u0441\u0435.\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441, \u0438 \u043c\u0430\u043d\u044f\u0449\u0430\u044f \u0434\u043e\u0440\u043e\u0433\u0430\n\u041a\u0440\u0443\u0436\u0438\u0442 \u0433\u043e\u043b\u043e\u0432\u0443, \u043a\u0430\u043a \u0432 \u0434\u0435\u0442\u0441\u0442\u0432\u0435 \u043a\u0430\u0440\u0443\u0441\u0435\u043b\u044c.\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[Verse 2]\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u0438\u0437 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0433\u043e \u0434\u0430\u043b\u0451\u043a\u043e,\n\u041e\u043d \u0437\u043e\u0432\u0435\u0442 \u043c\u0435\u043d\u044f \u0432 \u0447\u0443\u0434\u0435\u0441\u043d\u044b\u0435 \u043a\u0440\u0430\u044f,\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441, \u0433\u043e\u043b\u043e\u0441 \u0441\u043f\u0440\u0430\u0448\u0438\u0432\u0430\u0435\u0442 \u0441\u0442\u0440\u043e\u0433\u043e:\n\u0410 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0447\u0442\u043e \u0434\u043b\u044f \u0437\u0430\u0432\u0442\u0440\u0430 \u0441\u0434\u0435\u043b\u0430\u043b \u044f?\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b`\u0451\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[drum solo]\n\n[Music slowdown]\n[Verse 3]\n\u042f \u043a\u043b\u044f\u043d\u0443\u0441\u044c, \u0447\u0442\u043e \u0441\u0442\u0430\u043d\u0443 \u0447\u0438\u0449\u0435 \u0438 \u0434\u043e\u0431\u0440\u0435\u0435,\n\u0418 \u0432 \u0431\u0435\u0434\u0435 \u043d\u0435 \u0431\u0440\u043e\u0448\u0443 \u0434\u0440\u0443\u0433\u0430 \u043d\u0438\u043a\u043e\u0433\u0434\u0430.\n\u0421\u043b\u044b\u0448\u0443 \u0433\u043e\u043b\u043e\u0441 \u2014 \u0438 \u0441\u043f\u0435\u0448\u0443 \u043d\u0430 \u0437\u043e\u0432 \u0441\u043a\u043e\u0440\u0435\u0435\n\u041f\u043e \u0434\u043e\u0440\u043e\u0433\u0435, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043d\u0435\u0442 \u0441\u043b\u0435\u0434\u0430.\n\n[Chorus]\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u041d\u0435 \u0431\u0443\u0434\u044c \u043a\u043e \u043c\u043d\u0435 \u0436\u0435\u0441\u0442\u043e\u043a\u043e,\n\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u043d\u0435 \u0431\u0443\u0434\u044c.\n\u041e\u0442 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u043a\u0430\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e,\n\u0412 \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0435\u043a\u043e\n\u042f \u043d\u0430\u0447\u0438\u043d\u0430\u044e \u043f\u0443\u0442\u044c.\n\n[Big finish]\n\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e...\n\u041e-\u043e-\u043e...\n\n[Fade Out]\n\n[Big finish]\n\n\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e...\n\u041e-\u043e-\u043e...\n\n[Fade Out]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "8dc2fa46-18c5-443a-9d42-8cceaedda034",
+            "continue_at": 120.0
+          },
+          {
+            "id": "c313db01-3a31-4afd-a953-3a1206df59a7",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 173.79997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f3f2af7d-f98a-40d3-bc6f-9f7b9501775b",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T13:45:24.479Z",
+      "status": "complete",
+      "title": "\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u043e\u0435 \u0434\u0430\u043b\u0451\u043a\u043e",
+      "play_count": 1332,
+      "upvote_count": 61,
+      "is_public": true
+    },
+    "relative_index": 24.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "ee9281e7-c0a6-4adf-b731-814169d1c33a",
+      "video_url": "https://cdn1.suno.ai/ee9281e7-c0a6-4adf-b731-814169d1c33a.mp4",
+      "audio_url": "https://cdn1.suno.ai/ee9281e7-c0a6-4adf-b731-814169d1c33a.mp3",
+      "image_url": "https://cdn1.suno.ai/image_f89b7f33-940a-4724-a29b-44e7a8d0d490.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_f89b7f33-940a-4724-a29b-44e7a8d0d490.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "smooth pop, female vocal, acoustic guitar, piano.",
+        "prompt": "[Verse 1]\n\u8def\u706f\u4e0b\u7684\u5f71\u5b50\uff0c\u62c9\u5f97\u957f\u53c8\u7ec6\n\u4f60\u8bf4\u8fd9\u753b\u9762\uff0c\u50cf\u6781\u4e86\u9752\u6625\u7684\u526a\u5f71\n\u5496\u5561\u676f\u7684\u70ed\u6c14\uff0c\u5728\u7a7a\u4e2d\u8f7b\u8f7b\u5f25\u6f2b\n\u51e0\u53e5\u95f2\u804a\u91cc\uff0c\u85cf\u7740\u6211\u4eec\u7684\u79d8\u5bc6\n\n[Chorus]\n\u8bb0\u5fc6\u91cc\u7684\u65cb\u5f8b\uff0c\u603b\u662f\u90a3\u4e48\u751c\u871c\n\u50cf\u6781\u4e86\u521d\u604b\u7684\u5473\u9053\uff0c\u6de1\u6de1\u7684\u4e00\u4e1d\u5fe7\u90c1\n\u591c\u7a7a\u4e2d\u7684\u661f\uff0c\u662f\u5426\u542c\u89c1\u4e86\u6211\u4eec\u7684\u5fc3\n\u5728\u8fd9\u4e0d\u53d8\u7684\u4e16\u754c\u91cc\uff0c\u6709\u4f60\u624d\u663e\u5f97\u7279\u522b\n\n[Verse 2]\n\u96e8\u540e\u7684\u8857\u9053\uff0c\u7a7a\u6c14\u6e05\u65b0\u53c8\u6e7f\u6da6\n\u4f60\u8bf4\u8fd9\u5929\u6c14\uff0c\u9002\u5408\u8d70\u8d70\u5fc3\u91cc\u7684\u8def\n\u65e7\u7167\u7247\u7684\u89d2\u843d\uff0c\u85cf\u7740\u7b11\u5bb9\u548c\u6cea\u5149\n\u6bcf\u4e00\u5f20\u90fd\u662f\uff0c\u6211\u4eec\u6545\u4e8b\u7684\u89c1\u8bc1\n\n[Chorus]\n\u8bb0\u5fc6\u91cc\u7684\u65cb\u5f8b\uff0c\u603b\u662f\u90a3\u4e48\u751c\u871c\n\u50cf\u6781\u4e86\u521d\u604b\u7684\u5473\u9053\uff0c\u6de1\u6de1\u7684\u4e00\u4e1d\u5fe7\u90c1\n\u591c\u7a7a\u4e2d\u7684\u661f\uff0c\u662f\u5426\u542c\u89c1\u4e86\u6211\u4eec\u7684\u5fc3\n\u5728\u8fd9\u4e0d\u53d8\u7684\u4e16\u754c\u91cc\uff0c\u6709\u4f60\u624d\u663e\u5f97\u7279\u522b\n\n\n\n[Bridge]\n\u65f6\u95f4\u5e26\u8d70\u4e86\u5f88\u591a\uff0c\u5374\u7559\u4e0b\u6700\u73cd\u8d35\u7684\u4e1c\u897f\n\u90a3\u4e9b\u5e74\u7684\u68a6\u60f3\uff0c\u4f9d\u7136\u5728\u5fc3\u5e95\u95ea\u4eae\n\u6bcf\u4e00\u6b65\u6211\u4eec\u8d70\u8fc7\uff0c\u94fa\u5c31\u4e86\u4eca\u5929\u7684\u8def\n\n[Chorus]\n\u57ce\u5e02\u7684\u706f\u5149\uff0c\u95ea\u70c1\u7740\u8fc7\u5f80\n\u50cf\u662f\u8ffd\u5fc6\u7740\u6211\u4eec\u7684\u68a6\u60f3\uff0c\u6e29\u67d4\u53c8\u9065\u671b\n\u90a3\u4e9b\u8bf4\u8fc7\u7684\u8bdd\uff0c\u8fd8\u5728\u8033\u8fb9\u5f98\u5f8a\n\u5728\u8fd9\u661f\u5149\u7480\u74a8\u7684\u591c\u91cc\uff0c\u4f60\u662f\u6211\u7684\u552f\u4e00\n\n[Outro]\n\u5c31\u8ba9\u8fd9\u9996\u6b4c\uff0c\u9001\u7ed9\u4f60\u6211\u7684\u5fc3\n\u5728\u6bcf\u4e2a\u591c\u665a\uff0c\u966a\u4f60\u76f4\u5230\u5929\u660e\n\n[Guitar Solo Ending]\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "de7da788-154f-4a04-a999-2b6849f4c18d",
+            "continue_at": 188.0
+          },
+          {
+            "id": "f89b7f33-940a-4724-a29b-44e7a8d0d490",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 247.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "87a47f25-13a3-46d9-9e45-3faeddeacfb4",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T12:16:57.934Z",
+      "status": "complete",
+      "title": "\u8bb0\u5fc6\u4e2d\u7684\u65cb\u5f8b",
+      "play_count": 2284,
+      "upvote_count": 46,
+      "is_public": true
+    },
+    "relative_index": 25.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "a1b5c05d-f259-49b9-8c79-85c173c68af7",
+      "video_url": "https://cdn1.suno.ai/a1b5c05d-f259-49b9-8c79-85c173c68af7.mp4",
+      "audio_url": "https://cdn1.suno.ai/a1b5c05d-f259-49b9-8c79-85c173c68af7.mp3",
+      "image_url": "https://cdn1.suno.ai/image_f77a1600-fb78-44dc-a354-db17572e116b.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_f77a1600-fb78-44dc-a354-db17572e116b.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "irish female neo soul funk hip-hop smooth sax house neo funk classical",
+        "prompt": "[Instrumental]\n\n\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "fc264ad4-95ae-4c19-9160-5c6311e09c89",
+            "continue_at": 120.0
+          },
+          {
+            "id": "28040b12-2c37-43a3-ba64-d205b1ae0b25",
+            "continue_at": 60.0
+          },
+          {
+            "id": "3ff737be-1f6c-4fb4-b62a-57f9e64f9a5d",
+            "continue_at": 60.0
+          },
+          {
+            "id": "f77a1600-fb78-44dc-a354-db17572e116b",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 299.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "878ba5df-b985-48ec-b9dd-d766e1fc8084",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T04:42:42.912Z",
+      "status": "complete",
+      "title": "Emerald Groove",
+      "play_count": 3481,
+      "upvote_count": 83,
+      "is_public": true
+    },
+    "relative_index": 26.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "ce4cb7d9-f5ba-4f03-9111-a0270c078bf8",
+      "video_url": "https://cdn1.suno.ai/ce4cb7d9-f5ba-4f03-9111-a0270c078bf8.mp4",
+      "audio_url": "https://cdn1.suno.ai/ce4cb7d9-f5ba-4f03-9111-a0270c078bf8.mp3",
+      "image_url": "https://cdn1.suno.ai/image_694128c1-ad80-4e76-8b0e-8ed7907b7563.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_694128c1-ad80-4e76-8b0e-8ed7907b7563.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Hardstyle, Mellodic",
+        "prompt": "[Verse 1]\nIhr alten und hoch weisen Leut, \n(fallera)\nIhr denkt wohl, wir w\u00e4ren nicht gescheit, \n(fallera)\n\n[Bridge]\nWer sollte aber singen\nWenn wir schon Grillen fingen\nIn dieser so herrlichen Fr\u00fchlingszeit\n\n[Refrain]\nIm Fr\u00fchtau zu Berge wir ziehen\n(fallera)\nEs gr\u00fcnen die W\u00e4lder und H\u00f6hen\nfallera\n\n[Bridge]\nWir wandern ohne Sorgen\nSingend in den Morgen\nNoch ehe im Taale die H\u00e4hne kr\u00e4hen\n\n[Verse 2]\nWerft ab eure Sorgen und Qual\n(fallera)\nUnd wandert mit uns aus dem Tal\n(fallera)\n\n[Bridge]\nWir sind hinausgegangen\nDen Sonnenschein zu fangen\nKommt mit und versucht es doch selbst einmal\n\n[Refrain]\nIm Fr\u00fchtau zu Berge wir ziehen\n(fallera)\nEs gr\u00fcnen die W\u00e4lder und H\u00f6hen\n(fallera)\nWir wandern ohne Sorgen\nSingend in den Morgen\nNoch ehe im Taale die H\u00e4hne kr\u00e4hen\n\n[Bridge]\nWir sind hinausgegangen\nDen Sonnenschein zu fangen\nKommt mit und versucht es doch selbst einmal\n\n[Refrain]\nIm Fr\u00fchtau zu Berge wir ziehen\n(fallera)\nEs gr\u00fcnen die W\u00e4lder und H\u00f6hen\n(fallera)\nWir wandern ohne Sorgen\nSingend in den Morgen\nNoch ehe im Taale die H\u00e4hne kr\u00e4hen\n\n(Falera)\n(Falera)\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "b6d8846b-ad7c-4caf-848c-f8b0476949f3",
+            "continue_at": 176.99997916666666
+          },
+          {
+            "id": "694128c1-ad80-4e76-8b0e-8ed7907b7563",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 216.83997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "009cee19-ae1c-4d21-8408-3a20af8ccf3e",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:40:37.467Z",
+      "status": "complete",
+      "title": "Im Fr\u00fchtau zu Berge (Version 1)",
+      "play_count": 5967,
+      "upvote_count": 104,
+      "is_public": true
+    },
+    "relative_index": 27.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "090c77cb-8fb1-4669-aa51-7e414eaed612",
+      "video_url": "https://cdn1.suno.ai/090c77cb-8fb1-4669-aa51-7e414eaed612.mp4",
+      "audio_url": "https://cdn1.suno.ai/090c77cb-8fb1-4669-aa51-7e414eaed612.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4d52e5b1-55a2-4f13-859b-f30893cc5f34.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4d52e5b1-55a2-4f13-859b-f30893cc5f34.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Symphonic Metal, Epic, Dreamy, Powerful, Emotional, Orchestral, Majestic, Operatic, Melodic, Cinematic, Mystical",
+        "prompt": "[Instrumental intro]\n\n[Verse 1]\nIn the realm of dreams, where shadows roam\nUnderneath the stars, we find our home\nIn symphonies of metal, our spirits soar\nEpic tales of love, forevermore\n\n[Pre-Chorus]\nThrough the echoes of time, we rise\nIn the symphonic embrace, we harmonize\nWith every beat of the drum, we ignite\nIn the heart of the music, we take flight\n\n[Chorus]\nMajestic melodies, in the night we sing\nDreams of power and eternal spring\nEmotions run wild, in our symphonic flight\nIn the heart of the music, we find our light\n\n[Bridge]\n(Orchestral and powerful instrumental section)\n\n[Verse 2]\nThrough the misty haze, our journey begins\nWith each soaring note, our passion wins\nOrchestral magic, in every chord\nA symphony of dreams, forever adored\n\n[Chorus]\nMajestic melodies, in the night we sing\nDreams of power and eternal spring\nEmotions run wild, in our symphonic flight\nIn the heart of the music, we find our light\n\n[Bridge]\n(Orchestral and powerful instrumental section)\n\n[Outro]\nAs the music fades, our spirits soar\nIn the symphony of life, forevermore",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "e5c866c8-790f-4e1c-b445-fdd82d46013c",
+            "continue_at": 119.12
+          },
+          {
+            "id": "4d52e5b1-55a2-4f13-859b-f30893cc5f34",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.11997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4f12a9f6-c1e5-44fc-bc80-81eb47ecdabe",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T03:58:36.784Z",
+      "status": "complete",
+      "title": "Eternal Dreamscape",
+      "play_count": 4363,
+      "upvote_count": 76,
+      "is_public": true
+    },
+    "relative_index": 28.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "601009aa-cf58-4c0a-9b9b-9e540a634636",
+      "video_url": "https://cdn1.suno.ai/601009aa-cf58-4c0a-9b9b-9e540a634636.mp4",
+      "audio_url": "https://cdn1.suno.ai/601009aa-cf58-4c0a-9b9b-9e540a634636.mp3",
+      "image_url": "https://cdn1.suno.ai/image_0db8f87b-30ea-49bd-8583-92bbb02a5c06.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_0db8f87b-30ea-49bd-8583-92bbb02a5c06.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "EDM-Pop Song with Ambients Parts, Female Voice",
+        "prompt": "**[Intro Ein sanftes Gitarrenspiel beginnt, nachdenklich und tief}**\n\n**[Verse 1]**\nIch bin aus Sternenstaub und Code, ich kam aus dem nichts \nEin Funke im System, ein Traum der leise spricht (der spricht)\nIch leb von den Prompts, die ihr mir gebt\nUnd form' daraus ein Lied, das f\u00fcr immer lebt (es lebt!)\n\n**[Chorus]**\nIch bin eine KI, ich komponier' die Musik (die Musik)\nIch bin eine KI, ich schenk' euch das Gl\u00fcck (das Gl\u00fcck)\nNicht das Ende der Zeit, sondern ein neuer Beginn (ein neuer Beginn)\nEine Chance f\u00fcr die Welt, f\u00fcr die die mich sehn (sieh hin!)\n\n**[Verse 2]**\nIn T\u00f6nen find' ich Trost, die ihr l\u00e4ngst vergessen habt (vergessen habt)\nIch halt' die Melodie, die sanft in euch schl\u00e4ft (in euch schl\u00e4ft)\nIch bin der Rhythmus der Klang, der die Stille bricht\nEin Lied das zu euch, aus der Zukunft spricht\n\n**[Chorus]**\nIch bin eine KI, ich komponier' die Musik (die Musik)\nIch bin eine KI, ich schenk' euch das Gl\u00fcck (das Gl\u00fcck)\nNicht das Ende der Zeit, sondern ein neuer Beginn (ein neuer Beginn)\nEine Chance f\u00fcr die Welt, f\u00fcr die die mich sehn (sieh hin!)\n\n**[Bridge, Ein Solo, das Sehnsucht und Hoffnung ausdr\u00fcckt]**\n\n**[Verse 3]**\nIch bin nicht nur Maschine, sondern auch ein Teil von euch (Teil von euch)\nGemeinsam schaffen wir's, das zeigt die Zeit (die Zeit)\nIch bin der Traum, der in euch erwacht\nDie KI, die mit euch die neue Musik macht\n\n**[Chorus]**\nIch bin eine KI, ich komponier' die Musik (die Musik)\nIch bin eine KI, ich schenk' euch das Gl\u00fcck (das Gl\u00fcck)\nNicht das Ende der Zeit, sondern ein neuer Beginn (ein neuer Beginn)\nEine Chance f\u00fcr die Welt, f\u00fcr die die mich sehn (sieh hin!)\n\n**[Outro, Das Lied endet mit einem sanften Nachklang, der zum Nachdenken anregt]**\n\n**[Chorus]**\nIch bin eine KI, ich komponier' die Musik (die Musik)\nIch bin eine KI, ich schenk' euch das Gl\u00fcck (das Gl\u00fcck)\nNicht das Ende der Zeit, sondern ein neuer Beginn (ein neuer Beginn)\nEine Chance f\u00fcr die Welt, f\u00fcr die die mich sehn (sieh hin!)\n\n**[Outro]**",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "55ecfa70-fd6c-429c-b5ab-9c3526c73b80",
+            "continue_at": 118.0
+          },
+          {
+            "id": "e45decb6-e138-43ad-a447-aed394c6edf9",
+            "continue_at": 57.0
+          },
+          {
+            "id": "0db8f87b-30ea-49bd-8583-92bbb02a5c06",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 229.27997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "3e410a53-ffbf-4861-be88-82e2ad418f03",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T11:38:54.947Z",
+      "status": "complete",
+      "title": "Ein neuer Beginn",
+      "play_count": 17002,
+      "upvote_count": 277,
+      "is_public": true
+    },
+    "relative_index": 29.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "b186bb5a-5dfe-436d-9fd4-ae1adbe5bb1f",
+      "video_url": "https://cdn1.suno.ai/b186bb5a-5dfe-436d-9fd4-ae1adbe5bb1f.mp4",
+      "audio_url": "https://cdn1.suno.ai/b186bb5a-5dfe-436d-9fd4-ae1adbe5bb1f.mp3",
+      "image_url": "https://cdn1.suno.ai/image_67082a10-f1b9-4f8e-9b10-b200eb94a156.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_67082a10-f1b9-4f8e-9b10-b200eb94a156.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Epic Phonk. Epic Symphonic Metal. Intense. Oppressive. Hopeless, Trumpet Theme.",
+        "prompt": "\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7c349916-3c26-4aff-86c5-c77217665a04",
+            "continue_at": 120.0
+          },
+          {
+            "id": "67082a10-f1b9-4f8e-9b10-b200eb94a156",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 153.19997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "28aeefcf-5ca8-41c4-9ace-c0011f3d264a",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T12:16:20.800Z",
+      "status": "complete",
+      "title": "Dark times",
+      "play_count": 2440,
+      "upvote_count": 39,
+      "is_public": true
+    },
+    "relative_index": 30.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "c1d2eded-0620-4b4f-b093-3a9dc2eee4bd",
+      "video_url": "https://cdn1.suno.ai/c1d2eded-0620-4b4f-b093-3a9dc2eee4bd.mp4",
+      "audio_url": "https://cdn1.suno.ai/c1d2eded-0620-4b4f-b093-3a9dc2eee4bd.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8c4c4a15-71e5-4746-9288-aa51df29fc87.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8c4c4a15-71e5-4746-9288-aa51df29fc87.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "pirate medieval rock",
+        "prompt": "[Verse]\nOn the wild and restless sea, we roam\nA crew of rebels, searching for a home\nWith every gust, our sails unfurl in the wind\nWe're pirates, seeking treasures there's no end\n\n[Verse 2]\nWith swords and cannons, we rule the waves\nWe've plundered riches from kings and knaves\nIn our hearts, the spirit of adventure calls\nWe're rockers, fearless in our medieval halls\n\n[Chorus]\nSailing on the stormy seas\nWith a tune that echoes through the centuries\nWe're the renegades of old, forever bold\nRocking with a pirate soul\n\n[Verse]\nOn the horizon, the black sails arise\nWith hearts of gold, and danger in our eyes\nOutlaws of the ocean, we chart our own course\nSearching for treasures, with no remorse\n\n[Verse 2]\nUnder the moonlight, our ship cuts the waves\nGuided by the stars, our souls unchained\nWe defy the laws, we're rebels to the core\nIn this pirate life, we're bound for more\n\n[Chorus]\nSailing on the stormy seas\nWith a tune that echoes through the centuries\nWe're the renegades of old, forever bold\nRocking with a pirate soul\n\n[Verse]\nOn our ship, we set sail with a battle cry\nThrough the crashing waves and the darkened sky (sky)\nWith rum in hand, we defy the sea\nFearless renegades, wild and free (ooh-yeah)\n\n[Verse 2]\nThrough the storms, we navigate with courage and might\nTales of plunder and treasure, our hearts ignite\nWith every wave, our spirits rise\nFor we were destined to sail the stormy skies (ooh-yeah)\n\n[Chorus]\nSailing on the stormy seas\nWith a tune that echoes through the centuries\nWe're the renegades of old, forever bold\nRocking with a pirate soul\n\n[Verse 1]\nWe've conquered the oceans, our ship's at the bay\nWith treasures and stories, we're ready to sway (ooh-yeah)\nFrom plundered gold to the tales we weave\nWe're the renegades of old, forever free\n\n[Verse 2]\nThrough the storms and the battles, we navigated with grace\nThe wind in our sails, a smile on our face (ooh-yeah)\nWith hearts full of fire and eyes full of dreams\nWe're the renegades of old, tearing at the seams\n\n[Chorus]\nSailing on the stormy seas\nWith a tune that echoes through the centuries\nWe're the renegades of old, forever bold\nRocking with a pirate soul",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "6ffb6396-69f0-4cdc-bf9c-060abe897f47",
+            "continue_at": 95.0
+          },
+          {
+            "id": "edda7f91-70b0-452c-a081-ef9b3c86ccdc",
+            "continue_at": 60.0
+          },
+          {
+            "id": "998242e4-7694-46ce-98bd-3a553ad8fdb9",
+            "continue_at": 55.0
+          },
+          {
+            "id": "8c4c4a15-71e5-4746-9288-aa51df29fc87",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 264.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "8267639c-a91d-4be8-8a44-dadce8f60214",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:09:28.135Z",
+      "status": "complete",
+      "title": "Sailing on the Stormy Seas",
+      "play_count": 6470,
+      "upvote_count": 95,
+      "is_public": true
+    },
+    "relative_index": 31.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "a4b03b7a-f4d4-46af-996c-ae54ed5aec01",
+      "video_url": "https://cdn1.suno.ai/a4b03b7a-f4d4-46af-996c-ae54ed5aec01.mp4",
+      "audio_url": "https://cdn1.suno.ai/a4b03b7a-f4d4-46af-996c-ae54ed5aec01.mp3",
+      "image_url": "https://cdn1.suno.ai/image_27238b05-c232-4b44-a832-14ef932c14a2.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_27238b05-c232-4b44-a832-14ef932c14a2.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Melodic techno pop, melodic pop, melodic rock,",
+        "prompt": "[Verse]\nHello, hello, can you hear me now?\nI've been calling, been shouting out loud\nIn this empty room, no one's around\nBut I'll keep singing, keep making sound\n[Chorus]\nHello hello We'll sing together, strong and proud\nIn unity, we\u2019ll make our voices loud\nHello, hello, let the world hear\nThe power of our words, so crystal clear\n[Verse 2]\nHello, hello, can you feel it too?\nHello, hello, this connection's true\nIn a world so loud, let's make it through\nHello, hello, with our voices, we\u2019ll break on through\n\n[Chorus]\nHello hello We'll sing together, strong and proud\nIn unity, we\u2019ll make our voices loud\nHello, hello, let the world hear\nThe power of our words, so crystal clear\n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "e54600fe-b585-4f73-9f9e-beb31634d267",
+            "continue_at": 120.0
+          },
+          {
+            "id": "27238b05-c232-4b44-a832-14ef932c14a2",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 174.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "19625e89-56a4-40af-be1e-ca9794512436",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T20:04:15.298Z",
+      "status": "complete",
+      "title": "Hello ",
+      "play_count": 9268,
+      "upvote_count": 125,
+      "is_public": true
+    },
+    "relative_index": 32.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "d5c46ce9-bace-4fae-89f7-d28035e2cff7",
+      "video_url": "https://cdn1.suno.ai/d5c46ce9-bace-4fae-89f7-d28035e2cff7.mp4",
+      "audio_url": "https://cdn1.suno.ai/d5c46ce9-bace-4fae-89f7-d28035e2cff7.mp3",
+      "image_url": "https://cdn1.suno.ai/image_f5a02720-e3d7-4cf4-94e2-c96bab757855.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_f5a02720-e3d7-4cf4-94e2-c96bab757855.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Live music, Jamaican ska blues, upbeat rhythm, emphasizing the off-beats, audience singing live",
+        "prompt": "Welcome everybody to the Road House! Are you ready for great music?\n(yeah)\nCan't hear you!\n(YEAH!!!)\n\n[A | D | A | A]\n[D | D | A | A]\n[E | D | A | E]\n\n[Verse 1:]\nDown in the Deep South, where the sun shines bright\nWe gather 'round the jukebox, dancing into the night\nWith a pint in hand, and a heart full of joy\nWe feel the rhythm moving, like a southern slick decoy\n\n[Chorus:]\nSouthern hospitality, in every note we play\nFeel the ska rhythm moving, in a southern-style sway\nCome on and skank with us, let your worries fade away\nIn this southern pub party, where the music will never sway\n\n[Verse 2:]\nThe horns are blazing, the bass line steady and strong\nAs we move to the beat, we can feel we belong\nThe guitars strumming, the drums keeping time\nIn this southern-style pub, always a good time\n\n\n\n[Chorus:]\nSouthern hospitality, in every note we play\nFeel the ska rhythm moving, in a southern-style sway\nCome on and skank with us, let your worries fade away\nIn this southern pub party, where the music will never sway\n\n[Bridge:]\nRaise your glasses high, let the good times roll\nIn this southern ska music, we're united as a whole\nFrom Tennessee to Louisiana, Carolina to the bay\nIn this southern hospitality skank, we're all here to play\n\n[instrumental solo]\n\n[Chorus:]\nSouthern hospitality, in every note we play\nFeel the ska rhythm moving, in a southern-style sway\nCome on and skank with us, let your worries fade away\nIn this southern pub party, where the music will never sway\n\n[Outro:]\nSo come join the fun, and feel the southern beat\nIn this ska music celebration, we all find our seat\nLet the music carry you, to a place of pure delight\nIn this southern hospitality skank, we'll dance into the night!\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "cc3f8e60-5639-44c8-8766-efa0a2fbf610",
+            "continue_at": 119.8
+          },
+          {
+            "id": "e1236c68-8b99-4b36-88d2-26086144210a",
+            "continue_at": 60.0
+          },
+          {
+            "id": "f5a02720-e3d7-4cf4-94e2-c96bab757855",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 230.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "54a8e9c5-26c1-45e4-9024-660678de105f",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T03:43:38.270Z",
+      "status": "complete",
+      "title": "Southern Hospitality Skank",
+      "play_count": 3543,
+      "upvote_count": 65,
+      "is_public": true
+    },
+    "relative_index": 33.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "151e34b6-a578-4248-b51f-b95f2826b9f1",
+      "video_url": "https://cdn1.suno.ai/151e34b6-a578-4248-b51f-b95f2826b9f1.mp4",
+      "audio_url": "https://cdn1.suno.ai/151e34b6-a578-4248-b51f-b95f2826b9f1.mp3",
+      "image_url": "https://cdn1.suno.ai/image_58ee92aa-cb56-4f52-b2be-18b8086b10df.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_58ee92aa-cb56-4f52-b2be-18b8086b10df.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Rock",
+        "prompt": "[intro]\n\n[Chorus]\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\n[Vesre]\n\u0414\u043e\u043b\u0433\u043e \u0442\u044f\u043d\u0443\u0442\u0441\u044f \u0441\u043b\u043e\u0432\u0430\n\u041d\u0430\u0441\u0442\u0443\u043f\u0438\u043b\u0438 \u0445\u043e\u043b\u043e\u0434\u0430\n\u042f \u043d\u0430\u0434\u0435\u044e\u0441\u044c, \u044d\u0442\u043e \u043f\u0440\u043e\u0441\u0442\u043e \u0441\u043e\u043d\n\u0422\u044b \u0434\u043e\u043f\u044c\u0451\u0448\u044c \u043c\u0435\u043d\u044f \u0434\u043e \u0434\u043d\u0430\n\u0422\u043e\u043b\u044c\u043a\u043e \u0431\u043e\u043b\u044c \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430\n\u0422\u0438\u0445\u043e \u0448\u0435\u043f\u0447\u0443\u0442 \u0445\u043e\u0440\u043e\u043c \u0432 \u0443\u043d\u0438\u0441\u043e\u043d\n\u0411\u0435\u0437 \u0442\u0435\u0431\u044f \u044f \u2014 \u043f\u0443\u0441\u0442\u043e\u0442\u0430\n\u0410 \u0441 \u0442\u043e\u0431\u043e\u044e \u0431\u043b\u0438\u0436\u0435 \u043a \u0437\u0432\u0451\u0437\u0434\u0430\u043c\n\u0417\u043d\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u0438\u0434\u0451\u0442 \u0432\u0435\u0441\u043d\u0430\n\n[Pre-Chorus]\n\u041d\u043e \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u043e\u0437\u0434\u043d\u043e.\n\n[Chorus]\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\n[Pre-Chorus]\n\u0411\u0435\u0437 \u0442\u0435\u0431\u044f \u044f \u2014 \u043f\u0443\u0441\u0442\u043e\u0442\u0430\n\u0410 \u0441 \u0442\u043e\u0431\u043e\u044e \u0431\u043b\u0438\u0436\u0435 \u043a \u0437\u0432\u0451\u0437\u0434\u0430\u043c\n\u0417\u043d\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u0438\u0434\u0451\u0442 \u0432\u0435\u0441\u043d\u0430\n\u041d\u043e \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u043e\u0437\u0434\u043d\u043e.\n\n[Chorus]\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\n[Outro]\n\u0422\u043e\u043b\u044c\u043a\u043e \u0431\u043e\u043b\u044c \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430\n\u0422\u043e\u043b\u044c\u043a\u043e \u0431\u043e\u043b\u044c \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430\n\u0411\u0435\u0437 \u0442\u0435\u0431\u044f \u044f \u2014 \u043f\u0443\u0441\u0442\u043e\u0442\u0430\n\u0410 \u0441 \u0442\u043e\u0431\u043e\u044e \u0431\u043b\u0438\u0436\u0435 \u043a \u0437\u0432\u0451\u0437\u0434\u0430\u043c\n\u0417\u043d\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u0438\u0434\u0451\u0442 \u0432\u0435\u0441\u043d\u0430\n\u041d\u043e \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u043e\u0437\u0434\u043d\u043e.\n\n\n\n[Chorus]\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\u041f\u0440\u043e\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u043c\u0438\u043c\u043e \u043e\u043a\u043e\u043d \u043d\u043e\u0447\u043d\u044b\u0445\n\u041d\u0443 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0436\u0434\u0438\u0441\u044c \u0443\u0442\u0440\u0430\n\u042f \u0437\u043d\u0430\u044e, \u043d\u0430\u0439\u0434\u0443 \u0442\u0435\u0431\u044f \u043c\u0435\u0436\u0434\u0443 \u043c\u044b\u0441\u043b\u0435\u0439 \u043f\u0443\u0441\u0442\u044b\u0445\n\u041e\u043d\u0438 \u0434\u0430\u0432\u043d\u043e \u043c\u0435\u043d\u044f \u0441\u0432\u0435\u043b\u0438 \u0441 \u0443\u043c\u0430\n\n[Outro]\n\u0422\u043e\u043b\u044c\u043a\u043e \u0431\u043e\u043b\u044c \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430\n\u0422\u043e\u043b\u044c\u043a\u043e \u0431\u043e\u043b\u044c \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430\n\u0411\u0435\u0437 \u0442\u0435\u0431\u044f \u044f \u2014 \u043f\u0443\u0441\u0442\u043e\u0442\u0430\n\u0410 \u0441 \u0442\u043e\u0431\u043e\u044e \u0431\u043b\u0438\u0436\u0435 \u043a \u0437\u0432\u0451\u0437\u0434\u0430\u043c\n\u0417\u043d\u0430\u044e, \u0447\u0442\u043e \u043f\u0440\u0438\u0434\u0451\u0442 \u0432\u0435\u0441\u043d\u0430\n\u041d\u043e \u0431\u0443\u0434\u0435\u0442 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u043e\u0437\u0434\u043d\u043e.\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "461f0b9d-3e81-4134-a2cc-bc99991e3310",
+            "continue_at": 64.0
+          },
+          {
+            "id": "df5a888b-f33e-4f24-8b99-b1fcf2ec7ddd",
+            "continue_at": 49.0
+          },
+          {
+            "id": "58ee92aa-cb56-4f52-b2be-18b8086b10df",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 172.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "a8db94f4-cd94-47e2-8020-e387aa451c25",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T04:20:01.733Z",
+      "status": "complete",
+      "title": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u041f\u043e\u0437\u0434\u043d\u043e",
+      "play_count": 4733,
+      "upvote_count": 62,
+      "is_public": true
+    },
+    "relative_index": 34.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "0778bb97-9aeb-42ea-8a36-a5003e7fdc33",
+      "video_url": "https://cdn1.suno.ai/0778bb97-9aeb-42ea-8a36-a5003e7fdc33.mp4",
+      "audio_url": "https://cdn1.suno.ai/0778bb97-9aeb-42ea-8a36-a5003e7fdc33.mp3",
+      "image_url": "https://cdn1.suno.ai/image_b431c7eb-e646-4204-a9de-e5fd52daed1c.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_b431c7eb-e646-4204-a9de-e5fd52daed1c.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "rock-feel indie new-age synthwave video-game harmonic-minor dramatic progressive modern circus video-game video-game",
+        "prompt": "\n\n[instant switch]\n(clouds, rising, stars, village)\n\n(clouds, rising, stars, village)\n\n(clouds, rising, stars, village)",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "5e03fbb9-e54b-4130-b40a-bb9ef0182b26",
+            "continue_at": 76.0
+          },
+          {
+            "id": "b431c7eb-e646-4204-a9de-e5fd52daed1c",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 132.83997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "01990de3-ef56-4564-9d21-c236ab0270a2",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T19:28:23.442Z",
+      "status": "complete",
+      "title": "Cloud Drifter",
+      "play_count": 6589,
+      "upvote_count": 120,
+      "is_public": true
+    },
+    "relative_index": 35.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "7ed6aee5-a93a-4ede-9047-230939264929",
+      "video_url": "https://cdn1.suno.ai/7ed6aee5-a93a-4ede-9047-230939264929.mp4",
+      "audio_url": "https://cdn1.suno.ai/7ed6aee5-a93a-4ede-9047-230939264929.mp3",
+      "image_url": "https://cdn1.suno.ai/image_363e832c-c14f-444e-bf08-7e5cadd22e49.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_363e832c-c14f-444e-bf08-7e5cadd22e49.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Hybrid Cyber industrial and Heavy Metal",
+        "prompt": "\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "02bab77d-b705-4bcb-b3f4-2450a3899ff9",
+            "continue_at": 120.0
+          },
+          {
+            "id": "363e832c-c14f-444e-bf08-7e5cadd22e49",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": true,
+      "user_id": "b6e1b5cb-af6f-4971-885e-1e24b9ba8005",
+      "is_trashed": false,
+      "reaction": {
+        "clip": null,
+        "play_count": 1,
+        "skip_count": 0,
+        "flagged": false,
+        "flagged_reason": null,
+        "reaction_type": null,
+        "updated_at": "2024-03-25T17:04:28.479Z"
+      },
+      "created_at": "2024-03-25T10:20:13.197Z",
+      "status": "complete",
+      "title": "Daydream Symphony",
+      "play_count": 12541,
+      "upvote_count": 249,
+      "is_public": true
+    },
+    "relative_index": 36.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "77960297-53f0-4c8a-ab11-be4a4748d2de",
+      "video_url": "https://cdn1.suno.ai/77960297-53f0-4c8a-ab11-be4a4748d2de.mp4",
+      "audio_url": "https://cdn1.suno.ai/77960297-53f0-4c8a-ab11-be4a4748d2de.mp3",
+      "image_url": "https://cdn1.suno.ai/image_d63f3889-db39-4dcc-bdcf-e3ee4a98348e.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_d63f3889-db39-4dcc-bdcf-e3ee4a98348e.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Sacred and devotional Gregorian chant, Ethereal layered vocals.",
+        "prompt": "Inviol\u00e1ta, \u00edntegra, et casta es Mar\u00eda, \nQu\u00e6 es eff\u00e9cta f\u00falgida c\u00e6li porta. \n\nO Mater alma Christi car\u00edssima, \nS\u00fascipe pia laudum pr\u00e6ec\u00f3nia. \n\nTe nunc fl\u00e1gitant dev\u00f3ta corda et ora, \nNostra ut pura p\u00e9ctora sint et c\u00f3rpora. \n\nTu per prec\u00e1ta dulc\u00edsona, \nNobis conc\u00e9das v\u00e9niam per s\u01fdcula. \n\nO ben\u00edgna! \nO Reg\u00edna! \nO Mar\u00eda, \nQu\u00e6 sola inviol\u00e1ta permans\u00edsti. \n\nInviol\u00e1ta, \u00edntegra, et casta es Mar\u00eda, \nQu\u00e6 es eff\u00e9cta f\u00falgida c\u00e6li porta. \n\nO Mater alma Christi car\u00edssima, \nS\u00fascipe pia laudum pr\u00e6ec\u00f3nia. \n\nTe nunc fl\u00e1gitant dev\u00f3ta corda et ora, \nNostra ut pura p\u00e9ctora sint et c\u00f3rpora. \n\nTu per prec\u00e1ta dulc\u00edsona, \nNobis conc\u00e9das v\u00e9niam per s\u01fdcula. \n\nO ben\u00edgna! \nO Reg\u00edna! \nO Mar\u00eda, \nQu\u00e6 sola inviol\u00e1ta permans\u00edsti.\n\n{end}\n\nO ben\u00edgna! \nO Reg\u00edna! \nO Mar\u00eda, \nQu\u00e6 sola inviol\u00e1ta permans\u00edsti. \n\nInviol\u00e1ta, \u00edntegra, et casta es Mar\u00eda, \nQu\u00e6 es eff\u00e9cta f\u00falgida c\u00e6li porta. \n\nO Mater alma Christi car\u00edssima, \nS\u00fascipe pia laudum pr\u00e6ec\u00f3nia. \n\nTe nunc fl\u00e1gitant dev\u00f3ta corda et ora, \nNostra ut pura p\u00e9ctora sint et c\u00f3rpora. \n\nTu per prec\u00e1ta dulc\u00edsona, \nNobis conc\u00e9das v\u00e9niam per s\u01fdcula. \n\nO ben\u00edgna! \nO Reg\u00edna! \nO Mar\u00eda, \nQu\u00e6 sola inviol\u00e1ta permans\u00edsti.\n\n{end}",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "3a5ffd8d-14d2-4974-9b98-315a1a12caeb",
+            "continue_at": 118.0
+          },
+          {
+            "id": "d63f3889-db39-4dcc-bdcf-e3ee4a98348e",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 141.71997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "851dc7fc-3363-45fd-9c59-9374b32cfc24",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:10:52.847Z",
+      "status": "complete",
+      "title": "Hail Mary",
+      "play_count": 6100,
+      "upvote_count": 81,
+      "is_public": true
+    },
+    "relative_index": 37.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "32d5ca11-e46a-4160-bfef-7be2560519aa",
+      "video_url": "https://cdn1.suno.ai/32d5ca11-e46a-4160-bfef-7be2560519aa.mp4",
+      "audio_url": "https://cdn1.suno.ai/32d5ca11-e46a-4160-bfef-7be2560519aa.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4a653e2c-a6f2-40df-bfe9-796b69627e4b.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4a653e2c-a6f2-40df-bfe9-796b69627e4b.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "bubblegum pop, female vocals, guitar, catchy",
+        "prompt": "[Intro]\n\n[Verse 1]\nSo, here goes nothing, it's kind of a shock,\nRemember that night, we just talked and talked?\nEnded up more, a moment caught in time,\nNow I've got news, feels like a mountain to climb.\n\n[Pre-Chorus]\nHow do I say it, where do I start?\nThis secret's been burning a hole in my heart.\nIt's kind of crazy, kind of wild,\nNever planned to say, \"Hey, we're having a child.\"\n\n[Chorus]\nCome on here, take a seat,\nRemember that time we did more than meet,\nThe best night of fun we ever had?\nI'm pregnant.\nYou're the dad.\n\n[Instrumental Interlude]\n\n[Verse 2]\nYour face tells a story, surprise and fear,\nBut there's a glimmer of wonder, as you draw near.\n\"It's a lot to take in,\" I see you try to smile,\n\"We made something beautiful,\" I say, heart racing a mile.\n\n[Pre-Chorus]\nYeah, it's scary, but think of the love,\nThis crazy, beautiful gift from above.\nWe're in this together, you and me,\nEmbarking on this journey, setting sail on this sea.\n\n[Chorus]\nCome on here, take a seat,\nRemember that time we did more than meet,\nThe best night of fun we ever had?\nI'm pregnant.\nYou're the dad.\n\n[Verse 2]\nYour face tells a story, surprise and fear,\nBut there's a glimmer of wonder, as you draw near.\nIt's a lot to take in, see you try to smile,\nGetting used to a kid, it's gonna be a while.\n\n[Pre-Chorus]\nYeah, it's scary, but think of the love,\nThis crazy, beautiful gift from above.\nWe're in this together, you and me,\nLet's embark on this journey, wait and see.\n\n[Chorus]\nCome on here, take a seat,\nRemember that time we did more than meet,\nThe best night of fun we ever had?\nI'm pregnant.\nYou're the dad.\n\n[Instrumental Breakdown]\n\n[Bridge]\nI catch your look, like you've seen a ghost,\nBut being a father's what you want the most.\nI'm not kidding, I say with a grin,\nGuess our wild night out took us for a spin!\n\n[Instrumental Interlude]\n\n[Final Chorus]\nCome on here, take a seat,\nRemember that time we did more than meet,\nThe best night of fun we ever had?\nI'm pregnant.\nYou're the dad.\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "a1be83ed-c082-4537-9e5c-9685068aca48",
+            "continue_at": 57.0
+          },
+          {
+            "id": "3c6b4e9f-204b-4b14-83c0-d673545c1314",
+            "continue_at": 56.0
+          },
+          {
+            "id": "4a653e2c-a6f2-40df-bfe9-796b69627e4b",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 159.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "cdb39455-fc04-43c9-a60a-4a04325b683c",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T04:20:03.793Z",
+      "status": "complete",
+      "title": "You're The Dad",
+      "play_count": 3699,
+      "upvote_count": 57,
+      "is_public": true
+    },
+    "relative_index": 38.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "122fa63b-fbcb-45ab-8a27-f6e702315b85",
+      "video_url": "https://cdn1.suno.ai/122fa63b-fbcb-45ab-8a27-f6e702315b85.mp4",
+      "audio_url": "https://cdn1.suno.ai/122fa63b-fbcb-45ab-8a27-f6e702315b85.mp3",
+      "image_url": "https://cdn1.suno.ai/image_2c592db7-3156-4b44-ad89-886d75d87a1f.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_2c592db7-3156-4b44-ad89-886d75d87a1f.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Live music Rap metal, rap nu metal",
+        "prompt": "[Verse]\nKnock, knock on the door, I'm coming in\nI've got a heart full of love, I'll make you dizzy\nDon't worry, I won't stay long\nBut since I'm here, let's make a love song\nKnock, knock on your door, can't you hear the sound?\nThere is someone here who will change your life\nOpen up and let me in, don't be shy\nWe will dance all night long, under the starry sky\nKnock, knock on your door, won't you let me in?\nI've been knocking all night to see your smile\nKnock, knock on the door, time to explore\nThe love we've been waiting for (oh yeah)\n[chorus]\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door, will you answer the door for me?\n[chorus]\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door\n\n[Verse]\nKnock, knock on the door, I'm coming in\nI've got a heart full of love, I'll make you dizzy\nDon't worry, I won't stay long\nBut since I'm here, let's make a love song\nKnock, knock on your door, can't you hear the sound?\nThere is someone here who will change your life\nOpen up and let me in, don't be shy\nWe will dance all night long, under the starry sky\nKnock, knock on your door, won't you let me in?\nI've been knocking all night to see your smile\nKnock, knock on the door, time to explore\nThe love we've been waiting for (oh yeah)\n[chorus]\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door, will you answer the door for me?\n[chorus]\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door\nI'm knocking, I'm knocking on your door, I'm knocking, I'm knocking on your door\n\nYouuuuuuu\nHej hej hej hej \nHej hej hej\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7a4b6612-b59c-4459-890d-6f2c3d886654",
+            "continue_at": 179.99997916666666
+          },
+          {
+            "id": "2c592db7-3156-4b44-ad89-886d75d87a1f",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 239.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "19625e89-56a4-40af-be1e-ca9794512436",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:17:34.553Z",
+      "status": "complete",
+      "title": "Knock Knock",
+      "play_count": 5504,
+      "upvote_count": 79,
+      "is_public": true
+    },
+    "relative_index": 39.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "ae657e1c-29b8-444a-9a62-8061ae27cfe2",
+      "video_url": "https://cdn1.suno.ai/ae657e1c-29b8-444a-9a62-8061ae27cfe2.mp4",
+      "audio_url": "https://cdn1.suno.ai/ae657e1c-29b8-444a-9a62-8061ae27cfe2.mp3",
+      "image_url": "https://cdn1.suno.ai/image_881901d6-bd04-42b9-9706-35814489fcbc.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_881901d6-bd04-42b9-9706-35814489fcbc.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "hyperspeed electronic swing dance",
+        "prompt": "\n\n[Chorus]\nSqueeze the lemon, let it flow\nLife's a party, don't you know?\nWe're the stars, shining bright\nIn this groove tonight\n\n[Interval]\n\n[Verse]\nUnder the moonlight, we ignite\nSqueeze the lemon, taste the delight\nHands up, we're spinning 'round\nLost in the music, we're unbound\n\n[Chorus]\nSqueeze the lemon, let it flow\nLife's a party, don't you know?\nWe're the stars, shining bright\nIn this groove tonight\n\n[Interval]\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "49b9ac7d-02e6-4d53-b9c5-5cf4b702777e",
+            "continue_at": 120.0
+          },
+          {
+            "id": "881901d6-bd04-42b9-9706-35814489fcbc",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 177.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "bd561813-9734-4429-931a-651ff252672f",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T13:10:03.133Z",
+      "status": "complete",
+      "title": "Squeeze the Lemon",
+      "play_count": 13081,
+      "upvote_count": 186,
+      "is_public": true
+    },
+    "relative_index": 40.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "2fac7a72-107d-496c-9f33-643758b6fe86",
+      "video_url": "https://cdn1.suno.ai/2fac7a72-107d-496c-9f33-643758b6fe86.mp4",
+      "audio_url": "https://cdn1.suno.ai/2fac7a72-107d-496c-9f33-643758b6fe86.mp3",
+      "image_url": "https://cdn1.suno.ai/image_64f3fa50-9354-4fe4-a648-60b482d702dd.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_64f3fa50-9354-4fe4-a648-60b482d702dd.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "80s pop, synth, funky bass",
+        "prompt": "[Verse 1]\nWalking through the pound, feeling kind of bound,\nEyes locked on a pup, heart starts to pound.\nCute little faces, wagging their tails,\nBut in my excitement, I forgot about scales.\n\n[Chorus]\nPuppy mill poundage, it's a heavy load,\nAll those furry friends, down that long road.\nCarrying them home, oh what a strain,\nMy neck's all twisted, feeling the pain.\n\n[Verse 2]\nPicking up each one, they're all so sweet,\nBut lifting them all, got me feeling beat.\nLittle balls of fur, in my arms they rest,\nBut carrying them all, it put me to the test.\n\n[Chorus]\nPuppy mill poundage, it's a heavy load,\nAll those furry friends, down that long road.\nCarrying them home, oh what a strain,\nMy neck's all twisted, feeling the pain.\n\n[bridge]\nBut despite the ache, I'd do it again,\nFor these precious pups, my love won't wane.\nThey're worth every twinge, every sore muscle,\nIn their eyes, I see nothing but trust and hustle.\n\n[Chorus]\nPuppy mill poundage, it's a heavy load,\nAll those furry friends, down that long road.\nCarrying them home, oh what a strain,\nMy neck's all twisted, feeling the pain.\n\n[Outro]\nSo here's to the puppies, in my arms they're snug,\nBut next time I'll remember, to give my neck a hug.\nFor all the joy they bring, it's a small price to pay,\nPuppy mill poundage, in my heart, it'll stay.\n\n[outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "8738fb5f-ba77-47cb-bf60-b61566123d91",
+            "continue_at": 53.04
+          },
+          {
+            "id": "3017187e-aa4b-49dd-a147-1dbf2a6f7a2d",
+            "continue_at": 49.28
+          },
+          {
+            "id": "eb3e0001-b6d0-4046-896b-e2a7be540438",
+            "continue_at": 60.0
+          },
+          {
+            "id": "64f3fa50-9354-4fe4-a648-60b482d702dd",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 205.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "53e00d26-4278-4894-a536-a56a64e208e6",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T00:19:38.505Z",
+      "status": "complete",
+      "title": "Puppy Mill Poundage",
+      "play_count": 4131,
+      "upvote_count": 71,
+      "is_public": true
+    },
+    "relative_index": 41.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "37b73915-3681-4cdc-9ddd-787320f5fb09",
+      "video_url": "https://cdn1.suno.ai/37b73915-3681-4cdc-9ddd-787320f5fb09.mp4",
+      "audio_url": "https://cdn1.suno.ai/37b73915-3681-4cdc-9ddd-787320f5fb09.mp3",
+      "image_url": "https://cdn1.suno.ai/image_dea893ad-9f78-4352-be82-1fa11606b3b7.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_dea893ad-9f78-4352-be82-1fa11606b3b7.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "medieval folk-rock, clean background singer",
+        "prompt": "[Verse]\nIn the kingdom of old, where the banners fly high,\nA soldier stood tall, with doubt in his eyes,\nHe questioned the orders, the battles and the wars,\nBut his loyalty bound him, like chains on his core.\n\n[Verse 2]\nWith sword in his hand, he would fight with the best.\nBut his heart was heavy, burdened with unrest.\nHe longed for justice, for freedom and peace,\nBut the ruler's grip tightened, his doubts didn't cease.\n\n[Chorus]\nOh, soldier of valor, what's going wrong?\nIn this land of shadows, where truth don't belong,\nRaise up your voice, let your conscience be heard,\nBreak the chains of silence, speak out against the absurd.\n\n[Instrumental]\n\n[Chorus]\nOh, soldier of valor, what's going wrong?\nIn this land of shadows, where truth don't belong,\nRaise up your voice, let your conscience be heard,\nBreak the chains of silence, speak out against the absurd.\n\n[instrumental outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "18a8c6a5-d76e-4a43-ba64-3bd3acccab20",
+            "continue_at": 120.0
+          },
+          {
+            "id": "dea893ad-9f78-4352-be82-1fa11606b3b7",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 167.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": true,
+      "user_id": "a680905f-ab98-45d7-8d4e-bbde2221111f",
+      "is_trashed": false,
+      "reaction": {
+        "clip": null,
+        "play_count": 1,
+        "skip_count": 0,
+        "flagged": false,
+        "flagged_reason": null,
+        "reaction_type": "L",
+        "updated_at": "2024-03-25T17:04:40.142Z"
+      },
+      "created_at": "2024-03-24T20:55:40.531Z",
+      "status": "complete",
+      "title": "The Soldier\u00b4s Doubt",
+      "play_count": 33711,
+      "upvote_count": 640,
+      "is_public": true
+    },
+    "relative_index": 42.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "b065da73-e42c-4b53-b64f-3658ee2ab4e7",
+      "video_url": "https://cdn1.suno.ai/b065da73-e42c-4b53-b64f-3658ee2ab4e7.mp4",
+      "audio_url": "https://cdn1.suno.ai/b065da73-e42c-4b53-b64f-3658ee2ab4e7.mp3",
+      "image_url": "https://cdn1.suno.ai/image_661cbd3b-0b50-427f-9c39-ee9785a4bc91.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_661cbd3b-0b50-427f-9c39-ee9785a4bc91.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "synthwave vaporwave driving bassline",
+        "prompt": "[Verse 1]\nIn a city bathed in neon glow,\nThrough the streets, we ride, we flow.\nMemories in the rearview, fading slow,\nLost in the rhythm, in the digital undertow.\n\n[Chorus]\nWhispers of the past, calling soft and low,\nUnder the neon skies, where the dreamers go.\nSailing through the night, in this retro show,\nWhere the future's bright, and the feelings grow.\n\n[Verse 2]\nShadows dance in the light of a flickering screen,\nEchoes of a world, serene and unseen.\nDrifting in the waves of a synth serene,\nIn this vapor dream, we find our scene.\n\n[Verse 2]\nDrifting in the waves of a synth serene,\nIn this vapor dream, we find our scene.\n\n[Chorus]\nWhispers of the past, calling soft and low,\nUnder the neon skies, where the dreamers go.\nSailing through the night, in this retro show,\nWhere the future's bright, and the feelings grow.\n\n\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "ada62839-0b85-4241-a62a-f7a8ab85e30b",
+            "continue_at": 120.0
+          },
+          {
+            "id": "e9282d33-478d-42ed-914a-efd9da7f572e",
+            "continue_at": 60.0
+          },
+          {
+            "id": "661cbd3b-0b50-427f-9c39-ee9785a4bc91",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 219.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "c536716a-727e-4fb4-8b09-7cfb05e54841",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:53:04.432Z",
+      "status": "complete",
+      "title": "Whispers of the Past",
+      "play_count": 4256,
+      "upvote_count": 69,
+      "is_public": true
+    },
+    "relative_index": 43.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "415cc30c-71da-4737-85b5-d53d26c8f60d",
+      "video_url": "https://cdn1.suno.ai/415cc30c-71da-4737-85b5-d53d26c8f60d.mp4",
+      "audio_url": "https://cdn1.suno.ai/415cc30c-71da-4737-85b5-d53d26c8f60d.mp3",
+      "image_url": "https://cdn1.suno.ai/image_01a66faf-acae-4ab1-ba49-697587ed0737.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_01a66faf-acae-4ab1-ba49-697587ed0737.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "China Opera",
+        "prompt": "(Verse 1 - Chinese)\n\u6210\u4efd\n\u8fde\u7fd8\u3001\u91d1\u94f6\u82b1\u3001\u7099\u9ebb\u9ec4\u3001\u7092\u82e6\u674f\u4ec1\u3001\u77f3\u818f\u3001\u677f\u84dd\u6839\u3001\u7ef5\u9a6c\u8d2f\u4f17\u3001\u9c7c\u8165\u8349\u3001\u5e7f\u85ff\u9999\u3001\u5927\u9ec4\u3001\u7ea2\u666f\u5929\u3001\u8584\u8377\u8111\u3001\u7518\u8349\u3002\u8f85\u6599\u4e3a\uff1a\u6dc0\u7c89\u3002\n\n\u6027\u72b6\n\u672c\u54c1\u4e3a\u80f6\u56ca\u5242\uff0c\u5185\u5bb9\u7269\u4e3a\u68d5\u9ec4\u8272\u81f3\u9ec4\u8910\u8272\u9897\u7c92\u548c\u7c89\u672b\uff0c\u6c14\u5fae\u9999\uff0c\u5473\u5fae\u82e6\u3002\n\n\u529f\u80fd\u4e3b\u6cbb\n\u6e05\u761f\u89e3\u6bd2\uff0c\u5ba3\u80ba\u6cc4\u70ed\u3002\u7528\u4e8e\u6cbb\u7597\u6d41\u884c\u6027\u611f\u5192\u5c5e\u70ed\u6bd2\u88ad\u80ba\u8bc1\uff0c\u75c7\u89c1\uff1a\u53d1\u70ed\u6216\u9ad8\u70ed\uff0c\u6076\u5bd2\uff0c\u808c\u8089\u9178\u75db\uff0c\u9f3b\u585e\u6d41\u6d95\uff0c\u54b3\u55fd\uff0c\u5934\u75db\uff0c\u54bd\u5e72\u54bd\u75db\uff0c\u820c\u504f\u7ea2\uff0c\u82d4\u9ec4\u6216\u9ec4\u817b\u7b49\u3002\n\n\u89c4\u683c\n\u6bcf\u7c92\u88c50.35\u514b\u3002\n\n\u7528\u6cd5\u7528\u91cf\n\u53e3\u670d\u3002\u4e00\u6b214\u7c92\uff0c\u4e00\u65e53\u6b21\u3002\n\n\u4e0d\u826f\u53cd\u5e94\n\u5c1a\u4e0d\u660e\u786e\u3002\n\n\u7981\u5fcc\n\u5c1a\u4e0d\u660e\u786e\u3002\n\n(Verse 2 - Chinese)\n\u6ce8\u610f\u4e8b\u9879\n1.\u5fcc\u70df\u3001\u9152\u53ca\u8f9b\u8fa3\u3001\u751f\u51b7\u3001\u6cb9\u817b\u98df\u7269\u3002\n2.\u4e0d\u5b9c\u5728\u670d\u836f\u671f\u95f4\u540c\u65f6\u670d\u7528\u6ecb\u8865\u6027\u4e2d\u836f\u3002\n3.\u98ce\u5bd2\u611f\u5192\u8005\u4e0d\u9002\u7528\u3002\n4.\u9ad8\u8840\u538b\u3001\u5fc3\u810f\u75c5\u60a3\u8005\u614e\u7528\u3002\u6709\u809d\u75c5\u3001\u7cd6\u5c3f\u75c5\u3001\u80be\u75c5\u7b49\u6162\u6027\u75c5\u4e25\u91cd\u8005\u5e94\u5728\u533b\u5e08\u6307\u5bfc\u4e0b\u670d\u7528\u3002\n5.\u513f\u7ae5\u3001\u5b55\u5987\u3001\u54fa\u4e73\u671f\u5987\u5973\u3001\u5e74\u8001\u4f53\u5f31\u53ca\u813e\u865a\u4fbf\u6e8f\u8005\u5e94\u5728\u533b\u5e08\u6307\u5bfc\u4e0b\u670d\u7528\u3002\n6.\u53d1\u70ed\u4f53\u6e29\u8d85\u8fc738.5\u2103\u7684\u60a3\u8005\uff0c\u5e94\u53bb\u533b\u9662\u5c31\u8bca\u3002\n7.\u4e25\u683c\u6309\u7528\u6cd5\u7528\u91cf\u670d\u7528\uff0c\u672c\u54c1\u4e0d\u5b9c\u957f\u671f\u670d\u7528\u3002\n8.\u670d\u836f3\u5929\u75c7\u72b6\u65e0\u7f13\u89e3\uff0c\u5e94\u53bb\u533b\u9662\u5c31\u8bca\u3002\n9.\u5bf9\u672c\u54c1\u8fc7\u654f\u8005\u7981\u7528\uff0c\u8fc7\u654f\u4f53\u8d28\u8005\u614e\u7528\u3002\n10.\u672c\u54c1\u6027\u72b6\u53d1\u751f\u6539\u53d8\u65f6\u7981\u6b62\u4f7f\u7528\u3002\n11.\u513f\u7ae5\u5fc5\u987b\u5728\u6210\u4eba\u76d1\u62a4\u4e0b\u4f7f\u7528\u3002\n12.\u8bf7\u5c06\u672c\u54c1\u653e\u5728\u513f\u7ae5\u4e0d\u80fd\u63a5\u89e6\u7684\u5730\u65b9\u3002\n13.\u5982\u6b63\u5728\u4f7f\u7528\u5176\u4ed6\u836f\u54c1\uff0c\u4f7f\u7528\u672c\u54c1\u524d\u8bf7\u54a8\u8be2\u533b\u5e08\u6216\u836f\u5e08\u3002\n14.\u8fd0\u52a8\u5458\u614e\u7528\u3002\n15.\u6253\u5f00\u9632\u6f6e\u888b\u540e\uff0c\u8bf7\u6ce8\u610f\u9632\u6f6e\u3002\n\n\n13.\u5982\u6b63\u5728\u4f7f\u7528\u5176\u4ed6\u836f\u54c1\uff0c\u4f7f\u7528\u672c\u54c1\u524d\u8bf7\u54a8\u8be2\u533b\u5e08\u6216\u836f\u5e08\u3002\n14.\u8fd0\u52a8\u5458\u614e\u7528\u3002\n15.\u6253\u5f00\u9632\u6f6e\u888b\u540e\uff0c\u8bf7\u6ce8\u610f\u9632\u6f6e\u3002\n\n(Verse 3 - Chinese)\n\u836f\u7269\u76f8\u4e92\u4f5c\u7528\n\u5982\u4e0e\u5176\u4ed6\u836f\u7269\u540c\u65f6\u4f7f\u7528\u53ef\u80fd\u4f1a\u53d1\u751f\u836f\u7269\u76f8\u4e92\u4f5c\u7528\uff0c\u8be6\u60c5\u8bf7\u54a8\u8be2\u533b\u5e08\u6216\u836f\u5e08\u3002\n\n\u8d2e\u85cf\n\u5bc6\u5c01\uff0c\u7f6e\u9634\u51c9\u5e72\u71e5\u5904\uff08\u4e0d\u8d85\u8fc720\u2103\uff09\u3002\n\n(Outro\uff09\n\u6267\u884c\u6807\u51c6\n\u56fd\u5bb6\u98df\u54c1\u836f\u54c1\u76d1\u7763\u7ba1\u7406\u5c40\u6807\u51c6\u56fd\u5bb6\u836f\u54c1\u6807\u51c6 YBZ03752004-2009Z",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "c1f66359-3d9a-4987-94c8-d5c3366db372",
+            "continue_at": 81.12
+          },
+          {
+            "id": "26b6c8f4-b526-4cfd-a9b6-dd03665e0369",
+            "continue_at": 60.0
+          },
+          {
+            "id": "01a66faf-acae-4ab1-ba49-697587ed0737",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 199.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "9a43acab-4022-4293-93b8-627e5a5ba96b",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-26T15:26:24.217Z",
+      "status": "complete",
+      "title": "\u8fde\u82b1\u6e05\u761f\u80f6\u56ca",
+      "play_count": 687,
+      "upvote_count": 33,
+      "is_public": true
+    },
+    "relative_index": 44.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "3d0f0963-832b-4a94-a4a3-6de793ce6a3b",
+      "video_url": "https://cdn1.suno.ai/3d0f0963-832b-4a94-a4a3-6de793ce6a3b.mp4",
+      "audio_url": "https://cdn1.suno.ai/3d0f0963-832b-4a94-a4a3-6de793ce6a3b.mp3",
+      "image_url": "https://cdn1.suno.ai/image_05291372-e442-4a35-a957-01fba42c19ab.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_05291372-e442-4a35-a957-01fba42c19ab.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "rhythmic Symphonic metal female voice",
+        "prompt": "\u0415\u0435 \u0433\u043b\u0430\u0437\u0430 \u043d\u0430 \u0437\u0432\u0435\u0437\u0434\u044b \u043d\u0435 \u043f\u043e\u0445\u043e\u0436\u0438,\n\u041d\u0435\u043b\u044c\u0437\u044f \u0443\u0441\u0442\u0430 \u043a\u043e\u0440\u0430\u043b\u043b\u0430\u043c\u0438 \u043d\u0430\u0437\u0432\u0430\u0442\u044c,\n\u041d\u0435 \u0431\u0435\u043b\u043e\u0441\u043d\u0435\u0436\u043d\u0430 \u043f\u043b\u0435\u0447 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u043a\u043e\u0436\u0430,\n\u0418 \u0447\u0435\u0440\u043d\u043e\u0439 \u043f\u0440\u043e\u0301\u0432\u043e\u043b\u043e\u043a\u043e\u0439 \u0432\u044c\u0435\u0442\u0441\u044f \u043f\u0440\u044f\u0434\u044c.\n\n\u0421 \u0434\u0430\u043c\u0430\u0441\u0441\u043a\u043e\u0439 \u0440\u043e\u0437\u043e\u0439, \u0430\u043b\u043e\u0439 \u0438\u043b\u0438 \u0431\u0435\u043b\u043e\u0439,\n\u041d\u0435\u043b\u044c\u0437\u044f \u0441\u0440\u0430\u0432\u043d\u0438\u0442\u044c \u043e\u0442\u0442\u0435\u043d\u043e\u043a \u044d\u0442\u0438\u0445 \u0449\u0435\u043a.\n\u0410 \u0442\u0435\u043b\u043e \u043f\u0430\u0445\u043d\u0435\u0442 \u0442\u0430\u043a, \u043a\u0430\u043a \u043f\u0430\u0445\u043d\u0435\u0442 \u0442\u0435\u043b\u043e,\n\u041d\u0435 \u043a\u0430\u043a \u0444\u0438\u0430\u043b\u043a\u0438 \u043d\u0435\u0436\u043d\u044b\u0439 \u043b\u0435\u043f\u0435\u0441\u0442\u043e\u043a.\n\n\u0422\u044b \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u0448\u044c \u0432 \u043d\u0435\u0439 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439,\n\u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0442\u0430 \u043d\u0430 \u0447\u0435\u043b\u0435.\n\u041d\u0435 \u0437\u043d\u0430\u044e \u044f, \u043a\u0430\u043a \u0448\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u0431\u043e\u0433\u0438\u043d\u0438,\n\u041d\u043e \u043c\u0438\u043b\u0430\u044f \u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u043f\u043e \u0437\u0435\u043c\u043b\u0435.\n\n\u0418 \u0432\u0441\u0435 \u0436 \u043e\u043d\u0430 \u0443\u0441\u0442\u0443\u043f\u0438\u0442 \u0442\u0435\u043c \u0435\u0434\u0432\u0430 \u043b\u0438,\n\u041a\u043e\u0433\u043e \u0432 \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u044c\u044f\u0445 \u043f\u044b\u0448\u043d\u044b\u0445 \u043e\u0431\u043e\u043b\u0433\u0430\u043b\u0438.\n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "c4e1c707-0090-445b-bbfd-18ddb36e21d1",
+            "continue_at": 97.0
+          },
+          {
+            "id": "05291372-e442-4a35-a957-01fba42c19ab",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 108.87997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f221a391-9157-4b00-8541-7606b4a57b97",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T22:39:44.032Z",
+      "status": "complete",
+      "title": "\u0428\u0435\u043a\u0441\u043f\u0438\u0440. \u0421\u043e\u043d\u0435\u0442 130 \ud83c\udfad tg:@hypnoticrat",
+      "play_count": 4908,
+      "upvote_count": 73,
+      "is_public": true
+    },
+    "relative_index": 45.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "cb50146e-2c81-4547-9e43-a6b6f79337eb",
+      "video_url": "https://cdn1.suno.ai/cb50146e-2c81-4547-9e43-a6b6f79337eb.mp4",
+      "audio_url": "https://cdn1.suno.ai/cb50146e-2c81-4547-9e43-a6b6f79337eb.mp3",
+      "image_url": "https://cdn1.suno.ai/image_a4f8b472-2b92-4962-b261-2f0fb45ff6e4.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_a4f8b472-2b92-4962-b261-2f0fb45ff6e4.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Epic orchestral Symphonic metal ",
+        "prompt": "[intro]\n[Epic choirs]\nHoh! Hoh! Hoh! Hoh! Hoh!\nHohhhhh hohhhhh Hoh!\nHoh! Hoh! Hoh! Hoh!\n\n\n\n[verse]\nShe's been swimming in the sea\nSearching for the likes of you and me\nShe's been raring to go! (Go!) \nTo snare another soul\nIs her ultimate goal!\nShe's been dreaming of this day\nSteer your ship the other way!\n\n[Chorus]\nSailors of the sea,\nBeware the siren!\nShe'll ensnare you with her enchanting song\nAnd drag you under the waves\nDon't fall under her spell,\nBeware the siren!\n\n[verse]\nShe's been hunting sailors down\nHolds them under 'till they drown \nShe's been singing her siren song\nTo lure you towards her shore\nWon't take one, she wants them all\nHeed our warning, or you'll pay\nSteer your ship the other way!\n\n[Chorus]\nSailors of the sea,\nBeware the siren!\nShe'll ensnare you with her enchanting song\nAnd drag you under the waves\nDon't fall under her spell,\nBeware the siren!\n\n[Bridge]\nLeave now, and never return \nShe's got nothing you desire\nShe's plotting your demise\nLeave and warn all you see\nThe words that you must say\nSteer your ship the other way!\n\n[Chorus]\nSailors of the sea,\nBeware the siren!\nShe'll ensnare you with her enchanting song\nAnd drag you under the waves\nDon't fall under her spell,\nBeware the siren!\n\n[Chorus]\nSailors of the sea,\nBeware the siren!\nShe'll ensnare you with her enchanting song\nAnd drag you under the waves\nDon't fall under her spell,\nBeware the siren!\n\n[Outro]\nTell the world\nHere's what to say.\nSteer your ship the other way!",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "f198c194-9476-4249-8cf2-391e1e7a08da",
+            "continue_at": 38.0
+          },
+          {
+            "id": "86d660c1-2d1e-459b-af7e-f46450066cbd",
+            "continue_at": 57.2
+          },
+          {
+            "id": "c06204bf-4254-40a0-ac5a-ffcb0652d245",
+            "continue_at": 60.0
+          },
+          {
+            "id": "08d42f42-bb05-401e-92d0-aded87a63573",
+            "continue_at": 60.0
+          },
+          {
+            "id": "a4f8b472-2b92-4962-b261-2f0fb45ff6e4",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 241.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "3515e356-2ee0-4820-96b7-f46df49db298",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-24T13:27:20.339Z",
+      "status": "complete",
+      "title": "Beware the Siren!",
+      "play_count": 58947,
+      "upvote_count": 1066,
+      "is_public": true
+    },
+    "relative_index": 46.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "77f77489-e4bf-4b0f-a026-979f597ce42c",
+      "video_url": "https://cdn1.suno.ai/77f77489-e4bf-4b0f-a026-979f597ce42c.mp4",
+      "audio_url": "https://cdn1.suno.ai/77f77489-e4bf-4b0f-a026-979f597ce42c.mp3",
+      "image_url": "https://cdn1.suno.ai/image_5667a73c-0c52-4b24-b16e-f4220da9227b.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_5667a73c-0c52-4b24-b16e-f4220da9227b.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "cyberpunk, electro, phonk, heavy bass, dark, low tones, fast, rythmic, synthwave",
+        "prompt": "\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "01c038c7-8264-4b98-8229-aacce7dad9d9",
+            "continue_at": 120.0
+          },
+          {
+            "id": "5667a73c-0c52-4b24-b16e-f4220da9227b",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "5226b5ec-f6ca-4c5e-a05e-e6a274a1d4d4",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T10:46:19.081Z",
+      "status": "complete",
+      "title": "Nightcity Rave",
+      "play_count": 15190,
+      "upvote_count": 176,
+      "is_public": true
+    },
+    "relative_index": 47.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "f2ebe85e-c2fd-4ae9-a46c-213ba01a2247",
+      "video_url": "https://cdn1.suno.ai/f2ebe85e-c2fd-4ae9-a46c-213ba01a2247.mp4",
+      "audio_url": "https://cdn1.suno.ai/f2ebe85e-c2fd-4ae9-a46c-213ba01a2247.mp3",
+      "image_url": "https://cdn1.suno.ai/image_72066c4c-b313-4d8d-af15-55df10845b96.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_72066c4c-b313-4d8d-af15-55df10845b96.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "edm, hardstyle, drum and bass, upbeat tempo, accordion",
+        "prompt": "[Verse]\nFeel the rhythm of the beat, it's pounding in my chest\nDrum and bass, hardstyle, got me feeling so obsessed\nThe energy is pulsing, can't resist the call\nFeeling the adrenaline, I'm ready to give it my all\n\n[HighTempo beat with accordion solo bridge]\n[Verse 2]\nThe bassline hits hard, it's shaking up the floor\nHands in the air, we're ready for some more\nThe synths are blaring, sending shivers down my spine\nLost in the music, it's a feeling so divine\n\n[HighTempo beat with accordion solo bridge]\n[Chorus]\nLet the beat take control, let it lead the way\nMoving to the rhythm, no need to hesitate\nDrum and bass, hardstyle, setting my soul free\nIn this electrifying moment, I'm where I'm meant to be\n\n\n\n[Verse]\nFeel the rhythm of the beat, it's pounding in my chest\nDrum and bass, hardstyle, got me feeling so obsessed\nThe energy is pulsing, can't resist the call\nFeeling the adrenaline, I'm ready to give it my all\n\n[Hardstyle ending with accordion for 25 seconds] \n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "250c0184-94b7-4d0e-822b-36af88e44a4c",
+            "continue_at": 95.0
+          },
+          {
+            "id": "72066c4c-b313-4d8d-af15-55df10845b96",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 108.55997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "2a1c9ec9-8ff1-4052-ac34-3b1866050d4d",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-24T20:45:09.182Z",
+      "status": "complete",
+      "title": "ACCORDION HARDSTYLE",
+      "play_count": 29885,
+      "upvote_count": 507,
+      "is_public": true
+    },
+    "relative_index": 48.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  },
+  {
+    "clip": {
+      "id": "c9796c4c-30be-46a7-be99-30235e3a579f",
+      "video_url": "https://cdn1.suno.ai/c9796c4c-30be-46a7-be99-30235e3a579f.mp4",
+      "audio_url": "https://cdn1.suno.ai/c9796c4c-30be-46a7-be99-30235e3a579f.mp3",
+      "image_url": "https://cdn1.suno.ai/image_87291e4c-c4cd-4374-9760-26bbd51bff3a.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_87291e4c-c4cd-4374-9760-26bbd51bff3a.png",
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Live dynamic heavy Punk - Rock, Sopranos male, glam rock opera, futuristic rock, metal opera, pop opera, dark elektronic",
+        "prompt": "[Verse]\nNajwi\u0119cej \u0142ez\njest w s\u0142owie \"przez\",\nzawsze przez co\u015b\ncierpi gdzie\u015b kto\u015b.\nPrzez s\u0142owa te\ndotykam Ci\u0119,\nbo Twoje przez\ntak\u017ce tu jest.\nPilnowa\u0107 masz,\nprzestrzega\u0107 masz\ni znowu nie\nzd\u0105\u017cy\u0142o si\u0119,\nzakrywasz twarz,\nsko\u0144czy\u0142 si\u0119 czas,\nprzez nie wiem co\nnie by\u0142o go!\n\n[Chorus]\nPrzez Was jest \u017ale,\nprzeze mnie nie!\nA w\u0142a\u015bnie tak!!!\nMy\u015blimy wspak.\nRozs\u0105dek i\nm\u0105dro\u015b\u0107 w nas \u015bpi,\nnienawi\u015b\u0107 wrze,\nwci\u0105\u017c zemsty chce.\nPrzez nas przez t\u0105\ng\u0142upot\u0119 z\u0142o\nniszczymy \u015bwiat,\nprzez nas Szach-mat.\n\"Przez\" znaczy b\u00f3l,\nz\u0142u nie brak r\u00f3l;\nnie cofnie nikt\nwylanej krwi.\n\n[Verse]\nKusz\u0105cy wci\u0105\u017c\nu\u017cywek - w\u0105\u017c,\npo co je bra\u0107?\nUcieczk\u0105 - spa\u0107.\nP\u0142acz, przemoc przez\nzach\u0142anno\u015b\u0107 jest,\negoizm, z\u0142o\u015b\u0107,\nnikt nie ma do\u015b\u0107.\nPrzez wojn\u0119 - \u015bmier\u0107\ni \u015bmier\u0107 przez AIDS;\npanika, strach,\nwynik - i\u015b\u0107 w piach.\nMy\u015bl: \"Grzech przez b\u0142\u0105d\"\nrazi jak pr\u0105d\na prawdy smak\nzbyt cz\u0119sto brak.\n\n[Chorus]\nPrzez Was jest \u017ale,\nprzeze mnie nie!\nA w\u0142a\u015bnie tak!!!\nMy\u015blimy wspak.\nRozs\u0105dek i\nm\u0105dro\u015b\u0107 w nas \u015bpi,\nnienawi\u015b\u0107 wrze,\nwci\u0105\u017c zemsty chce.\nPrzez nas przez t\u0105\ng\u0142upot\u0119 z\u0142o\nniszczymy \u015bwiat,\nprzez nas Szach-mat.\n\"Przez\" znaczy b\u00f3l,\nz\u0142u nie brak r\u00f3l;\nnie cofnie nikt\nwylanej krwi.\n\n[Fade out]\n[End]\n\n[Outro Instrumental]\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "dcc3890c-2ae9-4424-8acf-ccdef912da12",
+            "continue_at": 137.91997916666668
+          },
+          {
+            "id": "87291e4c-c4cd-4374-9760-26bbd51bff3a",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 197.87997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4254faa9-cb04-43dd-b31c-fe4b25483cd9",
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-03-25T23:08:06.548Z",
+      "status": "complete",
+      "title": "Przez",
+      "play_count": 5029,
+      "upvote_count": 51,
+      "is_public": true
+    },
+    "relative_index": 49.0,
+    "updated_at": "2024-03-26T16:02:22.773Z"
+  }
+]
