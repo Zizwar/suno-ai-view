@@ -12,8 +12,8 @@ export default function Header({}: Props) {
     toast.error("To be added soon");
   };
   return (
-    <header className="flex justify-between items-center">
-      <div className="flex gap-2 items-center">
+    <header className="flex items-center justify-between">
+      <div className="flex items-center gap-2">
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/logo.svg"
@@ -25,21 +25,21 @@ export default function Header({}: Props) {
         <span className="font-mono text-xl font-semibold">Suno AI Music</span>
       </div>
 
-      <div className="flex gap-3 font-semibold">
+      <div className="flex gap-6 font-semibold">
         <Link
-          className="hover:text-blue-500 transition-all duration-200"
+          className="transition-all duration-200 hover:text-blue-500"
           href="/"
         >
           Generate Lyrics
         </Link>
         <Link
-          className="hover:text-blue-500 transition-all duration-200"
-          href="/"
+          className="transition-all duration-200 hover:text-blue-500"
+          href="/download"
         >
           Download
         </Link>
         <Link
-          className="hover:text-blue-500 transition-all duration-200"
+          className="transition-all duration-200 hover:text-blue-500"
           href="/"
         >
           View
