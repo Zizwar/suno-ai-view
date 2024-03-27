@@ -28,6 +28,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <meta name="yandex-verification" content="951c843a1b905611" />
       <body
         className={cn(
           "container min-h-screen bg-background p-6 font-sans antialiased md:p-12",
@@ -44,6 +45,20 @@ export default function RootLayout({
         src="https://umami.runningpig.top/script.js"
         data-website-id="3d2f15fa-396b-4b80-8c92-a8ba9fba33b4"
       ></Script>
+
+      <Script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-HXM2V2GL45"
+      ></Script>
+      <Script id="google-analytic">
+        {`
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'G-HXM2V2GL45');
+ `}
+      </Script>
     </html>
   );
 }
