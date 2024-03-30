@@ -12,7 +12,7 @@ export default function Header({}: Props) {
     toast.error("To be added soon");
   };
   return (
-    <header className="flex items-center justify-between px-4 sm:px-8">
+    <header className="mt-3 flex items-center justify-between px-4 sm:px-8">
       <div className="flex items-center gap-2">
         <Image
           className="relative h-9 w-12 dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"

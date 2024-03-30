@@ -6,7 +6,7 @@ import SunoDisplay from "./_components/suno-display";
 
 export default function Home() {
   return (
-    <main className="mt-10 min-h-screen">
+    <main className="mt-10 min-h-screen p-6 md:p-12">
       <h1 className="pt-10 text-center font-bold md:text-3xl">Suno AI Music</h1>
 
       <p className="mx-auto mt-3 w-full max-w-md text-center text-muted-foreground">

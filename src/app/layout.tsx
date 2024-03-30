@@ -7,6 +7,7 @@ import { Toaster } from "react-hot-toast";
 import Script from "next/script";
 import Header from "@/components/common/header";
 import Footer from "@/components/common/footer";
+import Banner from "./_components/banner";
 
 export const metadata: Metadata = {
   title: "Suno AI Music | Revolutionary AI-Driven Music Creation Platform",
@@ -31,10 +32,11 @@ export default function RootLayout({
       <meta name="yandex-verification" content="951c843a1b905611" />
       <body
         className={cn(
-          "container min-h-screen bg-background p-6 font-sans antialiased md:p-12",
+          "container min-h-screen bg-background  font-sans antialiased ",
           fontSans.variable,
         )}
       >
+        <Banner />
         <Header />
         {children}
         <Footer />
