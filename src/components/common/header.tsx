@@ -12,20 +12,22 @@ export default function Header({}: Props) {
     toast.error("To be added soon");
   };
   return (
-    <header className="flex items-center justify-between">
+    <header className="flex items-center justify-between px-4 sm:px-8">
       <div className="flex items-center gap-2">
         <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+          className="relative h-9 w-12 dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/logo.svg"
           alt="Next.js Logo"
           width={50}
           height={37}
           priority
         />
-        <span className="font-mono text-xl font-semibold">Suno AI Music</span>
+        <span className="font-mono text-lg font-semibold sm:text-xl">
+          Suno AI Music
+        </span>
       </div>
 
-      <div className="flex gap-6 font-semibold">
+      <nav className="hidden gap-6 font-semibold sm:flex">
         <Link
           className="transition-all duration-200 hover:text-blue-500"
           href="/"
@@ -44,6 +46,11 @@ export default function Header({}: Props) {
         >
           View
         </Link>
+      </nav>
+
+      {/* Responsive Menu for smaller screens */}
+      <div className="sm:hidden">
+        {/* Trigger for mobile menu (e.g., hamburger icon) */}
       </div>
 
       {/* Login */}
