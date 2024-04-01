@@ -91,13 +91,15 @@ export default function MusicCards({ sunoSong }: CardType) {
             >
               <CardHeader className="relative overflow-hidden rounded-t-lg px-6 py-2">
                 <AspectRatio ratio={16 / 9} className="bg-muted">
-                  <Image
-                    fill
-                    alt="Pop song"
-                    className="rounded-md object-cover"
-                    src={song.clip.image_url}
-                    // https://cdn1.suno.ai/image_5cc9deb4-69f8-4589-994e-e1925bc5c17a.png
-                  />
+                  <Link href={`/detail/${song.clip.id}`}>
+                    <Image
+                      fill
+                      alt="Pop song"
+                      className="rounded-md object-cover"
+                      src={song.clip.image_large_url}
+                      // https://cdn1.suno.ai/image_5cc9deb4-69f8-4589-994e-e1925bc5c17a.png
+                    />
+                  </Link>
                 </AspectRatio>
                 <div>{/* className="aspect-w-16 aspect-h-9" */}</div>
               </CardHeader>
@@ -126,8 +128,9 @@ export default function MusicCards({ sunoSong }: CardType) {
 
                 <Link
                   className="flex items-center justify-center gap-2 transition-all duration-200 hover:text-blue-500"
-                  href={`https://app.suno.ai/song/${song.clip.id}`}
-                  target="_blank"
+                  // href={`https://app.suno.ai/song/${song.clip.id}`}
+                  href={`/detail/${song.clip.id}`}
+                  // target="_blank"
                 >
                   <h2 className=" text-xl font-bold">{song.clip.title}</h2>
                   <ArrowRight className="h-4 w-4" />

@@ -29,7 +29,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <meta name="yandex-verification" content="951c843a1b905611" />
+      <head>
+        <meta name="yandex-verification" content="951c843a1b905611" />
+      </head>
       <body
         className={cn(
           "container min-h-screen bg-background  font-sans antialiased ",

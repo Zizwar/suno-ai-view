@@ -14,17 +14,19 @@ export default function Header({}: Props) {
   return (
     <header className="mt-3 flex items-center justify-between px-4 sm:px-8">
       <div className="flex items-center gap-2">
-        <Image
-          className="relative h-9 w-12 dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/logo.svg"
-          alt="Next.js Logo"
-          width={50}
-          height={37}
-          priority
-        />
-        <span className="font-mono text-lg font-semibold sm:text-xl">
-          Suno AI Music
-        </span>
+        <a href="/" className="flex gap-2">
+          <Image
+            className="relative h-9 w-12 dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+            src="/logo.svg"
+            alt="Next.js Logo"
+            width={50}
+            height={37}
+            priority
+          />
+          <span className="font-mono text-lg font-semibold sm:text-xl">
+            Suno AI Music
+          </span>
+        </a>
       </div>
 
       <nav className="hidden gap-6 font-semibold sm:flex">

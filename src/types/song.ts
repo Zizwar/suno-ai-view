@@ -4,6 +4,7 @@ export type SunoSong = {
     audio_url: string;
     video_url: string;
     image_url: string;
+    image_large_url: string;
     metadata: {
       tags: string;
       prompt: string;
