@@ -83,9 +83,12 @@ export default function Page({ params }: { params: { slug: string } }) {
         </Card>
 
         <Card>
-          <CardTitle className="text-center">Lyrics</CardTitle>
+          <CardTitle className="my-3 text-center">
+            <h2 className=" text-xl font-bold">{displaySong.clip.title}</h2>
+          </CardTitle>
           <CardContent>
             {/* <p>{promptText}</p> */}
+
             <Markdown>{formattedPrompt}</Markdown>
           </CardContent>
         </Card>
