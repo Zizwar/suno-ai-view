@@ -13,6 +13,13 @@ export default function SunoDisplay({}: Props) {
 
   return (
     <div>
+      <h2 className="text-center">
+        Number of Songs Created with Suno AI{" "}
+        <span className="text-lg font-semibold text-blue-500">
+          {sunoSong.length}
+        </span>
+      </h2>
+
       <AiInputForm
         sunoSongData={sunoSongData}
         setSunoSongData={setSunoSongData}

@@ -1,22 +1,28 @@
 import React from "react";
-import DownloadForm from "../_components/download-form";
+
+import GeneratForm from "../_components/generate-form";
+import MusicStyle from "../_components/music-style";
 
 type Props = {};
 
-export default function DownloadPage({}: Props) {
+export default function GeneratePage({}: Props) {
   return (
     <div className="flex flex-col items-center gap-7">
       <div>
         <h1 className="mt-16 text-center font-sans font-semibold md:text-3xl">
-          Download Suno Music
+          Generate Suno AI lyrics prompts
         </h1>
         <p className="mx-auto mt-3 w-full max-w-xl text-center text-muted-foreground">
-          Input sudo ai music url, and we will download the music for you
+          Input a few words, and we will generate stlye,lyrics and title for you
         </p>
       </div>
 
       <div className="min-h-[60vh]  w-full max-w-xl ">
-        <DownloadForm />
+        <GeneratForm />
+      </div>
+
+      <div>
+        <MusicStyle />
       </div>
     </div>
   );

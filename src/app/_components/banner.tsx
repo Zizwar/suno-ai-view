@@ -46,7 +46,7 @@ export default function Banner() {
             <circle cx={1} cy={1} r={1} />
           </svg>
           <span className="font-semibold">
-            Add search support and style reference count
+            Suno AI Music Generator Available 🎉 Click Generate Lyrics to try
           </span>
         </p>
         {/* <a

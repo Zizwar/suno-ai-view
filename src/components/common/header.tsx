@@ -32,7 +32,7 @@ export default function Header({}: Props) {
       <nav className="hidden gap-6 font-semibold sm:flex">
         <Link
           className="transition-all duration-200 hover:text-blue-500"
-          href="/"
+          href="/generate"
         >
           Generate Lyrics
         </Link>
