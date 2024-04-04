@@ -8,6 +8,7 @@ import Script from "next/script";
 import Header from "@/components/common/header";
 import Footer from "@/components/common/footer";
 import Banner from "./_components/banner";
+import AuthProvider from "@/components/common/auth-provider";
 
 export const metadata: Metadata = {
   title: "Suno AI Music | Revolutionary AI-Driven Music Creation Platform",
@@ -34,15 +35,17 @@ export default function RootLayout({
       </head>
       <body
         className={cn(
-          "container min-h-screen bg-background  font-sans antialiased ",
+          " min-h-screen bg-background  font-sans antialiased ",
           fontSans.variable,
         )}
       >
-        <Banner />
-        <Header />
-        {children}
-        <Footer />
-        <Toaster />
+        <AuthProvider>
+          <Banner />
+          <Header />
+          {children}
+          <Footer />
+          <Toaster />
+        </AuthProvider>
       </body>
       <Script
         async
