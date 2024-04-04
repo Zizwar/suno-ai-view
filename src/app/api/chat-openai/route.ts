@@ -44,6 +44,7 @@ export async function POST(req: Request) {
         },
       ],
     });
+    console.log(completion);
     const respText = completion.choices[0].message.content;
 
     // return;

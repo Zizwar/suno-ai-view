@@ -41,12 +41,12 @@ export default function Header({}: Props) {
       </div>
 
       <nav className="hidden gap-6 font-semibold sm:flex">
-        <Link
+        {/* <Link
           className="transition-all duration-200 hover:text-blue-500"
           href="/generate"
         >
           Generate Lyrics
-        </Link>
+        </Link> */}
         <Link
           className="transition-all duration-200 hover:text-blue-500"
           href="/download"
