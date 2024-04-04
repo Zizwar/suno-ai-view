@@ -81,7 +81,7 @@ export default function MusicCards({ sunoSong }: CardType) {
         ))}
       </div>
 
-      <div className="mt-[3rem] grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-[3rem] grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         {/* song */}
         {sunoSong &&
           sunoSong.map((song) => (
@@ -95,8 +95,8 @@ export default function MusicCards({ sunoSong }: CardType) {
                     <Image
                       fill
                       alt="Pop song"
-                      className="rounded-md object-cover"
-                      src={song.clip.image_large_url}
+                      className="h-full w-full rounded-md object-cover"
+                      src={song.clip.image_url}
                       // https://cdn1.suno.ai/image_5cc9deb4-69f8-4589-994e-e1925bc5c17a.png
                     />
                   </Link>
