@@ -15,6 +15,10 @@ export default function GeneratePage({}: Props) {
         <p className="mx-auto mt-3 w-full max-w-xl text-center text-muted-foreground">
           Input a few words, and we will generate stlye,lyrics and title for you
         </p>
+        <p className="mx-auto mt-3 w-full max-w-xl text-center font-bold text-muted-foreground">
+          Due to high use of GPT model, there may exist Failure!!!!!!! If it
+          exists , <br /> email me liangjiongxin@gmail.com
+        </p>
       </div>
 
       <div className="min-h-[60vh]  w-full max-w-xl ">
