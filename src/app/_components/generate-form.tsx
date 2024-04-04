@@ -77,9 +77,9 @@ export default function GeneratForm() {
       // const aiResp = await resp.json();
       // 假设 respJson 的结构类似于上面的 JSON 示例
       const respJson = await resp.json(); // 第一次解析
-      const aiResp = JSON.parse(respJson.data); // 第二次解析
-      console.log("ai resp", aiResp);
-      setGenerateSuno(aiResp);
+      // const aiResp = JSON.parse(respJson.data); // 第二次解析
+      // console.log("ai resp", aiResp);
+      setGenerateSuno(respJson.data);
     } catch (error) {
       console.error("Error occurred:", error);
       toast.error("error download");
