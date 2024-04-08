@@ -13,7 +13,7 @@ import AuthProvider from "@/components/common/auth-provider";
 export const metadata: Metadata = {
   title: "Suno AI Music | Revolutionary AI-Driven Music Creation Platform",
   description:
-    "Discover Suno AI Music, the leading AI-driven music platform. Revolutionize your music creation with our advanced AI tools designed to enhance creativity and redefine musical boundaries.",
+    "Discover Suno AI Music, the leading AI-driven music platform. Revolutionize your music creation with our advanced AI tools designed to enhance creativity",
   keywords:
     "suno ai music, ai music creation, ai music production, ai music platform, artificial intelligence music, music ai technology, ai music composer, ai music generator, ai-powered music, music production ai software",
 };

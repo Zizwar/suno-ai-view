@@ -9,6 +9,31 @@ import Link from "next/link";
 import DownloadBtn from "../_components/DownloadBtn";
 import Markdown from "react-markdown";
 
+import type { Metadata, ResolvingMetadata } from "next";
+
+export async function generateMetadata(
+  { params }: { params: { slug: string } },
+  parent: ResolvingMetadata,
+): Promise<Metadata> {
+  // read route params
+  const sunoSong = songData as SunoSong[];
+
+  const displaySong = sunoSong.find((song) => song.clip.id === params.slug);
+
+  if (!displaySong) {
+    return {
+      title: "Suno AI Music | Create your music on your own in seconds",
+      description:
+        "Suno AI Music Lyrics, leading suno ai music creator, download suno ai music",
+    };
+  }
+
+  return {
+    title: `Explore ${displaySong.clip.title}| Suno AI Music`,
+    description: `Discover ${displaySong.clip.title} on suno ai music, download your favorite suno ai song in high quality`,
+  };
+}
+
 export default function Page({ params }: { params: { slug: string } }) {
   const sunoSong = songData as SunoSong[];
 
