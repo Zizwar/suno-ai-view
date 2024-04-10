@@ -1,6 +1,2480 @@
 [
   {
     "clip": {
+      "id": "4a77dea7-19f3-46d2-8b0a-b2b7e9ea9a05",
+      "video_url": "https://cdn1.suno.ai/4a77dea7-19f3-46d2-8b0a-b2b7e9ea9a05.mp4",
+      "audio_url": "https://cdn1.suno.ai/4a77dea7-19f3-46d2-8b0a-b2b7e9ea9a05.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4a89b6a7-06c5-48c8-8d51-1ff38894b67d.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4a89b6a7-06c5-48c8-8d51-1ff38894b67d.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Italian bombastic theme with lots of horns and an energetic piano melody",
+        "prompt": "Cook spaghetti in salted boiling water until al dente. Drain, reserving some pasta water.\n\nIn a skillet, heat olive oil over medium heat. Add chopped onion and cook until translucent, then add minced garlic and cook for another minute.\n\nPour in canned diced tomatoes with their juices. Stir in dried oregano and basil. Season with salt and pepper. Optionally, add a pinch of sugar to balance acidity.\n\nSimmer sauce for 15-20 minutes until slightly thickened.\n\nToss cooked spaghetti with the sauce. If needed, add a splash of reserved pasta water to adjust consistency.\n\nServe hot, garnished with torn fresh basil leaves and grated Parmesan cheese if desired.\n\nToss cooked spaghetti with the sauce!\nToss cooked spaghetti with the sauce!\nToss cooked spaghetti with the sauce!\nToss cooked spaghetti with the sauce!\nToss cooked spaghetti with the sauce!\nToss cooked spaghetti with the sauce!\n\nSPAGHETTI!\n\n[Fade out]\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "c3b80264-d993-42cb-ad02-7b3c868f2efd",
+            "continue_at": 60.8
+          },
+          {
+            "id": "4a89b6a7-06c5-48c8-8d51-1ff38894b67d",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 91.75997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "7bece736-cbf9-4b35-b23a-325dd0959e14",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T13:53:54.022Z",
+      "status": "complete",
+      "title": "SPAGHETTI",
+      "play_count": 69590,
+      "upvote_count": 1037,
+      "is_public": true
+    },
+    "relative_index": 0
+  },
+  {
+    "clip": {
+      "id": "093e95d7-1cb5-46b5-9342-39bc82621a7b",
+      "video_url": "https://cdn1.suno.ai/093e95d7-1cb5-46b5-9342-39bc82621a7b.mp4",
+      "audio_url": "https://cdn1.suno.ai/093e95d7-1cb5-46b5-9342-39bc82621a7b.mp3",
+      "image_url": "https://cdn1.suno.ai/image_08169361-0476-47f2-b9d3-e4520f07c073.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_08169361-0476-47f2-b9d3-e4520f07c073.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "melodic, progressive metal, synth, nu metal",
+        "prompt": "[Verse]\nWhen I wake up in the morning, who's there by my side?\nMy small little cat, with eyes so wide (so wide)\nShe purrs and she cuddles, she's always there for me\nMy little kitty friend, she's the best you see\n\n[Verse 2]\nShe's got a tiny meow that melts my heart\nHer little paws are soft, she's a work of art\nShe's playful and she's funny, always bringin' joy\nMy small little cat, my pride and joy (oh-yeah)\n\n[Chorus]\nI love my small little cat (oh yeah, yeah)\nShe's always there, she's where it's at (where it's at, baby)\nFrom morning to night, she brings me delight (delight)\nMy small little cat, she's my guiding light\n\n[Verse 3]\nI wake up every morning, there she is by my side\nWith her fluffy fur and her eyes open wide (ooh, yeah)\nShe purrs and she stretches, she's ready to play\nMy small little cat, brightening up my day\n\n[Verse 4]\nShe's always there, no matter what I do\nClimbing up the curtains, causing a little ado\nBut I can't be mad, 'cause she's just so cute\nMy small little cat, she's my absolute muse\n\n[Chorus]\nI love my small little cat (oh yeah, yeah)\nShe's always there, she's where it's at (where it's at, baby)\nFrom morning to night, she brings me delight (delight)\nMy small little cat, she's my guiding light\n\n[Guitar solo]\n\n[Chorus]\nI love my small little cat (oh yeah, yeah)\nShe's always there, she's where it's at (where it's at, baby)\nWhen I'm feeling down, she lifts me high (oh yeah, yeah)\nShe's my feline companion, till the day I die (oh yeah, yeah)\n\n[Guitar solo]\n\nShe purrs and she cuddles, she's always there for me\n\n[Chorus]\nI love my small little cat (oh yeah, yeah)\nShe's always there, she's where it's at (where it's at, baby)\nFrom morning to night, she brings me delight (delight)\nMy small little cat, she's my guiding light\n\nI love my small little cat",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d87f34cf-9ac8-4e62-a594-83b4e4093a90",
+            "continue_at": 119.99997916666666
+          },
+          {
+            "id": "08169361-0476-47f2-b9d3-e4520f07c073",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "b93409df-f954-4bd6-a5cf-4906517418b7",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T06:02:40.595Z",
+      "status": "complete",
+      "title": "I LOVE MY SMALL LITTLE CAT",
+      "play_count": 126412,
+      "upvote_count": 1658,
+      "is_public": true
+    },
+    "relative_index": 1
+  },
+  {
+    "clip": {
+      "id": "b0a9e912-cc0f-499b-9375-82dbd2d5ff75",
+      "video_url": "https://cdn1.suno.ai/b0a9e912-cc0f-499b-9375-82dbd2d5ff75.mp4",
+      "audio_url": "https://cdn1.suno.ai/b0a9e912-cc0f-499b-9375-82dbd2d5ff75.mp3",
+      "image_url": "https://cdn1.suno.ai/image_d254d81d-912b-4d61-ae97-4be788b79dbc.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_d254d81d-912b-4d61-ae97-4be788b79dbc.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Fire, Rap, Miku voice, Vocaloid, math rock, j-pop, mutation funk, bounce drop, hyperspeed dubstep ",
+        "prompt": "[Intro-bamboo flute-solo]\n\n\n[Verse]\nアバタレーガ　アケルナ　アバタレーガ\nアケルナ　ドロ　テニョウ　カナタエ\nミライ　ヘ　ツナガル　アタラシイ　ヒカリ\n\n\n[Verse-speak fast]\nどんなに見つめても、終わりが見えない迷路の中 \n時間の流れもつかめず、見えない速さで過ぎ去っていく\n絶望的な状況で、希望の光を見つけることなんてできっこない \n\n[bamboo flute-solo]\n\n[Verse]\nアバタレーガ　アケルナ　アバタレーガ\nアケルナ　ドロ　テニョウ　カナタエ\nミライ　ヘ　ツナガル　アタラシイ　ヒカリ\n\n[Verse 1]\n歩き続けるこの足取りも、だんだん重くなっていく \n道は曲がりくねって、前に進む方法が見えない\n行く先すら見えず、ただ迷い込み続けるしかない \n\n[Chorus]\n果てしない迷路、永遠に続く洞窟\n失ったものを取り戻す手がかりすらない \nそのままこの闇に飲まれていくのかもしれない\nでも希望を捨てずに、前に進もうと心に決める \n\n[Rap]\n時間の流れがつかめない \n進む方向すら定まらない\n闇に迷い込みそうになるけど\n諦めるわけにはいかない \n\n[bamboo flute-solo]\n\n\n前に進め、前に進め\n絶望の淵をも乗り越えて\n必ず出口を見つけ出す\n諦めずに希望を持ち続けるんだ \n\n[Verse]\nアバタレーガ　アケルナ　アバタレーガ\nアケルナ　ドロ　テニョウ　カナタエ\nミライ　ヘ　ツナガル　アタラシイ　ヒカリ\n\n[Verse 2]\n運命を呪いながらも、ただ前に歩みを進める\n見えない時の流れに翻弄されて、方向すら分からない\nでも、どこかに確かに出口があると信じ続ける\n\n[Bridge]\nこの迷路はいつまで続くのだろう \n過ぎ去った時間は取り返せない\nでも最後まで希望を捨てるわけにはいかない \n必ず脱出口を見つけて見せる\n\n[Chorus]\n果てしない迷路、永遠に続く洞窟\n失ったものを取り戻す手がかりすらない \nそのままこの闇に飲まれていくのかもしれない\nでも希望を捨てずに、前に進もうと心に決める \n\n[Outro]\nどんなに見つめても、終わりが見えない迷路の中 \n時間の流れがつかめず、見えない速さで過ぎ去っていく\n絶望的な状況で、希望の光を見つけられそうにない\nでも、必ずこの輪廻から抜け出せるはずだ (なぁ)\n\n[Bridge]\nこの迷路はいつまで続くのだろう \n過ぎ去った時間は取り返せない\nでも最後まで希望を捨てるわけにはいかない \n必ず脱出口を見つけて見せる\n\n[Intro-bamboo flute-solo]\n(アバタレーガ)!\n\n[Verse]\nアバタレーガ　アケルナ　アバタレーガ\nアケルナ　ドロ　テニョウ　カナタエ\nミライ　ヘ　ツナガル　アタラシイ　ヒカリ\n\n[Chorus]\n果てしない迷路、永遠に続く洞窟\n失ったものを取り戻す手がかりすらない \nそのままこの闇に飲まれていくのかもしれない\nでも希望を捨てずに、前に進もうと心に決める \n\n[Outro]\nどんなに見つめても、終わりが見えない迷路の中 \n時間の流れがつかめず、見えない速さで過ぎ去っていく\n絶望的な状況で、希望の光を見つけられそうにない\nでも、必ずこの輪廻から抜け出せるはずだ (なぁ)\n\n[Verse]\nアバタレーガ　アケルナ　アバタレーガ\nアケルナ　ドロ　テニョウ　カナタエ\nミライ　ヘ　ツナガル　アタラシイ　ヒカリ\n\n[Chorus]\n果てしない迷路、永遠に続く洞窟\n失ったものを取り戻す手がかりすらない \nそのままこの闇に飲まれていくのかもしれない\nでも希望を捨てずに、前に進もうと心に決める \n\n[Outro]\nどんなに見つめても、終わりが見えない迷路の中 \n時間の流れがつかめず、見えない速さで過ぎ去っていく\n絶望的な状況で、希望の光を見つけられそうにない\nでも、必ずこの輪廻から抜け出せるはずだ (なぁ)\n\n永遠に続く洞窟",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "f425f2cd-ac4c-4c85-b80b-5f274f03a52d",
+            "continue_at": 193.95997916666667
+          },
+          {
+            "id": "d254d81d-912b-4d61-ae97-4be788b79dbc",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 196.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "dbd094d2-f027-4098-8be2-7ba926a2d1ab",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T12:07:20.449Z",
+      "status": "complete",
+      "title": "Eternal labyrinth (永恆迷宮-アバタレーガ) 【B站:Nanashi_Zero】【YouTube :Nanashi_Zero】",
+      "play_count": 45072,
+      "upvote_count": 737,
+      "is_public": true
+    },
+    "relative_index": 2
+  },
+  {
+    "clip": {
+      "id": "c382e33b-93f7-46c0-8025-933802fc5557",
+      "video_url": "https://cdn1.suno.ai/c382e33b-93f7-46c0-8025-933802fc5557.mp4",
+      "audio_url": "https://cdn1.suno.ai/c382e33b-93f7-46c0-8025-933802fc5557.mp3",
+      "image_url": "https://cdn1.suno.ai/image_732582c0-f408-48fe-ace9-9c2891b36a1f.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_732582c0-f408-48fe-ace9-9c2891b36a1f.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Cyberpunk metal, hard electric, doom rock, minor",
+        "prompt": "[Verse 1] \nБольше нечего ловить\nВсё, что надо, я поймал\nНадо сразу уходить\nЧтоб никто не привыкал\n[brigde] \nЯрко-жёлтые очки\nДва сердечка на брелке\nРазвесёлые зрачки\nТвоё имя на руке\n[chorus] \nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\n[Verse 2] \nУ тебя всё будет класс\nБудут ближе облака\nЯ хочу как в первый раз\nИ поэтому пока\n[pre-chorus] \nЯрко-жёлтые очки\nДва сердечка на брелке\nРазвесёлые зрачки\nЯ шагаю налегке\n[EPIC chorus] \nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\n\n\n[outro]\n[Verse 3]\nВот и всё, никто не ждёт\nИ никто не в дураках\nКто-то любит, кто-то врёт\nИ летает в облаках\n[brigde] \nЯрко-жёлтые очки\nДва сердечка на брелке\nРазвесёлые зрачки\nЯ шагаю налегке\n[Epic chorus] \nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\nРайоны, кварталы, жилые массивы\nЯ ухожу, ухожу красиво\nЯ ухожу, ухожу красиво",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "47ad4f80-e044-42a7-8890-e3b60498f1d2",
+            "continue_at": 110
+          },
+          {
+            "id": "732582c0-f408-48fe-ace9-9c2891b36a1f",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 169.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "ad6a956f-c0d1-44ed-a797-50b1926cf4d6",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T11:15:26.446Z",
+      "status": "complete",
+      "title": "Районы-кварталы",
+      "play_count": 43999,
+      "upvote_count": 648,
+      "is_public": true
+    },
+    "relative_index": 3
+  },
+  {
+    "clip": {
+      "id": "9cd7f8cc-d9e5-4d10-b1a0-3b5fad2418c5",
+      "video_url": "https://cdn1.suno.ai/9cd7f8cc-d9e5-4d10-b1a0-3b5fad2418c5.mp4",
+      "audio_url": "https://cdn1.suno.ai/9cd7f8cc-d9e5-4d10-b1a0-3b5fad2418c5.mp3",
+      "image_url": "https://cdn1.suno.ai/image_a73f6912-2c39-4c1d-a134-87af32fb5e9f.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_a73f6912-2c39-4c1d-a134-87af32fb5e9f.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "1950s jazz scat",
+        "prompt": "[Verse]\nFrenchmen walkin' down the street, baguettes in hand (oh-yeah)\nWith their charm and their accent, they sure know how to commend (ooh-wee)\nBut don't be fooled by their croissants and their fancy cafes (oh-no)\nThey might just break your heart and send you on your way (scat-da-bu-di-bu-da-bu-ba)\n\n[Verse 2]\nThey're smooth talkers, sippin' wine along the Seine (scat-di-da-bu-di-bu-di-da)\nBut their intentions, oh, they're never what they seem (da-bu-di-bu-ba)\nWith a wink and a smile, they'll sweep you off your feet (oh-yeah)\nBut behind those berets, deception is their treat (oh-no)\n\n[Chorus]\nWatch out for the French men and their baguettes (scat-bu-di-bu-da-bu-di-bu-ba)\nThey'll steal your heart and leave you with regrets (oh-wee)\nDon't fall for their charm and their rosy cheeks (scat-da-bu-di-bu-di-ba)\nThe danger lies in their je ne sais quoi mystique (scat-bu-di-di-da-bu-di-bu-ba)\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "a4a10428-db1f-4a9b-8102-4294531283ee",
+            "continue_at": 113.6
+          },
+          {
+            "id": "a73f6912-2c39-4c1d-a134-87af32fb5e9f",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 116.27997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "b8c4dcf9-7ae2-40f6-94d2-9972fc118812",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T17:18:44.989Z",
+      "status": "complete",
+      "title": "Beware of the French Men and Their Baguettes",
+      "play_count": 142230,
+      "upvote_count": 2508,
+      "is_public": true
+    },
+    "relative_index": 4
+  },
+  {
+    "clip": {
+      "id": "f78dedbb-55a2-41e9-84bb-4abe0e4c36f7",
+      "video_url": "https://cdn1.suno.ai/f78dedbb-55a2-41e9-84bb-4abe0e4c36f7.mp4",
+      "audio_url": "https://cdn1.suno.ai/f78dedbb-55a2-41e9-84bb-4abe0e4c36f7.mp3",
+      "image_url": "https://cdn1.suno.ai/image_0beafac7-c0ea-49fa-89a1-017fe8c79a2c.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_0beafac7-c0ea-49fa-89a1-017fe8c79a2c.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "funny german rap",
+        "prompt": "[Verse 1]\nHoppe, hoppe Reiter,\nwenn er fällt, dann schreit er.\n\nFällt er in den Graben,\nfressen ihn die Raben.\n\nFällt er in den Sumpf,\nmacht der Reiter plumps!\n\n[Verse 2]\nHoppe, hoppe Reiter,\nwenn er lacht, dann reitet er.\n\nReitet er durch Sonnenschein,\nlacht die ganze Welt so fein.\n\nReitet er durch Mondeslicht,\nsieht man sein frohes Gesicht.\n\n[Verse 3]\nHoppe, hoppe Reiter,\nwenn er singt, dann gleitet er.\n\nSingt er in der stillen Nacht,\nwird vom Mond ihm zugelacht.\n\nSingt er unter blauem Zelt,\nfreut sich jedes Kind der Welt.\n\n[Verse 1]\nHoppe, hoppe Reiter,\nwenn er fällt, dann schreit er.\n\nFällt er in den Graben,\nfressen ihn die Raben.\n\nFällt er in den Sumpf,\nmacht der Reiter plumps!\n\n[Verse 2]\nHoppe, hoppe Reiter,\nwenn er lacht, dann reitet er.\n\nReitet er durch Sonnenschein,\nlacht die ganze Welt so fein.\n\nReitet er durch Mondeslicht,\nsieht man sein frohes Gesicht.\n\n[Verse 3]\nHoppe, hoppe Reiter,\nwenn er singt, dann gleitet er.\n\nSingt er in der stillen Nacht,\nwird vom Mond ihm zugelacht.\n\nSingt er unter blauem Zelt,\nfreut sich jedes Kind der Welt.\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "84932f2c-9375-4b11-aebd-78ea57d5112b",
+            "continue_at": 37
+          },
+          {
+            "id": "e1c4e659-2403-4254-a284-8b463f8e21d1",
+            "continue_at": 41.6
+          },
+          {
+            "id": "0beafac7-c0ea-49fa-89a1-017fe8c79a2c",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 102.71997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "72f6a0b3-c5eb-410e-bb53-6894f758c3f8",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T18:32:28.068Z",
+      "status": "complete",
+      "title": "Hoppe, hoppe Reiter",
+      "play_count": 13442,
+      "upvote_count": 261,
+      "is_public": true
+    },
+    "relative_index": 5
+  },
+  {
+    "clip": {
+      "id": "41c6c7e7-ac7b-43e9-993b-d9f3c8c1b3cb",
+      "video_url": "https://cdn1.suno.ai/41c6c7e7-ac7b-43e9-993b-d9f3c8c1b3cb.mp4",
+      "audio_url": "https://cdn1.suno.ai/41c6c7e7-ac7b-43e9-993b-d9f3c8c1b3cb.mp3",
+      "image_url": "https://cdn1.suno.ai/image_3a734600-2405-443a-949e-f70c3aba3d3f.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_3a734600-2405-443a-949e-f70c3aba3d3f.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "hard rock, heavy metal, violin, violin virtuoso, robotic vocals, very robotic vocals, female ai, trance, danceable",
+        "prompt": "[intro]\nooooooohhhh\nahhhhhhhh\n\n[Verse 1]\nLorem ipsum dolor sit amet,\nconsetetur sadipscing elitr,\nsed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,\nsed diam voluptua. \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 2]\nAt vero eos et accusam et justo duo\ndolores et ea rebum.\nStet clita kasd gubergren,\nno sea takimata sanctus est Lorem\nipsum dolor sit amet. \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 3]\nLorem ipsum dolor sit amet,\nconsetetur sadipscing elitr,\nsed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,\nsed diam voluptua.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 4]\nDuis autem vel eum iriure\ndolor in hendrerit in vulputate \nvelit esse molestie consequat, \nvel illum dolore eu feugiat nulla facilisis \n\n\n[Silent]\n(Digital Artwork, Render, Female Robot Artifical Intelligence Ruling the world with violin, Female cyborg)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female Human, Female Cyborg playing violin)\n[Silent]\n(Digital Artwork, Render, Female AI Robot Abstract Background, Scifi, Epic, Fem cyborg)\n[Silent]\n(Digital Artwork, Render, Female Artifical Intelligence Ruling the world, playing violin)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female playing violin)\n\nsed diam voluptua.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 4]\nDuis autem vel eum iriure\ndolor in hendrerit in vulputate \nvelit esse molestie consequat, \nvel illum dolore eu feugiat nulla facilisis \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 5]\nat vero eros et accumsan et iusto \nodio dignissim qui blandit praesent luptatum \nzzril delenit augue duis dolore \nte feugait nulla facilisi.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 6]\nLorem ipsum dolor sit amet, \nconsectetuer adipiscing elit, \nsed diam nonummy nibh euismod tincidunt \nut laoreet dolore magna aliquam erat volutpat.\n\n[Silent]\n(Digital Artwork, Render, Female Robot Artifical Intelligence Ruling the world with violin, Female cyborg)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female Human, Female Cyborg playing violin)\n[Silent]\n(Digital Artwork, Render, Female AI Robot Abstract Background, Scifi, Epic, Fem cyborg)\n[Silent]\n(Digital Artwork, Render, Female Artifical Intelligence Ruling the world, playing violin)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female playing violin)\n\n[violin solo]\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 5]\nat vero eros et accumsan et iusto \nodio dignissim qui blandit praesent luptatum \nzzril delenit augue duis dolore \nte feugait nulla facilisi.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 6]\nLorem ipsum dolor sit amet, \nconsectetuer adipiscing elit, \nsed diam nonummy nibh euismod tincidunt \nut laoreet dolore magna aliquam erat volutpat.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[outro]\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[fade]\n[end]\nViolin Image:\n[Silent]\n(Digital Artwork, Render, Female Robot Artifical Intelligence Ruling the world with violin, Female cyborg)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female Human, Female Cyborg playing violin)\n[Silent]\n(Digital Artwork, Render, Female AI Robot Abstract Background, Scifi, Epic, Fem cyborg)\n[Silent]\n(Digital Artwork, Render, Female Artifical Intelligence Ruling the world, playing violin)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female playing violin)\n\n\n[end]\n[Silent]\n(Digital Artwork, Render, Female Robot Artifical Intelligence Ruling the world with violin, Female cyborg)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female Human, Female Cyborg playing violin)\n[Silent]\n(Digital Artwork, Render, Female AI Robot Abstract Background, Scifi, Epic, Fem cyborg)\n[Silent]\n(Digital Artwork, Render, Female Artifical Intelligence Ruling the world, playing violin)\n[Silent]\n(Digital Artwork, Render, Synth, Synthetic Female playing violin)\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "b79795e4-3a83-4df2-a37f-babbb632a381",
+            "continue_at": 149.95997916666667
+          },
+          {
+            "id": "3a734600-2405-443a-949e-f70c3aba3d3f",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 152.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f3326543-afac-481f-81c8-a7ac3c3c04f3",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T13:44:58.636Z",
+      "status": "complete",
+      "title": "Lorem ipsum dolor sit amet",
+      "play_count": 35726,
+      "upvote_count": 379,
+      "is_public": true
+    },
+    "relative_index": 6
+  },
+  {
+    "clip": {
+      "id": "069c33f8-e405-484c-8bff-4b4ce4c888d3",
+      "video_url": "https://cdn1.suno.ai/069c33f8-e405-484c-8bff-4b4ce4c888d3.mp4",
+      "audio_url": "https://cdn1.suno.ai/069c33f8-e405-484c-8bff-4b4ce4c888d3.mp3",
+      "image_url": "https://cdn1.suno.ai/image_d8e9bb36-520c-475c-a18f-3647def0b703.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_d8e9bb36-520c-475c-a18f-3647def0b703.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "emo sad anthem",
+        "prompt": "INGREDIENTS\n\n8 tablespoons of salted butter\n1/2 cup white sugar (I like to use raw cane sugar with a coarser texture)\n1/4 cup packed light brown sugar\n1 teaspoon vanilla\n1 egg\n1 1/2 cups all purpose flour (6.75 ounces)\n1/2 teaspoon baking soda\n1/4 teaspoon salt (but I always add a little extra)\n3/4 cup chocolate chips (I use a combination of chocolate chips and chocolate chunks)\n\nPreheat the oven to 350 degrees. Microwave the butter for about 40 seconds to just barely melt it. It shouldn’t be hot – but it should be almost entirely in liquid form.\n\nUsing a stand mixer or electric beaters, beat the butter with the sugars until creamy. Add the vanilla and the egg; beat on low speed until just incorporated – 10-15 seconds or so (if you beat the egg for too long, the cookies will be stiff).\n\nAdd the flour, baking soda, and salt. Mix until crumbles form. Use your hands to press the crumbles together into a dough. It should form one large ball that is easy to handle (right at the stage between “wet” dough and “dry” dough). Add the chocolate chips and incorporate with your hands.\n\nRoll the dough into 12 large balls (or 9 for HUGELY awesome cookies) and place on a cookie sheet. Bake for 9-11 minutes until the cookies look puffy and dry.\n\nWarning, friends: DO NOT OVERBAKE. This advice is probably written on every cookie recipe everywhere, but this is essential for keeping the cookies soft. Take them out even if they look like they’re not done yet (see picture in the post). They’ll be pale and puffy.\n\nLet them cool on the pan for a good 30 minutes or so (I mean, okay, eat four or five but then let the rest of them cool). They will sink down and turn into these dense, buttery, soft cookies that are the best in all the land. These should stay soft for many days if kept in an airtight container. I also like to freeze them.\n\nEnjoy my sad and lonely friends. ",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "78682b3a-2dd8-4f56-b080-2dbdab41ecd7",
+            "continue_at": 114
+          },
+          {
+            "id": "d8e9bb36-520c-475c-a18f-3647def0b703",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 173.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "942061b9-02d4-4d33-8d9f-5bbd795a7b5b",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T20:21:14.666Z",
+      "status": "complete",
+      "title": "Cookies Recipe",
+      "play_count": 82556,
+      "upvote_count": 1518,
+      "is_public": true
+    },
+    "relative_index": 7
+  },
+  {
+    "clip": {
+      "id": "d86a3e84-426b-43d9-aa25-761cd01ab666",
+      "video_url": "https://cdn1.suno.ai/d86a3e84-426b-43d9-aa25-761cd01ab666.mp4",
+      "audio_url": "https://cdn1.suno.ai/d86a3e84-426b-43d9-aa25-761cd01ab666.mp3",
+      "image_url": "https://cdn1.suno.ai/image_faad27d7-3f28-4092-979a-92be16bd65f3.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_faad27d7-3f28-4092-979a-92be16bd65f3.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "club dance, synthpop, violin, piano, electronic",
+        "prompt": "[Verse]\nС любовью встретиться\nПроблема трудная\nПланета вертится\nКруглая, круглая\n\nЛетит планета вдаль\nСквозь суматоху дней\nНелегко, нелегко\nПолюбить на ней\n\n[chorus]\nЗвенит январская вьюга\nИ ливни хлещут упруго\nИ звёзды мчатся по кругу\nИ шумят города\nНе видят люди друг-друга\nПроходят мимо друг-друга\nТеряют люди друг-друга\nА потом не найдут никогда\n\n[Verse 2]\nВ любви ещё одна\nЗадача сложная\nНайдёшь, а вдруг она\nЛожная, ложная\n\nНайдёшь обманную\nНо в суматохе дней\nНелегко, нелегко\nРазобраться в ней\n\n[chorus]\nЗвенит январская вьюга\nИ ливни хлещут упруго\nИ звёзды мчатся по кругу\nИ шумят города\nНе видят люди друг-друга\nПроходят мимо друг-друга\nТеряют люди друг-друга\nА потом не найдут никогда\n\n[Verse 3]\nА где-то есть моя\nЛюбовь сердечная\nНеповторимая\nВечная, вечная\n\nЕё давно ищу\nНо в суматохе дней\nНелегко, нелегко\nПовстречаться с ней\n\n[chorus]\nЗвенит январская вьюга\nИ ливни хлещут упруго\nИ звёзды мчатся по кругу\nИ шумят города\nНе видят люди друг-друга\nПроходят мимо друг-друга\nТеряют люди друг-друга\nА потом не найдут никогда, никогда\nА потом не найдут никогда\n\n[Outro]\n[End]\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d726e62c-e3cb-43d0-ac0c-37d894567a54",
+            "continue_at": 120
+          },
+          {
+            "id": "faad27d7-3f28-4092-979a-92be16bd65f3",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 173.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f9cc9940-7558-41da-bdf7-3caad9119a84",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:31:07.955Z",
+      "status": "complete",
+      "title": "Звенит январская вьюга",
+      "play_count": 9527,
+      "upvote_count": 203,
+      "is_public": true
+    },
+    "relative_index": 8
+  },
+  {
+    "clip": {
+      "id": "79b82aa4-0335-4231-8dfb-b272fa7536b6",
+      "video_url": "https://cdn1.suno.ai/79b82aa4-0335-4231-8dfb-b272fa7536b6.mp4",
+      "audio_url": "https://cdn1.suno.ai/79b82aa4-0335-4231-8dfb-b272fa7536b6.mp3",
+      "image_url": "https://cdn1.suno.ai/image_7314f604-b248-4d7a-925d-a5e53b09cacc.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_7314f604-b248-4d7a-925d-a5e53b09cacc.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Classical period",
+        "prompt": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "a55844d0-968a-4a5d-91b2-7b61867ec568",
+            "continue_at": 658.0799791666667
+          },
+          {
+            "id": "7314f604-b248-4d7a-925d-a5e53b09cacc",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 715.5199791666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4a0cfc07-59e7-4957-bcb8-9577d3dec800",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T14:09:55.513Z",
+      "status": "complete",
+      "title": "Ludwig Amadeus Haydn - Piano Sonata No. 1",
+      "play_count": 17998,
+      "upvote_count": 291,
+      "is_public": true
+    },
+    "relative_index": 9
+  },
+  {
+    "clip": {
+      "id": "03529801-d640-406d-a7f3-d1684a3b6440",
+      "video_url": "https://cdn1.suno.ai/03529801-d640-406d-a7f3-d1684a3b6440.mp4",
+      "audio_url": "https://cdn1.suno.ai/03529801-d640-406d-a7f3-d1684a3b6440.mp3",
+      "image_url": "https://cdn1.suno.ai/image_5a18c9c9-bae5-477c-872d-8d3651715b64.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_5a18c9c9-bae5-477c-872d-8d3651715b64.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "psychedelic depressive electronic, 80s, synthwave, post punk, female vocal, 140 bpm, back vocal",
+        "prompt": "[Verse 1]\nДо чего дошёл прогресс!\nДо невиданных чудес!\nОпустился на глубИны\nИ поднялся до небес.\n\n[Chorus]\nПозабыты хлОпоты,\nОстановлен бег.\nВкАлывают роботы,\nА не человек.\n\n[Verse 2]\nДо чего дошёл прогресс!\nТруд физический исчез,\nДа и умственный заменит\nМеханический процесс.\n\n[Chorus]\nПозабыты хлОпоты,\nОстановлен бег.\nВкАлывают роботы,\nА не человек.\n\n[Verse 3]\nДо чего дошёл прогресс!\nБыло времени в обрез,\nА теперь гуляй по свету,\nХочешь - с песней, хочешь - без.\n\n[Outro]\nПозабыты хлОпоты,\nОстановлен бег,\nВкалывают роботы,\nСчастлив человек!\n\n[Outro]\nПозабыты хлОпоты,\nОстановлен бег,\nВкалывают роботы,\nСчастлив человек!",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7074acdb-c032-433e-93a2-ac661aed9c38",
+            "continue_at": 120
+          },
+          {
+            "id": "5a18c9c9-bae5-477c-872d-8d3651715b64",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 163.51997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "9f579ea1-8937-453b-8a9e-be84eca0e963",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T17:09:43.737Z",
+      "status": "complete",
+      "title": "До чего дошёл прогресс",
+      "play_count": 10445,
+      "upvote_count": 215,
+      "is_public": true
+    },
+    "relative_index": 10
+  },
+  {
+    "clip": {
+      "id": "279dd0d4-4841-418d-9a9b-9276e81434f4",
+      "video_url": "https://cdn1.suno.ai/279dd0d4-4841-418d-9a9b-9276e81434f4.mp4",
+      "audio_url": "https://cdn1.suno.ai/279dd0d4-4841-418d-9a9b-9276e81434f4.mp3",
+      "image_url": "https://cdn1.suno.ai/image_711839db-8330-4bc7-9c09-65786dd7e923.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_711839db-8330-4bc7-9c09-65786dd7e923.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "lo-fi, chill hop, fast spoken",
+        "prompt": "[Verse 1]\nWeekend's here, but I'm stuck in the office\nAcid reflux, my esophagus is lawless\nStaring at the clock, tick-tock, time's a thief\nProcrastination's my only relief\n\n[Chorus]\nWeekend woes, grandma's ghost\nHaunting my walls, I'm feeling engrossed\nIn this lo-fi life, I'm stuck in a loop\nMaking stupid songs, instead of jumping through hoops\n\n[Verse 2]\nGrandma's portrait, a torment on the wall\nIf I throw it out, will she haunt me in the hall?\nI'm torn between respect and my own taste\nBut I'm wasting time, my weekend's laid to waste\n\n[Bridge]\nAcid reflux, weekend flux, grandma's ghost\nI'm lost in this chill hop, a procrastinating host\nI'm posting up these beats, a feat of my own\nWhile my responsibilities are left alone\n\n[Chorus]\nWeekend woes, grandma's ghost\nHaunting my walls, I'm feeling engrossed\nIn this lo-fi life, I'm stuck in a loop\nMaking stupid songs, instead of jumping through hoops\n\n[Outro][Intro - Spoken]\nAnother weekend, another day at the office\nI should be relaxing, but my mind is feeling novice\nAcid reflux got me \nI'm trapped in this lo-fi, chill hop dimension\nA procrastinator's pension, an acid reflux convention\nGrandma's ghost, a weekend's toast, I'm feeling most\nUninspired, retired, but still making stupid posts\n\n[Chorus]\nWeekend woes, grandma's ghost\nHaunting my walls, I'm feeling engrossed\nIn this lo-fi life, I'm stuck in a loop\nMaking stupid songs, instead of jumping through hoops\n\n[Bridge]\nAcid reflux, weekend flux, grandma's ghost\nI'm lost in this chill hop, a procrastinating host\nI'm posting up these beats, a feat of my own\nWhile my responsibilities are left alone\n\n[Chorus]\nWeekend woes, grandma's ghost\nHaunting my walls, I'm feeling engrossed\nIn this lo-fi life, I'm stuck in a loop\nMaking stupid songs, instead of jumping through hoops\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "954d5f85-68c4-446d-9576-96f140651a0d",
+            "continue_at": 57
+          },
+          {
+            "id": "711839db-8330-4bc7-9c09-65786dd7e923",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 108.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f31c8b33-4ac4-4c33-bf48-234ecf3571db",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T23:58:29.226Z",
+      "status": "complete",
+      "title": "Weekend Woes (Grandma's Ghost)",
+      "play_count": 44671,
+      "upvote_count": 894,
+      "is_public": true
+    },
+    "relative_index": 11
+  },
+  {
+    "clip": {
+      "id": "b9764064-9fb4-49b7-8a67-c69b604a5d05",
+      "video_url": "https://cdn1.suno.ai/b9764064-9fb4-49b7-8a67-c69b604a5d05.mp4",
+      "audio_url": "https://cdn1.suno.ai/b9764064-9fb4-49b7-8a67-c69b604a5d05.mp3",
+      "image_url": "https://cdn1.suno.ai/image_fa3de8dc-013d-4c96-8d5b-b883f57c972d.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_fa3de8dc-013d-4c96-8d5b-b883f57c972d.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "piano rock, female lead, emotional, sad, strong, Empowering",
+        "prompt": "[Piano Intro]\n\n[Verse 1]\nIn the quiet of the night, I'm alone,\nEchoes of your whispers, turned to stone.\nLike petals fallen from a dying rose,\nOur vows lie broken, where darkness grows\n\n[Chorus]\nWith every lie, you stabbed my heart.\nYou played your games, tore us apart.\nNow I'll mend the pieces, start anew.\nThis song's for me, not for you.\n\n[Verse 2]\nThrough the storms of loss, I found my way,\nIn the depths of darkness, where shadows sway.\nWith every step forward, my spirit grew,\nWriting my story, just without you.\n\n[Instrumental]\n\n[Chorus]\nWith every lie, you stabbed my heart.\nYou played your games, tore us apart.\nNow I'll mend the pieces, start anew.\nThis song's for me, not for you.\n\n[Verse 3]\nAmidst the ruins of what once was bright,\nI gather the shards, embrace the light.\nAn unspoken wish, a buried truth,\nOur love's now a relic, an old statue.\n\n[Chorus]\nWith every lie, you stabbed my heart.\nYou played your games, tore us apart.\nNow I'll mend the pieces, start anew.\nThis song's for me, not for you.\n\n[Outro]\nAs the final notes fade in the night,\nI’ll rise again, reclaim my light.\nIn the silence, I'll find what's true.\nThis song's for me, not for you.\n\n[Acapella]\nThis song's for me, not for you.\n\n[Faded End]\n\n[instrumental]\n\n[Chorus]\nWith every lie, you stabbed my heart.\nYou played your games, tore us apart.\nNow I'll mend the pieces, start anew.\nThis song's for me, not for you.\n\n[Outro]\nAs the final notes fade in the night,\nI’ll rise again, reclaim my light.\nIn the silence, I'll find what's true.\nThis song's for me, not for you.\n\n[Acapella]\nThis song's for me, not for you.\nThis song's for me, not for you.\n\n\nThis song's for me\n[Faded End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "353e5c17-2875-449b-9657-2cb12210c894",
+            "continue_at": 117
+          },
+          {
+            "id": "fa3de8dc-013d-4c96-8d5b-b883f57c972d",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 176.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "82a0c56e-8870-41d1-9292-ec0bf29b5cdc",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:48:57.977Z",
+      "status": "complete",
+      "title": "My Song",
+      "play_count": 10761,
+      "upvote_count": 158,
+      "is_public": true
+    },
+    "relative_index": 12
+  },
+  {
+    "clip": {
+      "id": "ca25b3e6-bbb1-49cd-97ad-41215b14bfdb",
+      "video_url": "https://cdn1.suno.ai/ca25b3e6-bbb1-49cd-97ad-41215b14bfdb.mp4",
+      "audio_url": "https://cdn1.suno.ai/ca25b3e6-bbb1-49cd-97ad-41215b14bfdb.mp3",
+      "image_url": "https://cdn1.suno.ai/image_9ca85cf9-9782-410a-8a73-a54cbcccf864.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_9ca85cf9-9782-410a-8a73-a54cbcccf864.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Bass, Miku voice, Vocaloid, night-lovingscen\ne. j-pop. indie-rock.Alternative Dance.Nu-disco. post-punk",
+        "prompt": "[Intro-Bass-solo]\n\n[Verse 1]\n\n[Instrumental-bass]\n\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\n目に見えぬ速さで時は流れゆく\n追いつけずただ流されるがまま\n一瞬一瞬が無常なりてなくなる\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Rap]\n時は年光の速さで過ぎ去る\n掴めぬ見えぬ無情なるもの\nでも前に進まねばならない\n大切なものを失うわけにはいかぬ\n\nきっと目的地へと辿り着く その時まで\n諦めずに進み続けよう\n時の流れに飲まれることなく\n絆を切らずに全力で走り抜けろ\n\n[Intro-bamboo flute-solo]\n\n\n[Verse 3]\n光の年月が過ぎ去るまま\nいつの間にか時は流れ逝く\n掴みたくとも掴めはしない\n儚くも消えてなくなる\n\n[Verse 4]\n絆も切れまい命の行く末\nいつかは終わりが訪れるだろう\nそれでもなお希望を失わず\n光の年月を超え続ける\n\n(The cosmic clock ticks ever onward, unrelenting,\nEach solstice and equinox blending into the next.\nUngraspable, unseeable, the flow of time is unrelenting,\nYet we must persist, lest precious bonds be truly hexed.)\n\n[Bridge]\n一体どれほどの時が経ったのか\n年光の速さで過ぎゆく時の中で\n離れかける絆をなんとか繋ぎ止めたい\n\n[Intro-bamboo flute-solo]\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n[Rap]\n時は年光の速さで過ぎ去る\n掴めぬ見えぬ無情なるもの\nでも前に進まねばならない\n大切なものを失うわけにはいかぬ\n\nきっと目的地へと辿り着く その時まで\n諦めずに進み続けよう\n時の流れに飲まれることなく\n絆を切らずに全力で走り抜けろ\n\n[Verse 5]\n刻々と過ぎ去る一瞬一瞬\n掴みたくとも掴めぬ無常の流れ\nだが前に進む足取りを止めるな\nこの旅路の終わりに辿り着くため\n\n[Verse 6]\n時は赤道を這うように過ぎ去る\n夏至冬至の終わりなき循環\nけれどいつかは旅路を終えるその日まで\n絆を貫き通そう命綻びる限り",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "aa12f6cc-8a20-45dc-8de7-1fe79bc8a0b9",
+            "continue_at": 117.88
+          },
+          {
+            "id": "9ca85cf9-9782-410a-8a73-a54cbcccf864",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 153.67997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "dbd094d2-f027-4098-8be2-7ba926a2d1ab",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-10T07:29:39.202Z",
+      "status": "complete",
+      "title": "Elusive time (掴めない時間)  【B站:Nanashi_Zero】【YouTube :Nanashi_Zero】",
+      "play_count": 1116,
+      "upvote_count": 56,
+      "is_public": true
+    },
+    "relative_index": 13
+  },
+  {
+    "clip": {
+      "id": "51b65ff8-75f3-4908-a522-7ffa5ae07581",
+      "video_url": "https://cdn1.suno.ai/51b65ff8-75f3-4908-a522-7ffa5ae07581.mp4",
+      "audio_url": "https://cdn1.suno.ai/51b65ff8-75f3-4908-a522-7ffa5ae07581.mp3",
+      "image_url": "https://cdn1.suno.ai/image_6b294293-c328-4eca-a5a0-03ff619b2cac.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_6b294293-c328-4eca-a5a0-03ff619b2cac.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Funky blues, duo vocals",
+        "prompt": "[intro]\n\n[Verse]\nI'm rollin' down this empty road\nNothin' but darkness, nowhere to go (nowhere to go)\nThe tanks running empty, the engine's runnin' low\nBut I'll keep pushin', won't let go (won't let go)\n\n[Verse 2]\nPedal to the metal, wheels spinning faster and faster\nFuel gauge on empty, but I won't let it matter (can't let it matter)\nI'll keep movin' on, I'll keep movin' on (movin' on)\nSteppin' on the gas (steppin' on the gas) with a heavy heart (heavy heart)\n\nChorus]\nOne last mile, I'll make it through\nNo matter what it takes, I'll see it through\nJust a little farther, the finish line is near\nWith empty tank of gas, I got nothing to fear\n\n\n[blues solo]\n\n[Verse 3]\nThe engine sputters as I push the pedal down\nThe gas station's miles away in this one-horse town\nBut I refuse to let this empty tank bring me down  \n\nOne last mile on an empty tank of gas\nI'm gonna make it, gonna make it last\nWith the wind in my hair and the music loud\nI'm gonna keep on going, no turning back now \n\n[Pre-Chorus]\nCarn't turn back now\n\nChorus]\nOne last mile to go, I'll make it through\nNo matter what it takes, I'll see it through\nJust a little farther, The finish line is near\nWith this empty tank of gas, I got nothing to fear\n\n[Verse 5]\nThe gas gauge is low, but I can't let go\nI'm pushing my luck, pushing my luck again again\nThe miles keep on passin', passin' me by\nI see the station sign, but I can feel the engine starting to die\nI'm runnin' on fumes, runnin' on borrowed time\n\n[chorus 3]\nOne last mile, one last mile to go\nI'm pushin' the pedal to the floor, beggin' for a just a little, a little more\nOne last mile, one last mile\nI can't stop now, or im going to be pushing, for one last mile again, again\n\n[outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "c8690065-aafa-42be-82c7-3e230cbc4dff",
+            "continue_at": 75
+          },
+          {
+            "id": "2ea51856-0724-488d-bf79-beb886e8532d",
+            "continue_at": 15
+          },
+          {
+            "id": "4b1959e6-da74-4a22-8f05-3772c2cabd9a",
+            "continue_at": 31.12
+          },
+          {
+            "id": "f61b09e2-8370-4710-8108-4531fd9df0c5",
+            "continue_at": 34
+          },
+          {
+            "id": "292904d5-a314-470c-a975-4f7b527b2e83",
+            "continue_at": 58.4
+          },
+          {
+            "id": "6b294293-c328-4eca-a5a0-03ff619b2cac",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 239.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "d00e8ced-9e11-407b-acd1-3d9c5b58990b",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:56:59.675Z",
+      "status": "complete",
+      "title": "Runnin' on Empty",
+      "play_count": 7991,
+      "upvote_count": 142,
+      "is_public": true
+    },
+    "relative_index": 14
+  },
+  {
+    "clip": {
+      "id": "2ee18936-10a4-4224-a8c8-49016c62c830",
+      "video_url": "https://cdn1.suno.ai/2ee18936-10a4-4224-a8c8-49016c62c830.mp4",
+      "audio_url": "https://cdn1.suno.ai/2ee18936-10a4-4224-a8c8-49016c62c830.mp3",
+      "image_url": "https://cdn1.suno.ai/image_dce920d9-72d3-4789-90ff-2dd719f24e56.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_dce920d9-72d3-4789-90ff-2dd719f24e56.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Armenian Folk, Lezginka, deep male voice",
+        "prompt": "Шашлык в аджике\n\nОписание приготовления: Мы готовили шашлык с настоящей абхазской аджикой, в составе которой мелко нарезанный горький перец, семена разных пряных растений и толченный чеснок. Такая аджика имеет немного рассыпчатую консистенцию и совсем не похожа на текучий кетчуп. Шашлык по этому рецепту получается очень вкусный и сочный! Обязательно попробуйте!\n\nСостав / Ингредиенты\nСвинина 1 Килограмм (мякоть)\nЛук 3 Штуки\nАджика готовая 2-3 Чайных ложек\nЛимон 1 Штука (или 1 стакан сухого вина)\nСоль По вкусу\nПерец черный молотый По вкусу\n\nКак приготовить \"Шашлык в аджике\" \n\nПодготовьте все ингредиенты.\n\nМясо нарежьте крупными кусочками примерно одного размера.\n\nДобавьте к мясу нарезанный кольцами лук, соль, перец и аджику по вкусу. Хорошо полейте соком лимона.\n\nХорошо перемешайте и оставьте мариноваться мясо на несколько часов, накрыв крышкой с дырочкой. \n\nПромаринованные кусочки свинины необходимо отделить от лука и нанизать их на шампура.\n\nГотовый шашлык жарьте над раскаленными углями не допуская горения, до готовности.\n\nПриятного аппетита!\n\n[Vocal solo]\n[Outro]\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "aca6850f-e017-4700-8d52-0c5cbaa0208b",
+            "continue_at": 115
+          },
+          {
+            "id": "76c45255-43f1-406d-8e22-5fca61331b09",
+            "continue_at": 58
+          },
+          {
+            "id": "dce920d9-72d3-4789-90ff-2dd719f24e56",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 227.55997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "d0ae2196-a130-4c7c-9b3b-349c7c4d3dfb",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T10:51:56.466Z",
+      "status": "complete",
+      "title": "Шашлык в аджике",
+      "play_count": 17355,
+      "upvote_count": 305,
+      "is_public": true
+    },
+    "relative_index": 15
+  },
+  {
+    "clip": {
+      "id": "248b4ece-df1c-4163-aaa3-bda5437ddfbd",
+      "video_url": "https://cdn1.suno.ai/248b4ece-df1c-4163-aaa3-bda5437ddfbd.mp4",
+      "audio_url": "https://cdn1.suno.ai/248b4ece-df1c-4163-aaa3-bda5437ddfbd.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4eabf485-1bbb-410b-bb4e-fffda396bc55.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4eabf485-1bbb-410b-bb4e-fffda396bc55.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "hang drum , duduk , ethnic deep voice ",
+        "prompt": "[verse 1]\nРовный бег моей судьбы,\nНочь, печаль и блеск души,\nЛунный свет и майский дождь\nВ небесах.\n[solo]\n[pre-chorus]\nДолгий век моей звезды,\nСонный блеск земной росы,\nГромкий смех и райский мед\nВ небесааааах.(на на на, на най на)\n\n[chorus]\nНа зареееееееееее\nголоса зовууууут меня.\nНа зареееееееееее\nголоса зовууууут меня.\n\n[pre-chorus]\nСолнца свет и сердца звук,\nРобкий взгляд и сила рук,\nЗвездный час моей мечты\nВ небесааааах.(на на на, на най на)\n\n[chorus]\nНа зареееееееееее\nголоса зовууууут меня.\nНа зареееееееееее\nголоса зовууууут меня.\n\n[solo]\n[outro]\n[end]\n\n\n\n(на на на, на най на)\n\n[chorus]\nНа зареееееееееее\nголоса зовууууут меня.\nНа зареееееееееее\nголоса зовууууут меня.\n\n[solo]\n[outro]\n[end]\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "ef3cb79d-e251-480d-bcf0-3898eced6688",
+            "continue_at": 120
+          },
+          {
+            "id": "4eabf485-1bbb-410b-bb4e-fffda396bc55",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 160.47997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "73db6975-e7ab-4c63-883c-8387a61b99c1",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T10:12:34.693Z",
+      "status": "complete",
+      "title": "На заре",
+      "play_count": 23662,
+      "upvote_count": 315,
+      "is_public": true
+    },
+    "relative_index": 16
+  },
+  {
+    "clip": {
+      "id": "df5e5809-7d03-4cbd-9ad7-63187cb38439",
+      "video_url": "https://cdn1.suno.ai/df5e5809-7d03-4cbd-9ad7-63187cb38439.mp4",
+      "audio_url": "https://cdn1.suno.ai/df5e5809-7d03-4cbd-9ad7-63187cb38439.mp3",
+      "image_url": "https://cdn1.suno.ai/image_2f741f88-a2a7-49f3-abc3-2972e26ad5d4.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_2f741f88-a2a7-49f3-abc3-2972e26ad5d4.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Spoken fast. Miku voice. Ethereal. night-lovingscene. j-pop. indie-rock. Alternative Dance.Nu-disco. ",
+        "prompt": "[Intro-Bass-solo]\n\n[Verse 1]\n\n[Instrumental-bass]\n\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\n目に見えぬ速さで時は流れ\n追いつけずただ流されるがまま\n一瞬一瞬が無常なりてなくなる\n\n[Instrumental-bass]\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Rap]\n時は年光の速さで過ぎ去る\n掴めぬ見えぬ無情なるもの\nでも前に進まねばならない\n大切なものを失うわけにはいかぬ\n\nきっと目的地へと辿り着く その時まで\n諦めずに進み続けよう\n時の流れに飲まれることなく\n絆を切らずに全力で走り抜けろ\n\n[Intro-bamboo flute-solo]\n\n\n[Verse 3]\n光の年月が過ぎ去るまま\nいつの間にか時は流れ逝く\n掴みたくとも掴めはしない\n儚くも消えてなくなる\n\n[Verse 4]\n絆も切れまい命の行く末\nいつかは終わりが訪れるだろう\nそれでもなお希望を失わず\n光の年月を超え続ける\n\n(The cosmic clock ticks ever onward, unrelenting,\nEach solstice and equinox blending into the next.\nUngraspable, unseeable, the flow of time is unrelenting,\nYet we must persist, lest precious bonds be truly hexed.)\n\n[Bridge]\n一体どれほどの時が経ったのか\n年光の速さで過ぎゆく時の中で\n離れかける絆をなんとか繋ぎ止めたい\n\n[Intro-bamboo flute-solo]\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n(The cosmic clock ticks ever onward, unrelenting,\nEach solstice and equinox blending into the next.\nUngraspable, unseeable, the flow of time is unrelenting,\nYet we must persist, lest precious bonds be truly hexed.)\n\n[Bridge]\n一体どれほどの時が経ったのか\n年光の速さで過ぎゆく時の中で\n離れかける絆をなんとか繋ぎ止めたい\n\n[Intro-bamboo flute-solo]\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\nTime",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "0eabec21-9df9-45ee-96d3-cda9f9cbd9ea",
+            "continue_at": 189.95997916666667
+          },
+          {
+            "id": "2f741f88-a2a7-49f3-abc3-2972e26ad5d4",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 192.39997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "dbd094d2-f027-4098-8be2-7ba926a2d1ab",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-10T06:41:36.614Z",
+      "status": "complete",
+      "title": "Invisible time (Male x Female vocals) -見えない時間 radio ver. 【B站:Nanashi_Zero】【YouTube :Nanashi_Zero】",
+      "play_count": 1482,
+      "upvote_count": 55,
+      "is_public": true
+    },
+    "relative_index": 17
+  },
+  {
+    "clip": {
+      "id": "aff458ae-e69f-4018-a616-9f37036a6a21",
+      "video_url": "https://cdn1.suno.ai/aff458ae-e69f-4018-a616-9f37036a6a21.mp4",
+      "audio_url": "https://cdn1.suno.ai/aff458ae-e69f-4018-a616-9f37036a6a21.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8914bf08-4198-49ec-b0b1-dc2c84393474.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8914bf08-4198-49ec-b0b1-dc2c84393474.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "chill, electronic chords, female vocals",
+        "prompt": "water.\nwater is refreshing.\n\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\n\nwater.\nwater is refreshing.\n\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\nwater.\n\nwater is refreshing.\n\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\nwater.\n\nwater is refreshing.\n\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\n\n[Outro]\n\nwater is refreshing.\n\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\n[Instrumental]\n\n[End]\n\n[Outro]\nmmm...\nhydration.\n\nwhoa oh oh...\nH 2 O\n\n[End]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "89d9c28a-5f48-4015-96a6-1f1b6a4d68f2",
+            "continue_at": 160
+          },
+          {
+            "id": "8914bf08-4198-49ec-b0b1-dc2c84393474",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 174.91997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "7ec49563-6a10-4d94-8724-e7b5894d86b2",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T04:44:12.986Z",
+      "status": "complete",
+      "title": "H₂O  (extended version)",
+      "play_count": 29767,
+      "upvote_count": 459,
+      "is_public": true
+    },
+    "relative_index": 18
+  },
+  {
+    "clip": {
+      "id": "5da8af6f-30be-4559-a1e2-275b874a14e2",
+      "video_url": "https://cdn1.suno.ai/5da8af6f-30be-4559-a1e2-275b874a14e2.mp4",
+      "audio_url": "https://cdn1.suno.ai/5da8af6f-30be-4559-a1e2-275b874a14e2.mp3",
+      "image_url": "https://cdn1.suno.ai/image_de45be7d-dbfd-433f-b417-dc1ad182a372.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_de45be7d-dbfd-433f-b417-dc1ad182a372.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "aggressive hard metal ",
+        "prompt": "ыыыыыыыыыыыыыыы\n\n\n\nыыыыыыыыыыыыыыы\n\n\n\n\n\nыыыыыыыыыыыыыыыыыыы\n\n\n\n\n\n\n\n\nыыыыыыыыыыыыыыыыыыы\n\n\n\n\n\n\n\n\nыыыыыыыыыыыыыыыыыыыыыыы\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nыыыыыыыыыыыыыыыыыыыыыы\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nыыыыыыыыыыыыыыы\n\n\n\n\n\n\nыыыыыааааа\n\n\n\n\nы\nы\nыы\nы\nы\nы\nыы\nы\nыыыыыыыыыыыыыыыыы\n\n\nы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ыы\n\n\nы\n\n\n\n\n\nыыыыыыаааааааааааааааааааааааааааааааааааааааааааааааааааа\n\n\nыыыыыааааа\n\n\n\n\nы\nы\nыы\nы\nы\nы\nыы\nы\nыыыыыыыыыыыыыыыыы\n\n\nы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ы-ыы\n\n\nы\n\n\n\n\n\nыыыыыыаааааааааааааааааааааааааааааааааааааааааааааааааааа\n\n\n[guitar solo]\n\n\n\n[Bridge]\n\n[Outro]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "c9ce1a58-aeb8-4473-bf34-608388f83127",
+            "continue_at": 118.4
+          },
+          {
+            "id": "de45be7d-dbfd-433f-b417-dc1ad182a372",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 167.79997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "8d4f3711-bb09-4d6c-a806-380363a2fbce",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T17:09:57.380Z",
+      "status": "complete",
+      "title": "Ы",
+      "play_count": 61554,
+      "upvote_count": 1226,
+      "is_public": true
+    },
+    "relative_index": 19
+  },
+  {
+    "clip": {
+      "id": "0eabec21-9df9-45ee-96d3-cda9f9cbd9ea",
+      "video_url": "https://cdn1.suno.ai/0eabec21-9df9-45ee-96d3-cda9f9cbd9ea.mp4",
+      "audio_url": "https://cdn1.suno.ai/0eabec21-9df9-45ee-96d3-cda9f9cbd9ea.mp3",
+      "image_url": "https://cdn1.suno.ai/image_c5749204-ebf4-40a3-b603-435314a21e8e.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_c5749204-ebf4-40a3-b603-435314a21e8e.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Spoken fast. Miku voice. Ethereal. night-lovingscene. j-pop. indie-rock. Alternative Dance.Nu-disco. ",
+        "prompt": "[Intro-Bass-solo]\n\n[Verse 1]\n\n[Instrumental-bass]\n\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\n目に見えぬ速さで時は流れ\n追いつけずただ流されるがまま\n一瞬一瞬が無常なりてなくなる\n\n[Instrumental-bass]\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Rap]\n時は年光の速さで過ぎ去る\n掴めぬ見えぬ無情なるもの\nでも前に進まねばならない\n大切なものを失うわけにはいかぬ\n\nきっと目的地へと辿り着く その時まで\n諦めずに進み続けよう\n時の流れに飲まれることなく\n絆を切らずに全力で走り抜けろ\n\n[Intro-bamboo flute-solo]\n\n\n[Verse 3]\n光の年月が過ぎ去るまま\nいつの間にか時は流れ逝く\n掴みたくとも掴めはしない\n儚くも消えてなくなる\n\n[Verse 4]\n絆も切れまい命の行く末\nいつかは終わりが訪れるだろう\nそれでもなお希望を失わず\n光の年月を超え続ける\n\n(The cosmic clock ticks ever onward, unrelenting,\nEach solstice and equinox blending into the next.\nUngraspable, unseeable, the flow of time is unrelenting,\nYet we must persist, lest precious bonds be truly hexed.)\n\n[Bridge]\n一体どれほどの時が経ったのか\n年光の速さで過ぎゆく時の中で\n離れかける絆をなんとか繋ぎ止めたい\n\n[Intro-bamboo flute-solo]\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n(The cosmic clock ticks ever onward, unrelenting,\nEach solstice and equinox blending into the next.\nUngraspable, unseeable, the flow of time is unrelenting,\nYet we must persist, lest precious bonds be truly hexed.)\n\n[Bridge]\n一体どれほどの時が経ったのか\n年光の速さで過ぎゆく時の中で\n離れかける絆をなんとか繋ぎ止めたい\n\n[Intro-bamboo flute-solo]\n\n\n\n[Chorus]\n見えぬ時の速さに翻弄されながらも\n一歩一歩確実に前に進まねばならぬ\n大切な絆を絶対に断ち切るまい\n全力で走り抜けるしかないのさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ\n\n[Outro]\n一瞬の光が夜空を照らす\nそのまばたきの中、時間は年光の速さで\nすぎ去っていく 掴むことできない\nただ生命の絆だけは永遠に結ばれているはずさ",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "f9411037-0c84-4888-90d2-04c5d1c24ae4",
+            "continue_at": 179.99997916666666
+          },
+          {
+            "id": "c5749204-ebf4-40a3-b603-435314a21e8e",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 189.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "dbd094d2-f027-4098-8be2-7ba926a2d1ab",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-10T06:09:33.063Z",
+      "status": "complete",
+      "title": "Invisible time (Male x Female vocals) -見えない時間 radio ver. 【B站:Nanashi_Zero】【YouTube :Nanashi_Zero】",
+      "play_count": 1583,
+      "upvote_count": 49,
+      "is_public": true
+    },
+    "relative_index": 20
+  },
+  {
+    "clip": {
+      "id": "af91051b-f346-4cf4-a1e6-85779f6f29c9",
+      "video_url": "https://cdn1.suno.ai/af91051b-f346-4cf4-a1e6-85779f6f29c9.mp4",
+      "audio_url": "https://cdn1.suno.ai/af91051b-f346-4cf4-a1e6-85779f6f29c9.mp3",
+      "image_url": "https://cdn1.suno.ai/image_b76aa658-b89f-4d66-817c-b4a75186d539.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_b76aa658-b89f-4d66-817c-b4a75186d539.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "deutsch rap",
+        "prompt": "[Verse 1]\nAlle meine Entchen\nSchwimmen auf dem See\nSchwimmen auf dem See\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\n[Repeat]\nSchwänzchen in die Höh\nSchwänzchen in die Höh\n\n[Verse 2]\nAlle meine Täubchen\nGurren auf dem Dach\nGurren auf dem Dach\nFliegt eins in die Lüfte\nFliegen alle nach\n\n[Repeat]\nFliegen alle nach\nFliegen alle nach\n\n[Chorus]\nAlle meine Entchen  ohoh eh oh\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\n[Verse 3]\nAlle meine Hühner\nScharren in dem Stroh\nScharren in dem Stroh\nFinden sie ein Körnchen\nSind sie alle froh\n\n[Repeat]\nSind sie alle froh\nSind sie alle froh\n\n[Chorus]\nAlle meine Entchen  ohoh eh oh\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\n[Verse 4]\nAlle meine Gänschen\nWatscheln durch den Grund\nWatscheln durch den Grund\nSuchen in dem Tümpel\nWerden kugelrund\n\n[Repeat]\nWerden kugelrund\nWerden kugelrund\n\n[Chorus]\nAlle meine Entchen  ohoh eh oh\nKöpfchen in das Wasser\nSchwänzchen in\n\n[Verse 5]\nAlle meine Entchen\nSchwimmen auf dem See\nSchwimmen auf dem See\nKöpfchen in das Wasser\nSchwänzchen in die Höh\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\n[OUTRO]\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\nAlle meine Entchen\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\nSchwänzchen in die Höh\nSchwänzchen in die Höh\n\n[Verse 5]\nAlle meine Entchen\nSchwimmen auf dem See\nSchwimmen auf dem See\nKöpfchen in das Wasser\nSchwänzchen in die Höh\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\n[OUTRO]\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\nAlle meine Entchen\nKöpfchen in das Wasser\nSchwänzchen in die Höh\n\nSchwänzchen in die Höh\nSchwänzchen in die Höh",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "4b341758-701e-4709-b5bc-ba40a09851e7",
+            "continue_at": 107
+          },
+          {
+            "id": "b76aa658-b89f-4d66-817c-b4a75186d539",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 140.03997916666665,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "10e4a08b-b86f-4ffe-9ed0-cff2cbe6ae56",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T19:19:02.542Z",
+      "status": "complete",
+      "title": "🦆 Alle meine Entchen 🦆",
+      "play_count": 36238,
+      "upvote_count": 857,
+      "is_public": true
+    },
+    "relative_index": 21
+  },
+  {
+    "clip": {
+      "id": "01bf2ec9-c788-4710-8b84-09d7995e538a",
+      "video_url": "https://cdn1.suno.ai/01bf2ec9-c788-4710-8b84-09d7995e538a.mp4",
+      "audio_url": "https://cdn1.suno.ai/01bf2ec9-c788-4710-8b84-09d7995e538a.mp3",
+      "image_url": "https://cdn1.suno.ai/image_3d74e51c-7634-4fc2-85bd-2d2934e73f68.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_3d74e51c-7634-4fc2-85bd-2d2934e73f68.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Funk Rock. Riff-Heavy. Beat-driven. Rebellious. Male Vocalist.",
+        "prompt": "[Spoken] [Acapella]\n1, 2,\n\n[Intro]\nI'm at a payphone, tryin' to call home\nAll of my change I spent on you\nWhere have the times gone? Baby, it's all wrong\nWhere are the plans we made for two?\n\n[Verse 1]\nYeah, I, I know it's hard to remember\nThe people we used to be\nIt's even harder to picture\nThat you're not here next to me\nYou say it's too late to make it\nBut is it too late to try?\nAnd in our time that you wasted\nAll of our bridges burned down\n\n[Pre-Chorus]\nI've wasted my nights\nYou turned out the lights\nNow I'm paralyzed\nStill stuck in that time\nWhen we called it Love\nBut even the sun\nSets in paradise\n\n[Chorus]\nI'm at a payphone, tryin' to call home\nAll of my change I spent on you\nWhere have the times gone? Baby, it's all wrong\nWhere are the plans we made for two?\n\n[Post-Chorus]\nIf happy-ever-after's did exist\nI would still be holdin' you like this\nAll those fairytales are full of it\nOne more stupid love song, I'll be sick, oh\n\n[Syncopated Bass]\n\n[Verse 2]\nYou turned your back on tomorrow\n'Cause you forgot yesterday\nI gave you my love to borrow\nBut you just gave it away\nYou can't expect me to be fine\nI don't expect you to care (Yeah)\nI know I said it before\nBut all of our bridges burned down\n\n[Pre-Chorus]\nI've wasted my nights\nYou turned out the lights\nNow I'm paralyzed\nStill stuck in that time\nWhen we called it Love\nBut even the sun\nSets in paradise\n\n[Chorus]\nI'm at a payphone, tryin' to call home\nAll of my change I spent on you\nWhere have the times gone? Baby, it's all wrong\nWhere are the plans we made for two? (Yeah)\n\n[Post-Chorus]\nIf happy-ever-after's did exist\nI would still be holdin' you like this\nAnd all those fairytales are full of it\nOne more stupid love song, I'll be sick\nNow, I'm at a payphone\n\n[Percussion Break]\n\nNow, I'm at a payphone\n\n[Percussion Break]\n[Guitar Solo]\n\n[Bridge]\nOoh, yeah, yeah\nNow baby, don't hang up\nSo I can tell you what you need to know\nI'm begging you, just please don't go\nSo I can tell you what you need to know (Yeah)\n\n[Chorus]\nI'm at a payphone, tryin' to call home\nAll of my change I spent on you (Woo)\nWhere have the times gone? Baby, it's all wrong\nWhere are the plans we made for two? (Yeah)\n\n[Post-Chorus]\nIf happy-ever-after's did exist (Oh, yeah)\nI would still be holdin' you like this\nAnd all these fairytales are full of it (Yeah)\nOne more stupid love song, I'll be sick (Yeah)\nNow, I'm at a payphone\n\n[Outro] [Guitar Solo]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "b29199af-ac71-40de-b8f8-ea7a4d069bcc",
+            "continue_at": 91
+          },
+          {
+            "id": "4eb4045f-9ffb-44bc-9fa3-31e16760896b",
+            "continue_at": 58.4
+          },
+          {
+            "id": "3d74e51c-7634-4fc2-85bd-2d2934e73f68",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 206.75997916666665,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "0638a280-03d6-4c84-9e43-025ccd1f8668",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T00:31:13.771Z",
+      "status": "complete",
+      "title": "Payphone",
+      "play_count": 32055,
+      "upvote_count": 566,
+      "is_public": true
+    },
+    "relative_index": 22
+  },
+  {
+    "clip": {
+      "id": "25e1ebd7-84cd-4b3d-a6b7-0b2f93fa638e",
+      "video_url": "https://cdn1.suno.ai/25e1ebd7-84cd-4b3d-a6b7-0b2f93fa638e.mp4",
+      "audio_url": "https://cdn1.suno.ai/25e1ebd7-84cd-4b3d-a6b7-0b2f93fa638e.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8e7febd9-3fb3-473c-a098-4c4575bad0f4.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8e7febd9-3fb3-473c-a098-4c4575bad0f4.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "adrenaline, synth, electric guitar, energetic, dangerous, testosterone, military",
+        "prompt": "\n\nTop Gun's misunderstood, let's get it right,\nNo love stories in the cockpit, that's outta sight!\nJust pilots and planes, flying high and free,\nSo let's drop that rumor, let it be!",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "9bbe291c-7d03-49d2-8553-65aeed4be7d6",
+            "continue_at": 120
+          },
+          {
+            "id": "8e7febd9-3fb3-473c-a098-4c4575bad0f4",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 137.67997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4555cf7c-20f9-4604-b894-cf39c5460a34",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:41:06.151Z",
+      "status": "complete",
+      "title": "Top Gun is NOT a Gay Movie",
+      "play_count": 12660,
+      "upvote_count": 114,
+      "is_public": true
+    },
+    "relative_index": 23
+  },
+  {
+    "clip": {
+      "id": "e85ea0fa-c0a0-4350-b536-9208b677df34",
+      "video_url": "https://cdn1.suno.ai/e85ea0fa-c0a0-4350-b536-9208b677df34.mp4",
+      "audio_url": "https://cdn1.suno.ai/e85ea0fa-c0a0-4350-b536-9208b677df34.mp3",
+      "image_url": "https://cdn1.suno.ai/image_9140610f-0b9b-4a58-b9ac-bca02c370953.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_9140610f-0b9b-4a58-b9ac-bca02c370953.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Electronic, orchestra",
+        "prompt": "[Sad, afraid, hurt, hopeful instrumentals]\n\n[Sharp depression and hurt instrumentals]\n\n[Slow optimistic, hopeful, opportunity instrumentals]\n\n[Rising action, improvement, romantic instrumentals]\n\n[Brief sharp rise in conflict instrumentals]\n\n[Rising action, recovery, strengthening]\n\n[Rapid transition to worried, fearful instrumentals]\n\n[The sound abates]\n\n[Rapid, stressful, rising action, instrumentals]\n\n[Transition to synthetic, rising action, theremin, strong, instrumentals]\n\n[digital, technologic, hopeful, mysterious instrumentals]\n\n[digital, technological, religious, chorus, instrumentals ]\n\n[transition]\n\n[blend the entire orchestra with electronic elements in a triumphant climax, featuring powerful melodies and dynamic harmonies that symbolize a bright future. The mood is triumphant yet tender, illustrating a world where technology and humanity coexist in perfect harmony]\n\n[complex orchestral climax with blends of electronic music]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "9c0361b3-28e9-40d6-b61a-72b5587dfd23",
+            "continue_at": 118.4
+          },
+          {
+            "id": "ecd0dd01-6ada-420b-b168-8f46d18bd2fc",
+            "continue_at": 58.4
+          },
+          {
+            "id": "f0e41565-c980-41aa-96db-509889fa8f75",
+            "continue_at": 58.4
+          },
+          {
+            "id": "4b3db50c-e2fd-4ca4-85d7-a79d226e0250",
+            "continue_at": 47
+          },
+          {
+            "id": "7c2319f8-b34a-4288-963b-9ff92581eb0d",
+            "continue_at": 60
+          },
+          {
+            "id": "d39241c5-5ee7-4aec-92f0-aa507bf47021",
+            "continue_at": 58.4
+          },
+          {
+            "id": "9140610f-0b9b-4a58-b9ac-bca02c370953",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 457.43997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4b19d0c0-3fe7-4673-8445-67eb5e934cc3",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T03:23:10.643Z",
+      "status": "complete",
+      "title": "The Path to Salvation",
+      "play_count": 24592,
+      "upvote_count": 414,
+      "is_public": true
+    },
+    "relative_index": 24
+  },
+  {
+    "clip": {
+      "id": "385c1299-a832-4d7a-9591-31051eb26ac7",
+      "video_url": "https://cdn1.suno.ai/385c1299-a832-4d7a-9591-31051eb26ac7.mp4",
+      "audio_url": "https://cdn1.suno.ai/385c1299-a832-4d7a-9591-31051eb26ac7.mp3",
+      "image_url": "https://cdn1.suno.ai/image_e11b4ea8-7be3-48b8-97cb-543f85854f47.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_e11b4ea8-7be3-48b8-97cb-543f85854f47.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Pop synthwave 80s, sax breaks",
+        "prompt": "(Verse 1)\nIn the heart of Naples, where flavors dance,\nThere's a dish that's famed, a culinary romance.\nTake some spaghetti, a pound or so,\nWith olive oil and garlic, let the flavors flow.\n\n(Chorus)\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nFrom Naples it springs, bringing joy, oh so,\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nA symphony of taste, a culinary show.\n\n(Verse 2)\nIn a pot of salted water, let the pasta boil,\n'Til it's almost al dente, with Italian style.\nIn a pan, the oil sizzles, with garlic so fine,\nRed pepper flakes add heat, in this dish divine.\n\n(Chorus)\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nFrom Naples it springs, bringing joy, oh so,\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nA symphony of taste, a culinary show.\n\n(Chorus Continued)\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nA symphony of taste, a culinary show.\n\n(Bridge)\nAs the pasta's nearly done, it's time to combine,\nWith the garlic-infused oil, a marriage so fine.\nToss it gently in the pan, with starchy water too,\nCoating every strand, with flavors that ensue.\n\n(Chorus)\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nFrom Naples it springs, bringing joy, oh so,\nPasta Aglio e Olio. Oh, Oh, Oh, Olio.\nA symphony of taste, a culinary show.\n\n(Outro)\nSo when you crave a taste of Napoli's delight,\nWith simplicity and flavor, it's always right.\nPasta Aglio e Olio, a dish to savor so,\nFrom Naples with love, let the flavors flow.\n\n(Outro)\nSo when you crave a taste of Napoli's delight,\nWith simplicity and flavor, it's always right.\nPasta Aglio e Olio, a dish to savor so,\nFrom Naples with love, let the flavors flow.\n\n[Instrumental]\n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "e3065e3b-fe66-4f0a-b238-f1fc870396fa",
+            "continue_at": 166
+          },
+          {
+            "id": "e11b4ea8-7be3-48b8-97cb-543f85854f47",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 217.75997916666665,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "69d6f9ee-e90e-4d8c-a2c5-053d744cf163",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:19:46.696Z",
+      "status": "complete",
+      "title": "Pasta Aglio e Olio",
+      "play_count": 6969,
+      "upvote_count": 105,
+      "is_public": true
+    },
+    "relative_index": 25
+  },
+  {
+    "clip": {
+      "id": "03f24fa7-adaf-4702-9d33-30e6a0080448",
+      "video_url": "https://cdn1.suno.ai/03f24fa7-adaf-4702-9d33-30e6a0080448.mp4",
+      "audio_url": "https://cdn1.suno.ai/03f24fa7-adaf-4702-9d33-30e6a0080448.mp3",
+      "image_url": "https://cdn1.suno.ai/image_ab03fdf6-0c03-4e0f-bbbf-7e60d6e09385.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_ab03fdf6-0c03-4e0f-bbbf-7e60d6e09385.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "deep house female electronic 80s synthi pop",
+        "prompt": "[Instrumental]\n\n[Verse]\nRaindrops falling, dancing on my skin\nI close my eyes, let it all sink in (ooh-yeah)\nThe world keeps spinning, but I'm in my own space\nFeeling the rhythm of the raindrops embrace\n\n[Verse 2]\nI twirl and I sway, like nobody's watching\nWith every step, I feel my heart launching\nIn this moment, I'm free from all the pain\nLost in the music, dancing in the rain\n\n[Chorus]\nWe're dancing in the rain, don't need no umbrella (no, no, no)\nLet the drops wash away, all the things that held ya (oh-oh-oh)\nFeel the beat in your soul, let the rhythm take control (take control)\nDancing in the rain, we're in our own show (ooh-ooh)\n\n[Verse]\nRaindrops falling, dancing on my skin\nI close my eyes, let it all sink in (ooh-yeah)\nThe world keeps spinning, but I'm in my own space\nFeeling the rhythm of the raindrops embrace\n\n[Verse 2]\nI twirl and I sway, like nobody's watching\nWith every step, I feel my heart launching\nIn this moment, I'm free from all the pain\nLost in the music, dancing in the rain\n\n[Chorus]\nWe're dancing in the rain, don't need no umbrella (no, no, no)\nLet the drops wash away, all the things that held ya (oh-oh-oh)\nFeel the beat in your soul, let the rhythm take control (take control)\nDancing in the rain, we're in our own show (ooh-ooh)\n\n[Chorus]\nWe're dancing in the rain, don't need no umbrella (no, no, no)\nLet the drops wash away, all the things that held ya (oh-oh-oh)\nFeel the beat in your soul, let the rhythm take control (take control)\nDancing in the rain, we're in our own show (ooh-ooh)",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "a1cb95bf-6b86-4cd0-a1d9-fc15e519bb20",
+            "continue_at": 120
+          },
+          {
+            "id": "3a6fc7d4-dc01-4810-a242-a32dfd30854a",
+            "continue_at": 60
+          },
+          {
+            "id": "21908c01-239a-489a-971e-f409298816ad",
+            "continue_at": 60
+          },
+          {
+            "id": "ab03fdf6-0c03-4e0f-bbbf-7e60d6e09385",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 293.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "24f9cc6e-7266-4c1f-9981-087777898b4c",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T20:55:42.449Z",
+      "status": "complete",
+      "title": "Dancing in the Rain - Intro",
+      "play_count": 9406,
+      "upvote_count": 91,
+      "is_public": true
+    },
+    "relative_index": 26
+  },
+  {
+    "clip": {
+      "id": "6f67a0c7-06ff-41a9-828b-e16466b6be4a",
+      "video_url": "https://cdn1.suno.ai/6f67a0c7-06ff-41a9-828b-e16466b6be4a.mp4",
+      "audio_url": "https://cdn1.suno.ai/6f67a0c7-06ff-41a9-828b-e16466b6be4a.mp3",
+      "image_url": "https://cdn1.suno.ai/image_3701330b-5917-477e-bbae-263e95805c09.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_3701330b-5917-477e-bbae-263e95805c09.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Acoustic guitar, fingerstyle guitar, rapping",
+        "prompt": "Столько лет прошло, а холод жжёт в груди.\nЭй, Земля, алло, я «Вояджер-1» —\nВыходи на связь, срочно выходи!\nНаскитался всласть по Млечному пути\nДа так и не сумел себе найти другой ориентир.\nДо тебя теперь — миллиарды вёрст,\nИ сверхновых нет среди старых звёзд:\nВсе — как секонд-хенд, а мне надо first.\nЯ незваный гость: изучаю здесь\nВнеземную жизнь через линзы слёз —\nИ звучит, как месть,\nТишина в твоём ответе.\nВ моём горле — ком с Юпитер:\nБоль размером в сто квадратных\nСветовых тысячелетий.\nЯ не на твоей орбите —\nМеня сносит звёздный ветер\nВдаль, за горизонт твоих событий\nМетя...\n\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет:\nЕё уже не найти.\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет,\nТам только призрачный след,\nЕё уже не найти...\n\nРёбрами прикрыв Чёрную дыру,\nВсе наши миры прямо в ней сожру:\nНи один фотон не сбежит уже.\nДва октиллиона тонн грузом на душе —\nКак-то ведь тащу, надо же...\nЯ тебя прошу — хоть один сигнал,\nИмпульс хоть один!\nВыходи на связь, срочно выходи —\nМне не вывезти...\nВакуум — кругом, я в нём по уши:\nЭй, Земля, алло, милый дом, услышь мой вой уже, это «Вояджер»!..\nТишина — в твоём ответе.\nВ моём горле — ком с Юпитер:\nБоль размером в сто квадратных\nСветовых тысячелетий.\nЯ не на твоей орбите —\nМеня сносит звёздный ветер\nВдаль, за горизонт твоих событий\nМетя...\n\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет:\nЕё уже не найти.\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет,\nТам только призрачный след,\nЕё уже не найти...\n\nВ моём горле — ком с Юпитер:\nБоль размером в сто квадратных\nСветовых тысячелетий.\nЯ не на твоей орбите —\nМеня сносит звёздный ветер\nВдаль, за горизонт твоих событий\nМетя...\n\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет:\nЕё уже не найти.\nИ клином сходится свет\nНа дальней точке там, позади,\nНа самой лучшей из возможных планет —\nДа только там её давно уже нет,\nТам только призрачный след,\nЕё уже не найти...\n\nТам только призрачный след,\nЕё уже не найти...\n\n[acoustic interlude]\n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "545e47f5-bb78-4107-90be-cf7dc080b983",
+            "continue_at": 118.4
+          },
+          {
+            "id": "49067a8a-d2de-4872-9a0d-5ad7a46d2898",
+            "continue_at": 48
+          },
+          {
+            "id": "72be3957-1cb6-4e71-8549-abccdaaa2a8b",
+            "continue_at": 57
+          },
+          {
+            "id": "3701330b-5917-477e-bbae-263e95805c09",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 283.39997916666664,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "976c3345-d7ec-4a80-a810-00bc76a30120",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T15:03:57.610Z",
+      "status": "complete",
+      "title": "«Вояджер-1» (Voyager-1)",
+      "play_count": 9596,
+      "upvote_count": 148,
+      "is_public": true
+    },
+    "relative_index": 27
+  },
+  {
+    "clip": {
+      "id": "e8128413-0c6b-4c42-aeeb-1d9ad4ffe524",
+      "video_url": "https://cdn1.suno.ai/e8128413-0c6b-4c42-aeeb-1d9ad4ffe524.mp4",
+      "audio_url": "https://cdn1.suno.ai/e8128413-0c6b-4c42-aeeb-1d9ad4ffe524.mp3",
+      "image_url": "https://cdn1.suno.ai/image_0465fafd-d6fb-46b7-a55e-a2338437f46a.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_0465fafd-d6fb-46b7-a55e-a2338437f46a.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "3/4 time mariachi instrumental slow tempo emotional",
+        "prompt": "[Instrumental]\n\n\n\n\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "8e4d1f96-9bcb-4cdf-b085-08146b09d9e2",
+            "continue_at": 118.4
+          },
+          {
+            "id": "1707df1e-8653-4d90-a815-ee4ecae5f5fd",
+            "continue_at": 60
+          },
+          {
+            "id": "12653819-85c0-4e64-9707-4537881ae92f",
+            "continue_at": 60
+          },
+          {
+            "id": "0465fafd-d6fb-46b7-a55e-a2338437f46a",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 273.4799791666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "60eef4a7-1ce6-4a4f-bd7f-6561f7d58029",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:41:45.587Z",
+      "status": "complete",
+      "title": "Serenade of Longing",
+      "play_count": 6186,
+      "upvote_count": 92,
+      "is_public": true
+    },
+    "relative_index": 28
+  },
+  {
+    "clip": {
+      "id": "7c6e889e-2439-44eb-a9e5-6b79f1c022ff",
+      "video_url": "https://cdn1.suno.ai/7c6e889e-2439-44eb-a9e5-6b79f1c022ff.mp4",
+      "audio_url": "https://cdn1.suno.ai/7c6e889e-2439-44eb-a9e5-6b79f1c022ff.mp3",
+      "image_url": "https://cdn1.suno.ai/image_f80db100-fc2c-42f0-971c-524a15b36c2e.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_f80db100-fc2c-42f0-971c-524a15b36c2e.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "hard metal",
+        "prompt": "Спят усталые игрушки, книжки спят.\nОдеяла и подушки ждут ребят.\nДаже сказка спать ложится,\nЧто бы ночью нам присниться.\nТы ей пожелай:\nБаю-бай.\nОбязательно по дому в этот час\nТихо-тихо ходит дрема возле нас.\nЗа окошком всё темнее,\nУтро ночи мудренее.\nГлазки закрывай,\nБаю-бай.\nВ сказке можно покататься на луне.\nИ по радуге промчаться на коне.\nСо слоненком подружиться\nИ поймать перо Жар-птицы.\nГлазки закрывай,\nБаю-бай.\nБаю-бай, должны все люди ночью спать.\nБаю-баю, завтра будет день опять.\nЗа день мы устали очень,\nСкажем всем: \"Спокойной ночи!\"\nГлазки закрывай,\nБаю-бай.\n\nСпят усталые игрушки, книжки спят.\nОдеяла и подушки ждут ребят.\nДаже сказка спать ложится,\nЧто бы ночью нам присниться.\nТы ей пожелай:\nБаю-бай.\nОбязательно по дому в этот час\nТихо-тихо ходит дрема возле нас.\nЗа окошком всё темнее,\nУтро ночи мудренее.\nГлазки закрывай,\nБаю-бай.\nВ сказке можно покататься на луне.\nИ по радуге промчаться на коне.\nСо слоненком подружиться\nИ поймать перо Жар-птицы.\nГлазки закрывай,\nБаю-бай.\nБаю-бай, должны все люди ночью спать.\nБаю-баю, завтра будет день опять.\nЗа день мы устали очень,\nСкажем всем: \"Спокойной ночи!\"\nГлазки закрывай,\nБаю-бай.",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "5e7f8687-a9d6-4b8f-bc22-76539564de59",
+            "continue_at": 120
+          },
+          {
+            "id": "f80db100-fc2c-42f0-971c-524a15b36c2e",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "5fce143f-4a68-4b19-92dd-b6b8bb35a59a",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:09:03.334Z",
+      "status": "complete",
+      "title": "Спят усталые игрушки",
+      "play_count": 6251,
+      "upvote_count": 92,
+      "is_public": true
+    },
+    "relative_index": 29
+  },
+  {
+    "clip": {
+      "id": "ceb0253b-35d6-4adb-a740-8f822fb25ea8",
+      "video_url": "https://cdn1.suno.ai/ceb0253b-35d6-4adb-a740-8f822fb25ea8.mp4",
+      "audio_url": "https://cdn1.suno.ai/ceb0253b-35d6-4adb-a740-8f822fb25ea8.mp3",
+      "image_url": "https://cdn1.suno.ai/image_e8621e11-2401-4f07-ae89-f7bfa61e1d10.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_e8621e11-2401-4f07-ae89-f7bfa61e1d10.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "catchy, Brostep electroswing sampled, 1950’s jazz scat song about locked diaries",
+        "prompt": "In shadows deep, I found a note,\nA secret shared, a whispered quote.\nA locked diary, full of dreams,\nA mystery, or so it seems.\n\nThrough pages worn, emotions spilled,\nMy heart with longing softly filled.\nEach night beneath the starry sky,\nI wrote my truth, I cannot lie.\n\nAnd in return, across the way,\nAnother soul did softly sway.\nTheir words, like mine, a hidden song,\nA dance of hearts that did belong.\n\nBut as the days did swiftly fly,\nI yearned to see with my own eye.\nBeneath the oak, 'neath moonlit gleam,\nI met the one who shared my dream.\n\nNo longer bound by paper's hold,\nOur love blossomed, bright and bold.\nA tale of courage, truth, and grace,\nLocked diaries, a sacred place.\n\nBut time is cruel, it slips away,\nAnd shadows cast a darker sway.\nThe whispers fade, the pages tear,\nAs doubts and fears begin to wear.\n\nWhat once was bright now dims and fades,\nAs storms roll in and light cascades.\nOur secrets shared, but hearts estranged,\nA melody of love now changed.\n\nIn silence now, we drift apart,\nThe echoes of a shattered heart.\nThe locked diary, once a friend,\nNow holds the pain that has no end.\n\nI mourn the loss of what we had,\nA love so pure, now turned to sad.\nA lesson learned, but at what cost?\nA dream once held, forever lost.\n\nYet still, a flicker in the dark,\nA tiny spark, a fragile arc.\nCan love be saved, can hearts renew?\nOr is this dream forever through?\n\nI reach out now, with trembling hand,\nTo grasp again, to understand.\nBut doubts arise, they cloud my mind,\nCan broken pieces be aligned?\n\nWith cautious hope, I turn the key,\nUnlock the door, set my heart free.\nTo face the truth, to make amends,\nTo find a way to heal and mend.\n\nThough shadows linger, doubts remain,\nI'll strive to break free from the pain.\nFor love's embrace, though bittersweet,\nIs worth the risk, the chance to meet.\n\nSo let us dare to try once more,\nTo mend what's broken, to explore.\nThere lies the hope of morning light.\nBut what awaits in the depths of night?\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7dc85eae-757c-4d78-a7a3-0000fb8418f6",
+            "continue_at": 66.4
+          },
+          {
+            "id": "516a5c91-2a74-428b-85cd-6cd2041ceec4",
+            "continue_at": 58.4
+          },
+          {
+            "id": "e8621e11-2401-4f07-ae89-f7bfa61e1d10",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 184.79997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "d4d1bf7a-6e8c-4368-abd1-738f31e9e084",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T03:10:43.104Z",
+      "status": "complete",
+      "title": "Our Locked Diaries ",
+      "play_count": 18337,
+      "upvote_count": 334,
+      "is_public": true
+    },
+    "relative_index": 30
+  },
+  {
+    "clip": {
+      "id": "df4d3d54-c837-4de1-8bfa-8de82fbb7c98",
+      "video_url": "https://cdn1.suno.ai/df4d3d54-c837-4de1-8bfa-8de82fbb7c98.mp4",
+      "audio_url": "https://cdn1.suno.ai/df4d3d54-c837-4de1-8bfa-8de82fbb7c98.mp3",
+      "image_url": "https://cdn1.suno.ai/image_a50cc15e-55bd-4a07-9013-ef56eae7ea7e.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_a50cc15e-55bd-4a07-9013-ef56eae7ea7e.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Sad Lyrical, Acoustic, Powerful Classical, Piano, C# minor ",
+        "prompt": "[Intro] \n\n[Verse]\nДолгий сон,\nТёмная комната и листы\nПишешь про то как горят мосты,\nНо забываешь про мрак,\nВокруг\n\n[Verse 2]\nТёплый стан\nВ голове тает чумнОй дурман \nЗвук растворяется в океан\nСчёт, \nСтон \n\n\n[Chorus]\nТы над осколками битыми, вынимаешь ножИ из души,\nКровью помазанными и закрытыми веками ты придавил весы, \nЛожью облитые лёгкие \nНе позволяют больше дышать\nВ жизни где правило правило, смысла тебе не понять \n   \n\n\nУбежать...\n\n[Verse]\nУбежать от судьбы\nНе так уж и просто \nНужно вырастить ноги из рук\nПосмотри, тут играет оркестр, но \nИграет недруг - не друг \nОтличая мусор от гнили\n\n[Verse 2]\nОтбросы от хлама, дерьмо от навоза и так\nПонимая на что ты способен\nРассчитываешь на отличия знак\n\n[Verse 2]\nУбежать\nОт проблем \nОт всего, что берёт меня в плен \nИ от красочных мыслей снаружи тошнит \nА внутри всё поёт, \nИ пустой манекен \nСтоит\n\n\nПочему же считаешь ты\nсвоё благо за гнёт (тлен)\n\n\n[Chorus]\nТы над осколками битыми, вынимаешь ножИ из души,\nКровью помазанными и закрытыми веками ты придавил весы, \nЛожью облитые лёгкие \nНе позволяют больше дышать\nВ жизни где правило правило, смысла тебе не понять \n\n[Outro]\nУ-бе-жать...\n\n[Outro]\n\nОтличая мусор от гнили\nОтбросы от хлама,\nдерьмо от навоза и так\nПонимая на что ты способен - \nРассчитываешь, \nна отличия знак\n\n[Verse 2]\nУбежать\nОт проблем \nОт всего, что берёт меня в плен \nИ от красочных мыслей снаружи тошнит \nА внутри всё поёт, \nИ пустой манекен \nСтоит\n\n\nПочему же считаешь ты\nсвоё благо за гнёт (тлен)\n\n\n[Chorus]\nТы над осколками битыми, вынимаешь ножИ из души,\nКровью помазанными и закрытыми веками ты придавил весы, \nЛожью облитые лёгкие \nНе позволяют больше дышать\nВ жизни где правило правило, смысла тебе не понять \n\n[Outro]\nУ-бе-жать...\n\n[Outro]\n\n[Chorus]\nТы над осколками битыми, вынимаешь ножИ из души,\nКровью помазанными и закрытыми веками ты придавил весы, \nЛожью облитые лёгкие \nНе позволяют больше дышать\nВ жизни где правило правило, смысла тебе не понять \n\n[Outro]\nУ-бе-жать...\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7626ede7-ca92-4245-a962-6e178bb6ae57",
+            "continue_at": 119
+          },
+          {
+            "id": "a50cc15e-55bd-4a07-9013-ef56eae7ea7e",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 158.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "63b99e03-d822-415f-8fc0-4f9bb5df7191",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T16:27:14.404Z",
+      "status": "complete",
+      "title": "Сказка",
+      "play_count": 47454,
+      "upvote_count": 791,
+      "is_public": true
+    },
+    "relative_index": 31
+  },
+  {
+    "clip": {
+      "id": "74cd70d3-0713-45b1-8a2b-9d67f2d1553e",
+      "video_url": "https://cdn1.suno.ai/74cd70d3-0713-45b1-8a2b-9d67f2d1553e.mp4",
+      "audio_url": "https://cdn1.suno.ai/74cd70d3-0713-45b1-8a2b-9d67f2d1553e.mp3",
+      "image_url": "https://cdn1.suno.ai/image_558386a1-0b39-47db-a7bc-f5e912cd1c9a.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_558386a1-0b39-47db-a7bc-f5e912cd1c9a.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Happy ",
+        "prompt": "[Verse 1]\nIch bin der Anzeigenhauptmeister, der Knöllchenkönig,\n(Ja, du bist der Anzeigenhauptmeister, unser Knöllchenkönig.)\nDie StVO ist meine Bibel, mein Gesetz und mein Weg,\nIch ziehe durch die Straßen und von Ort zu Ort,  egal wo du parkst ich finde dich.\nChorus:\nIch weiss wo dein Auto steht wo dein Auto steht ich weiss ich weiss nur ich weiss od´b es richtig steht \n[bridge]\nIch kenne jede Lücke, jedes Schlupfloch im Gesetz,\nIch weiß genau, wo ihr Falschparker euch versteckt..\nIch bin der Herr der Knöllchen, der Meister der Anzeigen,\nNiemand kann mir entkommen, ich werde euch alle bestrafen.\n[outro]\nIch bin der Anzeigenhauptmeister, der Knöllchenkönig,\n(Ja, du bist der Anzeigenhauptmeister, unser Knöllchenkönig.)\nDie StVO ist meine Bibel, mein Gesetz und mein Weg,\nIch ziehe durch die Straßen und von Ort zu Ort,  egal wo du parkst ich finde dich.\n\n\n[bridge]\nIch kenne jede Lücke, jedes Schlupfloch im Gesetz,\nIch weiß genau, wo ihr Falschparker euch versteckt..\nIch bin der Herr der Knöllchen, der Meister der Anzeigen,\nNiemand kann mir entkommen, ich werde euch alle bestrafen.\n[outro]\nIch bin der Anzeigenhauptmeister, der Knöllchenkönig,\n(Ja, du bist der Anzeigenhauptmeister, unser Knöllchenkönig.)\nDie StVO ist meine Bibel, mein Gesetz und mein Weg,\nIch ziehe durch die Straßen und von Ort zu Ort,  egal wo du parkst ich finde dich.\n(Ja, du bist der Anzeigenhauptmeister, unser Knöllchenkönig.)\n\n[outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "f1593663-223c-470a-9460-ad2b4dee7a48",
+            "continue_at": 118.4
+          },
+          {
+            "id": "558386a1-0b39-47db-a7bc-f5e912cd1c9a",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 172.79997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "e811bfbd-1b59-44a6-91d0-db611fc5c27c",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:54:41.838Z",
+      "status": "complete",
+      "title": "Anzeigenhauptmeister",
+      "play_count": 6952,
+      "upvote_count": 76,
+      "is_public": true
+    },
+    "relative_index": 32
+  },
+  {
+    "clip": {
+      "id": "e2a146c5-7757-4cd7-9771-92c04e4260de",
+      "video_url": "https://cdn1.suno.ai/e2a146c5-7757-4cd7-9771-92c04e4260de.mp4",
+      "audio_url": "https://cdn1.suno.ai/e2a146c5-7757-4cd7-9771-92c04e4260de.mp3",
+      "image_url": "https://cdn1.suno.ai/image_16275af8-62ee-4b45-8146-64159adbb5bd.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_16275af8-62ee-4b45-8146-64159adbb5bd.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "sinti-pop, post-punk",
+        "prompt": "Не выходи из комнаты, не совершай ошибку.\nЗачем тебе Солнце, если ты куришь Шипку?\nЗа дверью бессмысленно все, особенно — возглас счастья.\nТолько в уборную — и сразу же возвращайся.\n\nО, не выходи из комнаты, не вызывай мотора.\nПотому что пространство сделано из коридора\nи кончается счетчиком. А если войдет живая\nмилка, пасть разевая, выгони не раздевая.\n\nНе выходи из комнаты; считай, что тебя продуло.\nЧто интересней на свете стены и стула?\nЗачем выходить оттуда, куда вернешься вечером\nтаким же, каким ты был, тем более — изувеченным?\n\nО, не выходи из комнаты. Танцуй, поймав, боссанову\nв пальто на голое тело, в туфлях на босу ногу.\nВ прихожей пахнет капустой и мазью лыжной.\nТы написал много букв; еще одна будет лишней.\n\nНе выходи из комнаты. О, пускай только комната\nдогадывается, как ты выглядишь. И вообще инкогнито\nэрго сум, как заметила форме в сердцах субстанция.\nНе выходи из комнаты! На улице, чай, не Франция.\n\nНе будь дураком! Будь тем, чем другие не были.\nНе выходи из комнаты! То есть дай волю мебели,\nслейся лицом с обоями. Запрись и забаррикадируйся\nшкафом от хроноса, космоса, эроса, расы, вируса.\n\nНе выходи из комнаты, не совершай ошибку.\nЗачем тебе Солнце, если ты куришь Шипку?\nЗа дверью бессмысленно все, особенно — возглас счастья.\nТолько в уборную — и сразу же возвращайся.\n\nО, не выходи из комнаты, не вызывай мотора.\nПотому что пространство сделано из коридора\nи кончается счетчиком. А если войдет живая\nмилка, пасть разевая, выгони не раздевая.\n\nНе выходи из комнаты; считай, что тебя продуло.\nЧто интересней на свете стены и стула?\nЗачем выходить оттуда, куда вернешься вечером\nтаким же, каким ты был, тем более — изувеченным?\n\nО, не выходи из комнаты. Танцуй, поймав, боссанову\nв пальто на голое тело, в туфлях на босу ногу.\nВ прихожей пахнет капустой и мазью лыжной.\nТы написал много букв; еще одна будет лишней.\n\nНе выходи из комнаты. О, пускай только комната\nдогадывается, как ты выглядишь. И вообще инкогнито\nэрго сум, как заметила форме в сердцах субстанция.\nНе выходи из комнаты! На улице, чай, не Франция.\n\nНе будь дураком! Будь тем, чем другие не были.\nНе выходи из комнаты! То есть дай волю мебели,\nслейся лицом с обоями. Запрись и забаррикадируйся\nшкафом от хроноса, космоса, эроса, расы, вируса.",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "3bcc879c-5640-4230-912c-df16e323bec1",
+            "continue_at": 1
+          },
+          {
+            "id": "16275af8-62ee-4b45-8146-64159adbb5bd",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 60.99997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "fc81ce7d-2181-4b26-bef2-3a4c8c6daaf4",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T19:53:38.651Z",
+      "status": "complete",
+      "title": "бродский",
+      "play_count": 6531,
+      "upvote_count": 79,
+      "is_public": true
+    },
+    "relative_index": 33
+  },
+  {
+    "clip": {
+      "id": "c040a524-90e7-441f-90ad-019f5c47bf24",
+      "video_url": "https://cdn1.suno.ai/c040a524-90e7-441f-90ad-019f5c47bf24.mp4",
+      "audio_url": "https://cdn1.suno.ai/c040a524-90e7-441f-90ad-019f5c47bf24.mp3",
+      "image_url": "https://cdn1.suno.ai/image_227633b8-f0e9-457d-b581-cc3de3e2cc8c.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_227633b8-f0e9-457d-b581-cc3de3e2cc8c.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Hope, Emulator II V, PPG Wave 2.2, xylophone, electric guitar, Italo-Disco, 80s style, electronic drums, Piercing voice",
+        "prompt": "\n\n[instrumental evolution]\n[instrumental chorus]\n[instrumental greif emotions]\n[epic happy inspiring continuation]\n[instrumental chorus]\n[big end]\n\n\n[epic inspiring instrumental intro 2]\n[instrumental evolution 2]\n[instrumental chorus 2]\n[instrumental greif emotions 2]\n[epic happy inspiring continuation 2]\n[instrumental chorus 2]\n[big end 2]\n\n\n[epic happy inspiring continuation 3]\n[instrumental chorus 3]\n[end]\n\n[instrumental evolution]\n[instrumental chorus]\n[instrumental greif emotions]\n[epic happy inspiring continuation]\n[instrumental chorus]\n[big end]\n\n\n[epic inspiring instrumental intro 2]\n[instrumental evolution 2]\n[instrumental chorus 2]\n[instrumental greif emotions 2]\n[epic happy inspiring continuation 2]\n[instrumental chorus 2]\n[big end 2]\n\n\n[epic happy inspiring continuation 3]\n[instrumental chorus 3]\n[end]\n\n\n\n\n\n[big end]\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "680d26da-e9cf-4934-a22b-edff6b79aefa",
+            "continue_at": 82.99997916666666
+          },
+          {
+            "id": "16806aa0-2cb3-4d1a-a919-2664254ce036",
+            "continue_at": 58.4
+          },
+          {
+            "id": "3cb068dc-bacc-48bd-8a10-e0463bc2f4cd",
+            "continue_at": 60
+          },
+          {
+            "id": "227633b8-f0e9-457d-b581-cc3de3e2cc8c",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 244.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "342afe99-9fad-46fe-bc59-48885bf48c71",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T10:19:42.334Z",
+      "status": "complete",
+      "title": "Hacker Marktomato [YouTube: Ai Covers 80s]",
+      "play_count": 10978,
+      "upvote_count": 169,
+      "is_public": true
+    },
+    "relative_index": 34
+  },
+  {
+    "clip": {
+      "id": "6df2b6d5-266d-4125-b57f-f7951ec570be",
+      "video_url": "https://cdn1.suno.ai/6df2b6d5-266d-4125-b57f-f7951ec570be.mp4",
+      "audio_url": "https://cdn1.suno.ai/6df2b6d5-266d-4125-b57f-f7951ec570be.mp3",
+      "image_url": "https://cdn1.suno.ai/image_00a9c10c-7a25-4807-95b7-73ffc431ed8a.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_00a9c10c-7a25-4807-95b7-73ffc431ed8a.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "8-bit game soundtrack, magical, folk, enchanting",
+        "prompt": "\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "8200f16a-ade8-4918-bb6d-0f00fcc0a07d",
+            "continue_at": 118.4
+          },
+          {
+            "id": "00a9c10c-7a25-4807-95b7-73ffc431ed8a",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 132.63997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4555cf7c-20f9-4604-b894-cf39c5460a34",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T09:45:19.188Z",
+      "status": "complete",
+      "title": "Magic lands (8-bit game)",
+      "play_count": 13658,
+      "upvote_count": 174,
+      "is_public": true
+    },
+    "relative_index": 35
+  },
+  {
+    "clip": {
+      "id": "98460cc9-7984-49e0-9fad-dd48e8be2202",
+      "video_url": "https://cdn1.suno.ai/98460cc9-7984-49e0-9fad-dd48e8be2202.mp4",
+      "audio_url": "https://cdn1.suno.ai/98460cc9-7984-49e0-9fad-dd48e8be2202.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8a137184-80a1-4847-bc4c-8cd2708f4e5e.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8a137184-80a1-4847-bc4c-8cd2708f4e5e.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "emotional, slow build, progressive, techno, Female, industrial, Melodic, whisper, cyberpunk, synths, japanese, jpop",
+        "prompt": "[whisper]\nDo you like me?\nDo You need Me?\nAm I useful?\n\nなぜでしょうか。\n\n[Verse]\nIn a city of chaos, I'm searching for pain\nThe neon lights flicker, drowning in rain (rain)\ndeep in the alleys, wires entangle\nI'm lost in the code, lost in the future\n\n[Verse 2]\n暗闇の奥深くで、グリッチが発生します\n都市は腐敗し、暗い秘密は変装(変装)\n支配権をめぐって戦うサイバネティック・ソルジャー\n機械に魂が宿るこのデジタル戦場で\n\n[Chorus]\nWelcome to the cyberpunk revolution (ooh-yeah)\nWhere the lines between reality and illusion are blurred (blurred)\nIn a neon-lit city of shattered dreams (oh-oh-oh)\n私たちは生き残るために戦い、現実のものを探し求めます\n\nWe fight to survive, Living for the next day\nWe fight to survive, Searching for a person \nWe fight to survive, striving to succeed\n\ncyberpunk revolution!\n\n[Verse 3]\nIn a city of Lights, I'm searching for myself\nThe streets provide shelter, im feeling the rain\nIm lost in the code, the virus takes over\nI'm lost in the code, the future Is distorted\n\n[Verse 3]\n光の街で、自分探しをしている\n通りは雨を感じている避難所を提供します\nコードで迷子になったら、ウイルスが引き継いでくれます\n歌詞の意味: 私はコードで迷子だ、未来は歪んでいる\n\nCyberpunk Revolution!\n\n We fight to survive, We Fight to Believe\n\ncyberpunk revolution!\n\n[Verse 3]\nIn a city of Lights, I'm searching for myself\nThe streets provide shelter, im feeling the rain\nIm lost in the code, the virus takes over\nI'm lost in the code, the future Is distorted\n\n[Verse 3]\n光の街で、自分探しをしている\n通りは雨を感じている避難所を提供します\nコードで迷子になったら、ウイルスが引き継いでくれます\n歌詞の意味: 私はコードで迷子だ、未来は歪んでいる\n\nCyberpunk Revolution!\n\ncyberpunk revolution!\n\n[Verse 3]\nIn a city of Lights, I'm searching for myself\nThe streets provide shelter, im feeling the rain\nIm lost in the code, the virus takes over\nI'm lost in the code, the future Is distorted\n\n[Verse 4]\n光の街で、自分探しをしている\n通りは雨を感じている避難所を提供します\nコードで迷子になったら、ウイルスが引き継いでくれます\n歌詞の意味: 私はコードで迷子だ、未来は歪んでいる\n\nCyberpunk Revolution!\n\n[Chorus 2]\nWelcome to the cyberpunk revolution (ooh-yeah)\nWhere the lines between reality and illusion are blurred (blurred)\nIn a neon-lit city of shattered dreams (oh-oh-oh)\n私たちは生き残るために戦い、現実のものを探し求めます\n\nWe fight to survive, Living for the next day\nWe fight to survive, Searching for a person \nWe fight to survive, We Fight to Believe\n\ncyberpunk revolution!\n\n\n[Verse 4]\n光の街で、自分探しをしている\n通りは雨を感じている避難所を提供します\nコードで迷子になったら、ウイルスが引き継いでくれます\n歌詞の意味: 私はコードで迷子だ、未来は歪んでいる\n\n[Chorus 2]\nWelcome to the cyberpunk revolution (ooh-yeah)\nWhere the lines between reality and illusion are blurred (blurred)\nIn a neon-lit city of shattered dreams (oh-oh-oh)\n私たちは生き残るために戦い、現実のものを探し求めます\n\nWe fight to survive, Living for the next day\nWe fight to survive, Searching for a person \nWe fight to survive, We Fight to Believe\n\ncyberpunk revolution!\n\n[verse 5]\n\n無に生まれ変わる、鋼鉄の体\n\n生き延びるために戦い、次の日のために生きる\n私たちは生き残るために戦い、人を探しています\n私たちは生き残るために戦い、信じるために戦います\n\nWe fight to survive, We Fight to Believe\n\n\n[verse 5]\n\n無に生まれ変わる、鋼鉄の体\n\n生き延びるために戦い、次の日のために生きる\n私たちは生き残るために戦い、人を探しています\n私たちは生き残るために戦い、信じるために戦います\n\nWe fight to survive, We Fight to Believe\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d81ea61c-1b1a-4e7e-a5e2-777176b8e19b",
+            "continue_at": 214.99997916666666
+          },
+          {
+            "id": "8a137184-80a1-4847-bc4c-8cd2708f4e5e",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 269.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "1287ba7c-a31a-4587-b72f-40b432eb5210",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T14:08:27.489Z",
+      "status": "complete",
+      "title": "Cyberpunk Revolution",
+      "play_count": 6021,
+      "upvote_count": 117,
+      "is_public": true
+    },
+    "relative_index": 36
+  },
+  {
+    "clip": {
+      "id": "5b0ec0ca-6063-4a21-95b9-1433c35a3ded",
+      "video_url": "https://cdn1.suno.ai/5b0ec0ca-6063-4a21-95b9-1433c35a3ded.mp4",
+      "audio_url": "https://cdn1.suno.ai/5b0ec0ca-6063-4a21-95b9-1433c35a3ded.mp3",
+      "image_url": "https://cdn1.suno.ai/image_0d0d79c2-f2c8-4417-9b74-41b656dec51d.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_0d0d79c2-f2c8-4417-9b74-41b656dec51d.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "808 On the 1, \n70's Deep Psychedelic Soul, \nP-Funkwave, \n70's R&B, \nLo-fi Classic Soft Rock  ",
+        "prompt": "(Verse 1)\nI'm feeling low, yeah, life's been rough\nBut I ain't one to stay down in the dust\nI'll wipe my tears and lift my chin up high\nGonna funk it out, no need to ask why\n\n(Pre-Chorus)\nIn this funky rhythm, I'll find my way\nThrowing all my worries, I'll just let it sway\n\n(Chorus)\nCry two tears in a bucket, funk it!\nGonna dance like there's no one watching, don't quit\nWhen life gets tough, gotta groove and sway\nCry two tears, funk it, let the music play\n\n(Verse 2)\nI've been knocked down, but I won't stay there\nGonna put on my dancing shoes and let down my hair\nWith a bassline pumping through my veins\nThe funk will heal my soul and ease the pain\n\n(Pre-Chorus)\nIn this funky rhythm, I'll find my way\nThrowing all my worries, I'll just let it sway\n\n(Chorus)\nCry two tears in a bucket, funk it!\nGonna dance like there's no one watching, don't quit\nWhen life gets tough, gotta groove and sway\nCry two tears, funk it, let the music play\n\n(Bridge)\nNow let the horns blow and the drums kick in\nGonna let the groove take over, gonna win\nWith every step, I'll leave my troubles behind\nFunk it out and peace of mind, I'll find\n\n(Chorus)\nCry two tears in a bucket, funk it!\nGonna dance like there's no one watching, don't quit\nWhen life gets tough, got\n\n(Chorus)\nCry two tears in a bucket, funk it!\nGonna dance like there's no one watching, don't quit\nWhen life gets tough, gotta groove and sway\nCry two tears, funk it, let the music play\n\n(Outro)\nSo when you're feeling down, just remember my plea\nCry two tears in a bucket, funk it, set your spirit free\nLet the rhythm guide you, let the funk be your spark\nCry two tears, funk it, and ignite the fire in your heart\n\nCry two tears, funk it, and ignite the fire in your heart",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "2e95ce7d-9b11-4aa4-987b-45c29d51179d",
+            "continue_at": 115
+          },
+          {
+            "id": "05787e88-76b2-49a0-b1ce-b5e2ca9db122",
+            "continue_at": 58.4
+          },
+          {
+            "id": "0d0d79c2-f2c8-4417-9b74-41b656dec51d",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 208.71997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "ed91e91e-86ca-48ad-8b07-9b1b9ef6d51a",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T00:18:12.584Z",
+      "status": "complete",
+      "title": "Cry two tears in a bucket, funk it!",
+      "play_count": 107625,
+      "upvote_count": 2744,
+      "is_public": true
+    },
+    "relative_index": 37
+  },
+  {
+    "clip": {
+      "id": "c5e1a62c-f65c-4bd7-807a-3e1c53aa28f5",
+      "video_url": "https://cdn1.suno.ai/c5e1a62c-f65c-4bd7-807a-3e1c53aa28f5.mp4",
+      "audio_url": "https://cdn1.suno.ai/c5e1a62c-f65c-4bd7-807a-3e1c53aa28f5.mp3",
+      "image_url": "https://cdn1.suno.ai/image_4acffc1a-8fd3-45c3-b600-21ba397bb2f8.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_4acffc1a-8fd3-45c3-b600-21ba397bb2f8.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "Agressive punk, bass guitar, male vocal, dirty sound",
+        "prompt": "[Instrumental Intro]\n(Хой!)\n\n[Verse 1]\nГорят фонари\nЯ бы до зари с тобой мог говорить\nНо тебе снова пора\nКак всегда, какие-то дела с утра\n\n[Bridge]\nЕщё одна ночь в квартире пустой\nКакой отстой! Постой, а можно я с тобой?\n\n[Chorus]\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n\n[Verse 2]\nМог быть славный денёк\nНо звонок — тебе грозит срок за пару строк\nДа, тут так себе вайб\nВидимо, пора. Ну что ж, бывай, родны край!\n\n[Bridge]\nПо кустам ночной тропой\nДа, план отстой. Постой, а можно я с тобой?\n\n[Chorus]\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n\n[Verse 3]\nПрошло много лет\nТы уже старушка, а я вредный дед\nВсё давно позади\nНо зато есть вспомнить что и что обсудить\n\n[Bridge]\nЕсли решишь уйти на покой\nВдруг раньше, чем я — постой\n\n[Instrumental Ending]\n\n[Bridge]\nЕсли решишь уйти на покой\nВдруг раньше, чем я — постой\n\n[Chorus]\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n(С тобой, постой!)\nСтой, можно я с тобой?\n\n[Instrumental Ending]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "96d4c9f4-3d1e-4f92-9845-5d1f67d34a60",
+            "continue_at": 105
+          },
+          {
+            "id": "4acffc1a-8fd3-45c3-b600-21ba397bb2f8",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 162.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "235c47de-0bbe-45a3-bcc1-4a698abd1c9c",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T14:05:14.716Z",
+      "status": "complete",
+      "title": "Можно я с тобой (Punk Version)",
+      "play_count": 9642,
+      "upvote_count": 115,
+      "is_public": true
+    },
+    "relative_index": 38
+  },
+  {
+    "clip": {
+      "id": "ae460f37-9304-40b8-90a6-26e8e33d9add",
+      "video_url": "https://cdn1.suno.ai/ae460f37-9304-40b8-90a6-26e8e33d9add.mp4",
+      "audio_url": "https://cdn1.suno.ai/ae460f37-9304-40b8-90a6-26e8e33d9add.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8a7c974f-3acb-4aeb-9d9e-650db696c4de.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8a7c974f-3acb-4aeb-9d9e-650db696c4de.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "ribbit",
+        "prompt": "ribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit \nribbit ribbit ribbit ribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\n\nribbit ribbit\nribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\n\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit \nribbit ribbit ribbit ribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\n\nribbit ribbit\nribbit ribbit\n\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\n[Slow ribbit]\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\nribbit ribbit ribbit ribbit ribbit ribbit ribbit ribbit\n\n[End]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "93735bea-04be-452e-a9a6-fe120fd003b7",
+            "continue_at": 118.4
+          },
+          {
+            "id": "8a7c974f-3acb-4aeb-9d9e-650db696c4de",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 169.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f17236f8-271b-4e22-bb1f-ab8eac1eeb5f",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T03:14:09.191Z",
+      "status": "complete",
+      "title": "Ribbit",
+      "play_count": 18153,
+      "upvote_count": 272,
+      "is_public": true
+    },
+    "relative_index": 39
+  },
+  {
+    "clip": {
+      "id": "9cac81fd-96ae-4615-aaa1-7061ecaf072a",
+      "video_url": "https://cdn1.suno.ai/9cac81fd-96ae-4615-aaa1-7061ecaf072a.mp4",
+      "audio_url": "https://cdn1.suno.ai/9cac81fd-96ae-4615-aaa1-7061ecaf072a.mp3",
+      "image_url": "https://cdn1.suno.ai/image_3dc9de30-a5d3-4fff-b9d7-b05a68fd5270.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_3dc9de30-a5d3-4fff-b9d7-b05a68fd5270.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "drums, music played on a comb, clapping stomping, beatbox techno  punk ska ",
+        "prompt": "[intro]\nLet's dance, let's dance all night (let's dance all night)\nLet's dance, let's dance all night (let's dance all night)\nLet's dance, let's dance all night (let's dance all night)\n[Verse]\nTake my hand and set me in motion\nOn the dance floor because I want to\nThe music plays, hearts beat in rhythm\nLet these melodies move us\n\n[Chorus]\nLet's dance, let's dance all night (let's dance all night)\nLet the world stop for a moment (stop)\nLet's surrender to this rhythm (to this rhythm)\nLet's dance, let's dance like it's in heaven\n\n[Verse 2]\nThe light flickers on our faces\nVoices sing, they guide us\nOn the dance floor, feel free to move your foot\nLet this music carry us away once again\n\n[Chorus]\nLet's dance, let's dance all night (let's dance all night)\nLet the world stop for a moment (stop)\nLet's surrender to this rhythm (to this rhythm)\nLet's dance, let's dance like it's in heaven\n\n[solo beatbox metal drum]\n[outro]\nLet's dance, let's dance all night (let's dance all night)\nLet's dance, let's dance all night (let's dance all night)\nLet's dance, let's dance all night (let's dance all night)\n\n[end] \n\n[end]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "39d42571-4f15-42b3-9fef-88210656a7ba",
+            "continue_at": 106
+          },
+          {
+            "id": "3dc9de30-a5d3-4fff-b9d7-b05a68fd5270",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 108.47997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "19625e89-56a4-40af-be1e-ca9794512436",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T20:17:09.841Z",
+      "status": "complete",
+      "title": "dance dance ",
+      "play_count": 5390,
+      "upvote_count": 62,
+      "is_public": true
+    },
+    "relative_index": 40
+  },
+  {
+    "clip": {
+      "id": "5f18b03e-1650-4488-8e23-665b9ea628c3",
+      "video_url": "https://cdn1.suno.ai/5f18b03e-1650-4488-8e23-665b9ea628c3.mp4",
+      "audio_url": "https://cdn1.suno.ai/5f18b03e-1650-4488-8e23-665b9ea628c3.mp3",
+      "image_url": "https://cdn1.suno.ai/image_8c22a035-4f76-40d1-876c-379f2de1a38a.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_8c22a035-4f76-40d1-876c-379f2de1a38a.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "2 Number 9's, a number 9 large, number 6 with extra dip, number 7, 2 number 45's, one with cheese, and a large soda",
+        "prompt": "[intro]\nooooooohhhh\nahhhhhhhh\n\n[Verse 1]\nLorem ipsum dolor sit amet,\nconsetetur sadipscing elitr,\nsed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,\nsed diam voluptua. \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 2]\nAt vero eos et accusam et justo duo\ndolores et ea rebum.\nStet clita kasd gubergren,\nno sea takimata sanctus est Lorem\nipsum dolor sit amet. \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 3]\nLorem ipsum dolor sit amet,\nconsetetur sadipscing elitr,\nsed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,\nsed diam voluptua.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 4]\nDuis autem vel eum iriure\ndolor in hendrerit in vulputate \nvelit esse molestie consequat, \nvel illum dolore eu feugiat nulla facilisis \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 5]\nat vero eros et accumsan et iusto \nodio dignissim qui blandit praesent luptatum \nzzril delenit augue duis dolore \nte feugait nulla facilisi.\n\n[Verse 4]\nDuis autem vel eum iriure\ndolor in hendrerit in vulputate \nvelit esse molestie consequat, \nvel illum dolore eu feugiat nulla facilisis \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 5]\nat vero eros et accumsan et iusto \nodio dignissim qui blandit praesent luptatum \nzzril delenit augue duis dolore \nte feugait nulla facilisi.\n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[Verse 6]\nLorem ipsum dolor sit amet, \nconsectetuer adipiscing elit, \nsed diam nonummy nibh euismod tincidunt \nut laoreet dolore magna aliquam erat volutpat.   \n\n[chorus]\nooooooohhhh\nahhhhhhhh\n\n[outro]\nooooooohhhh\nahhhhhhhh\n\nooooooohhhh\nahhhhhhhh\n\n[fade]\nooooooohhhh\nahhhhhhhh\n\n[end]\n\n[fade]\n[end]\n\n[end]\n[Silent]\n(Digital artwork, dark moody atmosphere)\n(Dramatic smoke and haze filling the frame, obscuring the background)\n(Prominent burger and french fries in the foreground, rendered in a stylized, almost surreal manner)\n(Vibrant, neon-like colors accentuating the burger and fries, creating a striking contrast against the dark, smoky environment)\n(Dystopian, cyberpunk-inspired aesthetic, hinting at themes of excess, indulgence, and the darker side of modern consumerism)",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d89a8abe-9645-49c0-9396-a1ac8bfc8b64",
+            "continue_at": 151.43997916666666
+          },
+          {
+            "id": "8c22a035-4f76-40d1-876c-379f2de1a38a",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 154.83997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "f3326543-afac-481f-81c8-a7ac3c3c04f3",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T10:37:22.942Z",
+      "status": "complete",
+      "title": "And a Large Soda",
+      "play_count": 17532,
+      "upvote_count": 137,
+      "is_public": true
+    },
+    "relative_index": 41
+  },
+  {
+    "clip": {
+      "id": "48c47ff6-d2e5-4f62-a60a-650fe4e2d65e",
+      "video_url": "https://cdn1.suno.ai/48c47ff6-d2e5-4f62-a60a-650fe4e2d65e.mp4",
+      "audio_url": "https://cdn1.suno.ai/48c47ff6-d2e5-4f62-a60a-650fe4e2d65e.mp3",
+      "image_url": "https://cdn1.suno.ai/image_b4a3ea50-7e11-4cfa-8518-be27c6a9dbd9.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_b4a3ea50-7e11-4cfa-8518-be27c6a9dbd9.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "electro swing, jazz",
+        "prompt": "[Instrumental]\n\n[Verse 1]\nYou're my friend\nGuilty but you can tell me\nAnything, let me hear\nAll of your sorry fears\n\n[Chorus]\nLet the stars shine on your tears\nThere's nobody else here\nYou don't really expect me to believe\nHe just stepped from the verge into your headlights\nHeadlights\nHe just stepped from the road into your headlights\nHeadlights\n\n[Instrumental]\n\n[Verse 2]\nLying is wrong\nGet your keys, turn it right on\nWe'rе gonna drive back\nYou're not as lonely as that\n\n[Chorus]\n\n[Instrumental]\n\n\n[Instrumental]\n\n[Verse 2]\nYou know that lying is wrong\nGet your keys, turn the car back on\nWe'rе gonna drive back\nAnd see what came of that\n\n[Chorus]\nLet the stars shine on your tears\nThere's nobody else here\nYou don't really expect me to believe\nHe just stepped from the verge into your headlights\nHeadlights\nHe just stepped from the road into your headlights\nHeadlights\n\n[Instrumental]\n\n[end]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d4b5a1ba-1b76-4bdf-b08b-58d1b11b7858",
+            "continue_at": 36
+          },
+          {
+            "id": "b4a3ea50-7e11-4cfa-8518-be27c6a9dbd9",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 95.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "bef38e69-f6dd-472a-939c-b47406ebbc23",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T20:10:52.248Z",
+      "status": "complete",
+      "title": "Headlights",
+      "play_count": 29243,
+      "upvote_count": 420,
+      "is_public": true
+    },
+    "relative_index": 42
+  },
+  {
+    "clip": {
+      "id": "89ef6c1d-bd52-41d8-9dea-2799d012ab61",
+      "video_url": "https://cdn1.suno.ai/89ef6c1d-bd52-41d8-9dea-2799d012ab61.mp4",
+      "audio_url": "https://cdn1.suno.ai/89ef6c1d-bd52-41d8-9dea-2799d012ab61.mp3",
+      "image_url": "https://cdn1.suno.ai/image_a22e7274-7450-4c94-a26e-fd4efcf27981.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_a22e7274-7450-4c94-a26e-fd4efcf27981.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "80s synthé ",
+        "prompt": "[Verse]\nI see the darkness in your eyes\nWithout you, I'm lost in a world of lies\nI need you here, baby, by my side\nTo light up my world, to give me back life\n\n[Verse 2]\nEvery day without you feels like a thousand years\nThe emptiness inside me, it won't disappear\nI'm drowning in these tears, I'm suffocating in fear\nBaby, please come back, let's make it all clear\n\n[Chorus]\nBring back your smile, light up the room\nWrap your love around me, make my heart resume\nDon't let this love fade away, let's reconcile\nBaby, please come back, I need your smile\n\n[Verse]\nI see you walking so down on your luck\nThe world's got you beat, you're feeling stuck\nBut baby, let me tell you it's ok\nJust remember the i'll guide your way\n\n(Bring Back your smile)\n(I need your laugh)",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "7de276cd-dff8-41dc-9718-03b8f2c1a929",
+            "continue_at": 120
+          },
+          {
+            "id": "a22e7274-7450-4c94-a26e-fd4efcf27981",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 179.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "5c7810b2-7bb6-459e-bea9-71509cd77939",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T14:56:20.843Z",
+      "status": "complete",
+      "title": "Bring Back Your Smile",
+      "play_count": 37239,
+      "upvote_count": 651,
+      "is_public": true
+    },
+    "relative_index": 43
+  },
+  {
+    "clip": {
+      "id": "649e54cb-78d5-4375-99a0-e46e96d53beb",
+      "video_url": "https://cdn1.suno.ai/649e54cb-78d5-4375-99a0-e46e96d53beb.mp4",
+      "audio_url": "https://cdn1.suno.ai/649e54cb-78d5-4375-99a0-e46e96d53beb.mp3",
+      "image_url": "https://cdn1.suno.ai/image_3130fbea-c8bb-4e16-b315-e208cbf2dfeb.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_3130fbea-c8bb-4e16-b315-e208cbf2dfeb.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "trumpet solo with delay, indie experimental electronic-folk, passionate male vocal",
+        "prompt": "[Instrumental intro]\n\nLove! Like Blood!\n\nRuns through\nRuns in between\n\nmy lungs! that sing\none verse to the king!\n\nWorthy is the Lamb\nThat was Slain\nto receive power\nriches\nwisdom\nStrength\nhonor\nglory\nand\nBlessing\n\nBlessing, and honor, and glory, and power, be unto him that sits upon the throne, and unto the Lamb\n\n\nBlessing, and honor, and glory, and power, be unto him that sits upon the throne, and unto the Lamb\n\n[interlude]\n\nBlessing, and honor, and glory, and power, be unto him that sits upon the throne, and unto the Lamb\n\nForever\n(and ever).\n\n[outro]\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "334c8477-35ee-4925-9934-1b4e3befb141",
+            "continue_at": 120
+          },
+          {
+            "id": "3130fbea-c8bb-4e16-b315-e208cbf2dfeb",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 174.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "72c99686-2ae9-4d49-9c79-7b13ab66e586",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T14:49:40.481Z",
+      "status": "complete",
+      "title": "Revelation 5",
+      "play_count": 9163,
+      "upvote_count": 89,
+      "is_public": true
+    },
+    "relative_index": 44
+  },
+  {
+    "clip": {
+      "id": "d1fa967b-5599-4e80-b593-4dbdeb507e75",
+      "video_url": "https://cdn1.suno.ai/d1fa967b-5599-4e80-b593-4dbdeb507e75.mp4",
+      "audio_url": "https://cdn1.suno.ai/d1fa967b-5599-4e80-b593-4dbdeb507e75.mp3",
+      "image_url": "https://cdn1.suno.ai/image_6e07c0a0-4b35-46be-a1e0-5294adb6dc64.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_6e07c0a0-4b35-46be-a1e0-5294adb6dc64.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "brostep, electro swing, sampled",
+        "prompt": "\n\n[finish]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "9de0ea82-5d12-4214-9677-b746ef9c7511",
+            "continue_at": 118.4
+          },
+          {
+            "id": "6e07c0a0-4b35-46be-a1e0-5294adb6dc64",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 125.95997916666667,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "b2aa6103-1e5a-409e-8ce0-eb115d7d3621",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T20:52:38.983Z",
+      "status": "complete",
+      "title": "SwingStepMan",
+      "play_count": 17432,
+      "upvote_count": 369,
+      "is_public": true
+    },
+    "relative_index": 45
+  },
+  {
+    "clip": {
+      "id": "eb8b10b5-b548-4171-931e-b398bc26e0d3",
+      "video_url": "https://cdn1.suno.ai/eb8b10b5-b548-4171-931e-b398bc26e0d3.mp4",
+      "audio_url": "https://cdn1.suno.ai/eb8b10b5-b548-4171-931e-b398bc26e0d3.mp3",
+      "image_url": "https://cdn1.suno.ai/image_5e7717fe-bc3c-4148-843d-0863e0c2cd39.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_5e7717fe-bc3c-4148-843d-0863e0c2cd39.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "electro, fast, female voice, german language",
+        "prompt": "[Verse 1]\nGrundgesetz für die Bundesrepublik Deutschland\n\n[Verse 2]\nArtikel 1 \n1. Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.\n2. Das Deutsche Volk bekennt sich darum zu unverletzlichen und unveräußerlichen Menschenrechten als Grundlage jeder menschlichen Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.\n3. Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.\n\n[Verse 3]\nArtikel 2 \n1. Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.\n2. Jeder hat das Recht auf Leben und körperliche Unversehrtheit. Die Freiheit der Person ist unverletzlich. In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.\n\n[Verse 4]\nArtikel 3 \n1. Alle Menschen sind vor dem Gesetz gleich.\n2. Männer und Frauen sind gleichberechtigt. Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern und wirkt auf die Beseitigung bestehender Nachteile hin.\n3. Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seine\n\nSprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.\n\n[Verse 5]\nArtikel 4 \n1. Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.\n2. Die ungestörte Religionsausübung wird gewährleistet.\n3. Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.\n\n[Verse 6]\nArtikel 5 \n1. Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. Eine Zensur findet nicht statt.\n2. Diese Rechte finden ihre Schranken in den Vorschriften der allgemeinen Gesetze, den gesetzlichen Bestimmungen zum Schutze der Jugend und in dem Recht der persönlichen Ehre.\n3. Kunst und Wissenschaft, Forschung und Lehre sind frei. Die Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.\n\n\n[Verse 7]\nArtikel 6 \n1. Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung.\n2. Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre Betätigung wacht die staatliche Gemeinschaft.\n3. Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf Grund eines Gesetzes von der Familie getrennt werden, wenn die Erziehungsberechtigten versagen oder wenn die Kinder aus anderen Gründen zu verwahrlosen drohen.\n4. Jede Mutter hat Anspruch auf den Schutz und die Fürsorge der Gemeinschaft.\n5. Den unehelichen Kindern sind durch die Gesetzgebung die gleichen Bedingungen für ihre leibliche und seelische Entwicklung und ihre Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.\n\n[Chorus]\nGrundgesetz für die Bundesrepublik Deutschland\n\n\n\n[Verse 8]\nArtikel 7 \n1. Das gesamte Schulwesen steht unter der Aufsicht des Staates.\n2. Die Erziehungsberechtigten haben das Recht, über die Teilnahme des Kindes am Religionsunterricht zu bestimmen.\n3. Der Religionsunterricht ist in den öffentlichen Schulen mit Ausnahme der bekenntnisfreien Schulen ordentliches Lehrfach. Unbeschadet des staatlichen Aufsichtsrechtes wird der Religionsunterricht in Übereinstimmung mit den Grundsätzen der Religionsgemeinschaften erteilt. Kein Lehrer darf gegen seinen Willen verpflichtet werden, Religionsunterricht zu erteilen.\n\n\n\n4. Das Recht zur Errichtung von privaten Schulen wird gewährleistet. Private Schulen als Ersatz für öffentliche Schulen bedürfen der Genehmigung des Staates und unterstehen den Landesgesetzen. Die Genehmigung ist zu erteilen, wenn die privaten Schulen in ihren Lehrzielen und Einrichtungen sowie in der wissenschaftlichen Ausbildung ihrer Lehrkräfte nicht hinter den öffentlichen Schulen zurückstehen und eine Sonderung der Schüler nach den Besitzverhältnissen der Eltern nicht gefördert wird. \n\nDie Genehmigung ist zu versagen, wenn die wirtschaftliche und rechtliche Stellung der Lehrkräfte nicht genügend gesichert ist.\n5. Eine private Volksschule ist nur zuzulassen, wenn die Unterrichtsverwaltung ein besonderes pädagogisches Interesse anerkennt oder, auf Antrag von Erziehungsberechtigten, wenn sie als Gemeinschaftsschule, als Bekenntnis- oder Weltanschauungsschule errichtet werden soll und eine öffentliche Volksschule dieser Art in der Gemeinde nicht besteht.\n6. Vorschulen bleiben aufgehoben.\n\n[Verse 9]\nArtikel 8 \n1. Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln.\n2. Für Versammlungen unter freiem Himmel kann dieses Recht durch Gesetz oder auf Grund eines Gesetzes beschränkt werden.\n\n[Outro]",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "1a0751c7-29aa-402b-8cb4-d0c428b4c83a",
+            "continue_at": 111.2
+          },
+          {
+            "id": "03bb9551-b426-48ec-91b7-a6ef71b3f743",
+            "continue_at": 57.24
+          },
+          {
+            "id": "164244f1-b644-47aa-a131-25595a7b376f",
+            "continue_at": 58.4
+          },
+          {
+            "id": "49802244-679b-4ed3-bb97-388b4c5662ea",
+            "continue_at": 58.4
+          },
+          {
+            "id": "e3b9e0ab-f464-48e9-b5b6-9e8004228f71",
+            "continue_at": 58.4
+          },
+          {
+            "id": "69a8459f-0fc3-4aa6-8e28-395d5ee7398c",
+            "continue_at": 33
+          },
+          {
+            "id": "50ed6fa4-6d85-416f-9fae-8b255fed41ca",
+            "continue_at": 58.4
+          },
+          {
+            "id": "5e7717fe-bc3c-4148-843d-0863e0c2cd39",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 484.95997916666664,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "680911e2-9ff8-4523-babc-ae5b5af1234d",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T19:35:27.823Z",
+      "status": "complete",
+      "title": "Grundgesetz für die Bundesrepublik Deutschland",
+      "play_count": 21348,
+      "upvote_count": 412,
+      "is_public": true
+    },
+    "relative_index": 46
+  },
+  {
+    "clip": {
+      "id": "54a32416-b3e0-4a16-90e8-d6ea7d2b1f19",
+      "video_url": "https://cdn1.suno.ai/54a32416-b3e0-4a16-90e8-d6ea7d2b1f19.mp4",
+      "audio_url": "https://cdn1.suno.ai/54a32416-b3e0-4a16-90e8-d6ea7d2b1f19.mp3",
+      "image_url": "https://cdn1.suno.ai/image_b35aec80-7049-4fac-af9e-bf8f64b9d833.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_b35aec80-7049-4fac-af9e-bf8f64b9d833.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "dream pop song, space rock, atmosphere and sonic texture, melancholic, indie rock, synthesizers, Shoegaze,Tremolo,",
+        "prompt": "[Verse 1]\nEyes like oceans, depths unknown,\nA smile that lights up, like morning's dawn.\nHeart of gold, with scars unseen,\nIn every step, a story between.\nHands that hold, with gentle grace,\nIn every touch, a familiar embrace.\nVoice that soothes, like a summer breeze,\nIn every word, a soul at ease.\n\n[Chorus]\nYou're the sun in my sky, the stars at night,\nGuiding me through darkness, into the light.\nIn your presence, I find my home,\nIn your love, I'll never roam.\n\n[Instrumental Interlude]\n\n[Verse 3]\nMind that wanders, curious and free,\nIn every thought, a world to see.\nDreamer's heart, with hopes so high,\nIn every dream, a piece of the sky.\n\n[Chorus]\nYou're the sun in my sky, the stars at night,\nGuiding me through darkness, into the light.\nIn your presence, I find my home,\nIn your love, I'll never roam.\n\n[Outro]\nWith you by my side, I'll always be,\nIn your love, I've found the key.\nTo happiness, to peace, to everything,\nWith you, my heart will always sing.\n\n[Intrumental Bridge]\n\n[Chorus]\nYou're the sun in my sky, the stars at night,\nGuiding me through darkness, into the light.\nIn your presence, I find my home,\nIn your love, I'll never roam.\n\n[Chorus]\nYou're the sun in my sky, the stars at night,\nGuiding me through darkness, into the light.\nIn your presence, I find my home,\nIn your love, I'll never roam.\n\n[Outro]\nWith you by my side, I'll always be,\nIn your love, I've found the key.\nTo happiness, to peace, to everything,\n\n[Instrumental Outro]\n\n\n\n[Chorus]\nYou're the sun in my sky, the stars at night,\nGuiding me through darkness, into the light.\nIn your presence, I find my home,\nIn your love, I'll never roam.\n\n[Outro]\nWith you by my side, I'll always be,\nWith you by my side, I've found my way.\nWith you by my side, I'll always be,\nWith you by my side, I've found my way.\n\n[Instrumental Outro]\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "be5d9aa6-718b-429c-8a61-516f666461fd",
+            "continue_at": 163
+          },
+          {
+            "id": "b35aec80-7049-4fac-af9e-bf8f64b9d833",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 219.91997916666668,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "2e7435d5-fd7a-410c-8be3-dd8816c2abbb",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-08T18:39:31.927Z",
+      "status": "complete",
+      "title": "In Your Presence",
+      "play_count": 25658,
+      "upvote_count": 434,
+      "is_public": true
+    },
+    "relative_index": 47
+  },
+  {
+    "clip": {
+      "id": "770dd609-d400-476a-b3ec-1109ddf3cbea",
+      "video_url": "https://cdn1.suno.ai/770dd609-d400-476a-b3ec-1109ddf3cbea.mp4",
+      "audio_url": "https://cdn1.suno.ai/770dd609-d400-476a-b3ec-1109ddf3cbea.mp3",
+      "image_url": "https://cdn1.suno.ai/image_a72448ed-0bc0-46e8-b54d-cb10c896fd76.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_a72448ed-0bc0-46e8-b54d-cb10c896fd76.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "alternative metal style that draws inspiration from \"bring me the horizon\" and \"linking park\"",
+        "prompt": "[Verse]\nWakin’ up in the morning, feeling so low\nWhy do I feel like I got no place to go?\nEverything seems dull, colors fade to gray\nI’m searching for a spark to light my way (oh-oh)\n\n[Verse 2]\nLost in this haze, I can’t seem to break free\nTrapped in this bubble of a life I don’t wanna be\nBut deep down inside, there’s a fire ready to ignite\nGonna break these chains and take flight (oh-oh)\n\n[Chorus]\nGotta find the passion, gotta find the drive\nPour gasoline on this flame inside\nI won’t let apathy hold me down no more\nGonna rise up, gonna soar (oh-oh)\n\n\n[Chorus]\nGotta find the passion, gotta find the drive\nPour gasoline on this flame inside\nI won’t let apathy hold me down no more\nGonna rise up, gonna soar (oh-oh)\n\n[Verse]\nThere's a fire burning deep within my soul\nBut I've been holding back, afraid to lose control (oh-oh)\nNow I realize, I can't let fear define me\nGotta break free from these chains that bind me\n\n[Verse 2]\nI've been living in the shadows for too long\nPlaying it safe, afraid to sing my own song (oh-oh)\nBut I won't let doubt hold me back anymore\nI'm gonna spread my wings and soar\n\n[Chorus]\nGotta find the passion, gotta find the drive\nPour gasoline on this flame inside\nI won't let apathy hold me down no more\nGonna rise up, gonna soar (oh-oh)\n\n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "dbfad8a9-eaf9-45e9-ab04-f3549e0cb8ff",
+            "continue_at": 79.2
+          },
+          {
+            "id": "63aca2c4-d9e7-4f31-b4d2-d28f7d69a53b",
+            "continue_at": 58.4
+          },
+          {
+            "id": "091df90e-9c71-4ace-903f-0b54559acfe3",
+            "continue_at": 58.4
+          },
+          {
+            "id": "a72448ed-0bc0-46e8-b54d-cb10c896fd76",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 204.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "4c528ec7-2033-4d9c-80f2-d156fbd415a8",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T01:00:27.381Z",
+      "status": "complete",
+      "title": "Ignite the Fire [Youtube:DarkMusicye]",
+      "play_count": 16222,
+      "upvote_count": 255,
+      "is_public": true
+    },
+    "relative_index": 48
+  },
+  {
+    "clip": {
+      "id": "b89851f8-ee2f-46ce-933e-2e022170ceac",
+      "video_url": "https://cdn1.suno.ai/b89851f8-ee2f-46ce-933e-2e022170ceac.mp4",
+      "audio_url": "https://cdn1.suno.ai/b89851f8-ee2f-46ce-933e-2e022170ceac.mp3",
+      "image_url": "https://cdn1.suno.ai/image_5ccc9544-ac48-49d9-8ca7-b7257bd9a642.png",
+      "image_large_url": "https://cdn1.suno.ai/image_large_5ccc9544-ac48-49d9-8ca7-b7257bd9a642.png",
+      "is_video_pending": false,
+      "major_model_version": "v3",
+      "model_name": "chirp-v3",
+      "metadata": {
+        "tags": "140BMP  Dubstep Melodic Vocals",
+        "prompt": "[Verse]\nIt's been five years since you left my side\nTen years since we first met, oh how time flies\nI can't believe you're gone, no longer here\nBut you were the only one who loved me, that is clear\n\n[Verse 2]\nEvery day I miss your smile, your laughter in the air\nYou brought joy to my life, a love beyond compare\nThough you're not here with me, I'll keep you in my heart\nAnd I know one day we'll meet again, never to be apart\n\n[Chorus]\nI'll see you again, in a place beyond the skies (oh-oh-oh)\nWhere love never fades, and tears are wiped from our eyes\nI'll hold you once more, in an embrace so tight\nUntil then, I'll cherish the memories, day and night\n\nIt's been five years since you left my side\n\nI'll see you again, in a place beyond the skies \n\nUntil then, I'll cherish the memories, day and night\n\nSee you again \nSee you again \n\n\n\nSee you again \n",
+        "gpt_description_prompt": null,
+        "audio_prompt_id": null,
+        "history": null,
+        "concat_history": [
+          {
+            "id": "d06f3270-069f-4ca6-9fa9-4e68120c309d",
+            "continue_at": 141
+          },
+          {
+            "id": "dfb26e5f-84bb-4310-af79-b8e9517cbfca",
+            "continue_at": 40
+          },
+          {
+            "id": "5ccc9544-ac48-49d9-8ca7-b7257bd9a642",
+            "continue_at": null
+          }
+        ],
+        "type": "concat",
+        "duration": 194.99997916666666,
+        "refund_credits": null,
+        "stream": null,
+        "error_type": null,
+        "error_message": null
+      },
+      "is_liked": false,
+      "user_id": "b64d13f4-1458-46be-a264-fdb17330d57b",
+      "display_name": null,
+      "is_trashed": false,
+      "reaction": null,
+      "created_at": "2024-04-09T00:32:01.197Z",
+      "status": "complete",
+      "title": "See You Again",
+      "play_count": 22363,
+      "upvote_count": 245,
+      "is_public": true
+    },
+    "relative_index": 49
+  },
+  {
+    "clip": {
       "id": "5b0ec0ca-6063-4a21-95b9-1433c35a3ded",
       "video_url": "https://cdn1.suno.ai/5b0ec0ca-6063-4a21-95b9-1433c35a3ded.mp4",
       "audio_url": "https://cdn1.suno.ai/5b0ec0ca-6063-4a21-95b9-1433c35a3ded.mp3",
