@@ -65,18 +65,12 @@ export default function Footer({}: Props) {
         </div>
         <div className="flex flex-col gap-3">
           <p className="font-bold">Resources</p>
-          <Link
-            href="https://www.suno.ai/"
+          <a
+            href="https://cartoongen.com"
             className="transition-colors duration-200 hover:text-blue-500"
           >
-            Suno
-          </Link>
-          <Link
-            href="https://openai.com/"
-            className="transition-colors duration-200 hover:text-blue-500"
-          >
-            OpenAI
-          </Link>
+            AI Cartoon Generator
+          </a>
         </div>
       </div>
     </footer>
